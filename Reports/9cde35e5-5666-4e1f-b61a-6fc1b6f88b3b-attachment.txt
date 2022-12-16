@@ -1,0 +1,18 @@
+data is test_LeaveManagement_002
+split ['test', 'LeaveManagement', '002']
+reverse None
+dd 1 LeaveManagement
+dd 0 002
+search is LeaveManagement_002
+3
+The data is TC_LeaveManagement_002
+
+j value is 0
+length 22
+i value is 1
+j value is 0
+length 22
+i value is 2
+is selected
+3
+The data is TC_LeaveManagement_002

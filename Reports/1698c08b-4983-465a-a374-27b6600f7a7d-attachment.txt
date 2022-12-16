@@ -1,0 +1,11 @@
+data is test_LeaveManagement_032
+split ['test', 'LeaveManagement', '032']
+reverse None
+dd 1 LeaveManagement
+dd 0 032
+search is LeaveManagement_032
+33
+The data is TC_LeaveManagement_032
+path is D:\PycharmProjects\HR_Portal
+33
+The data is TC_LeaveManagement_032

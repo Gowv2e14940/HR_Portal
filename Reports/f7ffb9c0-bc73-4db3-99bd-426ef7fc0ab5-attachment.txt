@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_Leavemanagement.py:418 Validating Test case 31
+[32mINFO    [0m root:test_Leavemanagement.py:419 Supervisor View Team Leave Details Compoff Leave

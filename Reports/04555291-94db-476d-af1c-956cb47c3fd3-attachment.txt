@@ -1,0 +1,3 @@
+[32mINFO    [0m root:test_Leavemanagement.py:447 Validating Test case 33
+[32mINFO    [0m root:test_Leavemanagement.py:448 Supervisor View Team Leave Details WFH Details
+[32mINFO    [0m root:Supervisor.py:237 wait until Request Leave clicks

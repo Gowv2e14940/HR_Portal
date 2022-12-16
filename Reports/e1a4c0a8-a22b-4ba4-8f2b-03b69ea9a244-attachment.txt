@@ -1,0 +1,23 @@
+data is test_LeaveManagement_033
+split ['test', 'LeaveManagement', '033']
+reverse None
+dd 1 LeaveManagement
+dd 0 033
+search is LeaveManagement_033
+34
+The data is TC_LeaveManagement_033
+path is D:\PycharmProjects\HR_Portal
+leave records are (11091, )
+leave is 11091
+leave records are (11093, )
+leave is 11093
+leave records are (11092, )
+leave is 11092
+leave records are (11094, )
+leave is 11094
+leave records are (11095, )
+leave is 11095
+34
+The data is TC_LeaveManagement_033
+mail_overall_execution  1 hr:-45 min
+data

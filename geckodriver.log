@@ -1,0 +1,64 @@
+1670408586737	geckodriver	INFO	Listening on 127.0.0.1:55861
+1670408589786	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55862" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GOWTHA~1.K\\AppData\\Local\\Temp\\rust_mozprofileiXw3qi"
+1670408608802	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GOWTHA~1.K\\AppData\\Local\\Temp\\rust_mozprofileiXw3qi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55862/devtools/browser/1d841593-ff84-44b5-a449-dee5e9e39c10
+1670408612011	Marionette	INFO	Listening on port 55897
+Read port: 55897
+1670408612096	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1670408697983	Marionette	INFO	Stopped listening on port 55897
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670408718369	geckodriver	INFO	Listening on 127.0.0.1:56054
+1670408721420	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56055" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GOWTHA~1.K\\AppData\\Local\\Temp\\rust_mozprofilePJoilM"
+1670408721815	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GOWTHA~1.K\\AppData\\Local\\Temp\\rust_mozprofilePJoilM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56055/devtools/browser/ac6ca9cf-1b7a-49b1-9292-38e49ad265ca
+1670408723704	Marionette	INFO	Listening on port 56074
+Read port: 56074
+1670408723795	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://172.17.1.12/hrportal/JS/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://172.17.1.12"
+JavaScript error: https://172.17.1.12/hrportal/HomeMenu.aspx, line 303: SyntaxError: expected expression, got '<'
+JavaScript error: https://172.17.1.12/hrportal/HomeMenu.aspx, line 280: TypeError: $(...).touchTouch is not a function
+JavaScript error: https://172.17.1.12/hrportal/js/sb-admin.js, line 72: ReferenceError: topOffset is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://172.17.1.12"
+JavaScript error: https://172.17.1.12/hrportal/LeaveDashboard.aspx, line 521: ReferenceError: LeaveChartDB is not defined
+JavaScript error: https://172.17.1.12/hrportal/LeaveDashboard.aspx, line 521: ReferenceError: LeaveChartDB is not defined
+JavaScript error: https://172.17.1.12/hrportal/js/sb-admin.js, line 72: ReferenceError: topOffset is not defined
+1670408768837	geckodriver	INFO	Listening on 127.0.0.1:56186
+1670408771878	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56187" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GOWTHA~1.K\\AppData\\Local\\Temp\\rust_mozprofileQloYVN"
+1670408772254	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GOWTHA~1.K\\AppData\\Local\\Temp\\rust_mozprofileQloYVN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56187/devtools/browser/881422f5-8acc-435e-96a9-b56d5c4739aa
+1670408774001	Marionette	INFO	Listening on port 56215
+Read port: 56215
+1670408774123	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://172.17.1.12/hrportal/JS/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://172.17.1.12"
+JavaScript error: https://172.17.1.12/hrportal/HomeMenu.aspx, line 303: SyntaxError: expected expression, got '<'
+JavaScript error: https://172.17.1.12/hrportal/HomeMenu.aspx, line 280: TypeError: $(...).touchTouch is not a function
+JavaScript error: https://172.17.1.12/hrportal/js/sb-admin.js, line 72: ReferenceError: topOffset is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://172.17.1.12"
+JavaScript error: https://172.17.1.12/hrportal/LeaveDashboard.aspx, line 521: ReferenceError: LeaveChartDB is not defined
+JavaScript error: https://172.17.1.12/hrportal/LeaveDashboard.aspx, line 521: ReferenceError: LeaveChartDB is not defined
+JavaScript error: https://172.17.1.12/hrportal/js/sb-admin.js, line 72: ReferenceError: topOffset is not defined
+1670408793899	Marionette	INFO	Stopped listening on port 56215
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1670409156450	geckodriver	INFO	Listening on 127.0.0.1:56881
+1670409159503	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56882" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GOWTHA~1.K\\AppData\\Local\\Temp\\rust_mozprofile0ROxJ2"
+1670409159887	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GOWTHA~1.K\\AppData\\Local\\Temp\\rust_mozprofile0ROxJ2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56882/devtools/browser/dddb6d01-10c6-4f84-87ad-05a0a20e62f1
+1670409161748	Marionette	INFO	Listening on port 56906
+Read port: 56906
+1670409161861	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://172.17.1.12/hrportal/JS/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://172.17.1.12"
+JavaScript error: https://172.17.1.12/hrportal/HomeMenu.aspx, line 303: SyntaxError: expected expression, got '<'
+JavaScript error: https://172.17.1.12/hrportal/HomeMenu.aspx, line 280: TypeError: $(...).touchTouch is not a function
+JavaScript error: https://172.17.1.12/hrportal/js/sb-admin.js, line 72: ReferenceError: topOffset is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://172.17.1.12"
+JavaScript error: https://172.17.1.12/hrportal/LeaveDashboard.aspx, line 521: ReferenceError: LeaveChartDB is not defined
+JavaScript error: https://172.17.1.12/hrportal/LeaveDashboard.aspx, line 521: ReferenceError: LeaveChartDB is not defined
+JavaScript error: https://172.17.1.12/hrportal/js/sb-admin.js, line 72: ReferenceError: topOffset is not defined

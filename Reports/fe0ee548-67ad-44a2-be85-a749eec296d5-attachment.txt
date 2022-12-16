@@ -1,0 +1,3 @@
+[32mINFO    [0m root:test_Leavemanagement.py:218 Validating Test case 14
+[32mINFO    [0m root:test_Leavemanagement.py:219 Supervisor Flexi Leave Approve
+[32mINFO    [0m root:Supervisor.py:36 Employee Leave Management Menu clicks

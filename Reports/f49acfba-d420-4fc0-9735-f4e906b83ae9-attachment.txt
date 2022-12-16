@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_Leavemanagement.py:161 Validating Test case 9
+[32mINFO    [0m root:test_Leavemanagement.py:162 Employee Flexi Leave Applied Validation

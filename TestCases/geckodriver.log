@@ -1,0 +1,43 @@
+1667144814254	geckodriver	INFO	Listening on 127.0.0.1:50725
+1667144817408	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50726" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GOWTHA~1.K\\AppData\\Local\\Temp\\rust_mozprofilevhSJ7O"
+1667144822902	Marionette	INFO	Marionette enabled
+1667144822914	Marionette	INFO	Listening on port 50735
+Read port: 50735
+WebDriver BiDi listening on ws://127.0.0.1:50726
+1667144823742	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GOWTHA~1.K\\AppData\\Local\\Temp\\rust_mozprofilevhSJ7O\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50726/devtools/browser/af7ad4e5-b3a8-46ec-a0aa-14e9278f67a0
+1667144902749	Marionette	INFO	Stopped listening on port 50735
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667144941436	geckodriver	INFO	Listening on 127.0.0.1:50913
+1667144944509	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50914" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GOWTHA~1.K\\AppData\\Local\\Temp\\rust_mozprofile08sDnw"
+1667144945891	Marionette	INFO	Marionette enabled
+1667144945896	Marionette	INFO	Listening on port 50923
+Read port: 50923
+WebDriver BiDi listening on ws://127.0.0.1:50914
+1667144946130	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GOWTHA~1.K\\AppData\\Local\\Temp\\rust_mozprofile08sDnw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50914/devtools/browser/11d0b9a3-bb9a-4469-b6de-5f625a1d0249
+1667145014674	geckodriver	INFO	Listening on 127.0.0.1:51126
+1667145017750	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51127" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GOWTHA~1.K\\AppData\\Local\\Temp\\rust_mozprofilegdT0d8"
+1667145018780	Marionette	INFO	Marionette enabled
+1667145018786	Marionette	INFO	Listening on port 51136
+Read port: 51136
+WebDriver BiDi listening on ws://127.0.0.1:51127
+1667145019025	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GOWTHA~1.K\\AppData\\Local\\Temp\\rust_mozprofilegdT0d8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51127/devtools/browser/a7f7b82b-b628-414d-8663-cf5ff9445b32
+1667145050602	Marionette	INFO	Stopped listening on port 51136
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 540, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  CrashMonitor: Writing notifications to file after receiving profile-before-change and awaiting all checkpoints written
+          Phase: IOUtils: waiting for profileBeforeChange IO to complete
+          State: {"profile-after-change":true,"final-ui-startup":true,"sessionstore-windows-restored":true,"quit-application-granted":true,"quit-application":true,"profile-change-net-teardown":true,"profile-change-teardown":true,"profile-before-change":true}
+WARNING: OperationError: Could not move temporary file(C:\Users\GOWTHA~1.K\AppData\Local\Temp\rust_mozprofilegdT0d8\sessionCheckpoints.json.tmp) to destination(C:\Users\GOWTHA~1.K\AppData\Local\Temp\rust_mozprofilegdT0d8\sessionCheckpoints.json)
+WARNING: observe@resource://gre/modules/AsyncShutdown.jsm:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: OperationError: Could not move temporary file(C:\Users\GOWTHA~1.K\AppData\Local\Temp\rust_mozprofilegdT0d8\sessionCheckpoints.json.tmp) to destination(C:\Users\GOWTHA~1.K\AppData\Local\Temp\rust_mozprofilegdT0d8\sessionCheckpoints.json)
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: OperationError: Could not move temporary file(C:\Users\GOWTHA~1.K\AppData\Local\Temp\rust_mozprofilegdT0d8\sessionCheckpoints.json.tmp) to destination(C:\Users\GOWTHA~1.K\AppData\Local\Temp\rust_mozprofilegdT0d8\sessionCheckpoints.json)

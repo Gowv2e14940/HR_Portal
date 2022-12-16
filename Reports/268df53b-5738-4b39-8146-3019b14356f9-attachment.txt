@@ -1,0 +1,3 @@
+[32mINFO    [0m root:test_Leavemanagement.py:207 Validating Test case 13
+[32mINFO    [0m root:test_Leavemanagement.py:208 Supervisor Earned Leave Approve
+[32mINFO    [0m root:Supervisor.py:36 Employee Leave Management Menu clicks

@@ -1,0 +1,9 @@
+[32mINFO    [0m root:Employee.py:31 Wait till profile click
+[32mINFO    [0m root:Employee.py:34 Wait till logout click
+[32mINFO    [0m root:test_Leavemanagement.py:193 Validating Test case 12
+[32mINFO    [0m root:test_Leavemanagement.py:196 Supervisor Casual Leave Approve
+[32mINFO    [0m root:Supervisor.py:22 Wait till login page appears
+[32mINFO    [0m root:Supervisor.py:24 Entering Supervisor credentials
+[32mINFO    [0m root:Employee.py:40 wait till login the application
+[32mINFO    [0m root:Supervisor.py:36 Employee Leave Management Menu clicks 
+[32mINFO    [0m root:Supervisor.py:39 wait until Approve Leave clicks

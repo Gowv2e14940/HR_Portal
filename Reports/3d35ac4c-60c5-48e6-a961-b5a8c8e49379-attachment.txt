@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_Leavemanagement.py:151 Validating Test case 8
+[32mINFO    [0m root:test_Leavemanagement.py:152 Employee Earned Leave Applied Validation

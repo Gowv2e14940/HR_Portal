@@ -1,0 +1,2973 @@
+10/17/2022 08:28:29 PM: INFO: Employee Leave Management Menu clicks 
+10/17/2022 08:29:18 PM: INFO: wait until Request Permission clicks
+10/17/2022 08:29:44 PM: INFO: wait until Request Permission form appears
+10/17/2022 08:29:44 PM: INFO: Request permission date clicks
+10/18/2022 10:59:46 AM: INFO: Employee Leave Management Menu clicks 
+10/18/2022 11:00:37 AM: INFO: wait until Request Permission clicks
+10/18/2022 11:01:02 AM: INFO: wait until Request Permission form appears
+10/18/2022 11:01:02 AM: INFO: Request permission date clicks
+10/18/2022 11:02:57 AM: INFO: Request permission date clicks
+10/18/2022 11:04:24 AM: INFO: Request permission date clicks
+10/18/2022 11:18:34 AM: INFO: Request permission date clicks
+10/18/2022 11:22:07 AM: INFO: Request permission date clicks
+10/18/2022 11:25:16 AM: INFO: Request permission date clicks
+10/18/2022 11:26:53 AM: INFO: Request permission date clicks
+10/18/2022 11:30:28 AM: INFO: Request permission date clicks
+10/18/2022 11:31:43 AM: INFO: Request permission date clicks
+10/18/2022 11:33:42 AM: INFO: Request permission date clicks
+10/18/2022 12:50:49 PM: INFO: Validating Test case 5
+10/18/2022 12:50:49 PM: INFO: Employee Login Validation
+10/18/2022 12:50:49 PM: INFO: Wait till login page appears
+10/18/2022 12:50:49 PM: INFO: Entering Employee credentials
+10/18/2022 12:51:03 PM: INFO: wait till login the application
+10/18/2022 12:51:03 PM: INFO: Request permission date clicks
+10/18/2022 12:51:53 PM: INFO: Validating Test case 5
+10/18/2022 12:51:53 PM: INFO: Employee Login Validation
+10/18/2022 12:51:53 PM: INFO: Wait till login page appears
+10/18/2022 12:51:53 PM: INFO: Entering Employee credentials
+10/18/2022 12:52:05 PM: INFO: wait till login the application
+10/18/2022 12:52:05 PM: INFO: Employee Leave Management Menu clicks 
+10/18/2022 12:52:25 PM: INFO: wait until Request Permission clicks
+10/18/2022 12:52:35 PM: INFO: wait until Request Permission form appears
+10/18/2022 12:52:35 PM: INFO: Request permission date clicks
+10/18/2022 08:28:43 PM: INFO: Validating Test case 4
+10/18/2022 08:28:43 PM: INFO: Employee Login Validation
+10/18/2022 08:28:43 PM: INFO: Wait till login page appears
+10/18/2022 08:28:43 PM: INFO: Entering Employee credentials
+10/18/2022 08:29:03 PM: INFO: wait till login the application
+10/18/2022 08:29:03 PM: INFO: Employee Leave Management Menu clicks 
+10/18/2022 08:29:31 PM: INFO: wait until Request Leave clicks
+10/18/2022 08:30:09 PM: INFO: wait until Request WFH form appears
+10/18/2022 08:30:09 PM: INFO: Request WFH From date clicks
+10/18/2022 08:30:09 PM: INFO: wait untill From date calendar appears
+10/18/2022 08:30:09 PM: INFO: select leave type casual
+10/18/2022 08:30:10 PM: INFO: wait untill To date calendar appears
+10/18/2022 08:30:10 PM: INFO: select leave type casual
+10/18/2022 08:37:33 PM: INFO: Validating Test case 2
+10/18/2022 08:37:33 PM: INFO: Employee Login Validation
+10/18/2022 08:37:33 PM: INFO: Wait till login page appears
+10/18/2022 08:37:51 PM: INFO: Entering Employee credentials
+10/18/2022 08:38:05 PM: INFO: wait till login the application
+10/18/2022 08:38:05 PM: INFO: Employee Leave Management Menu clicks 
+10/18/2022 08:38:47 PM: INFO: wait until Request Leave clicks
+10/18/2022 08:39:27 PM: INFO: wait until Request Leave form appears
+10/18/2022 08:39:27 PM: INFO: Request Leave From date clicks
+10/18/2022 08:39:27 PM: INFO: wait untill From date calendar appears
+10/18/2022 08:39:28 PM: INFO: select leave type casual
+10/18/2022 08:39:29 PM: INFO: wait untill To date calendar appears
+10/18/2022 08:39:29 PM: INFO: select leave type casual
+10/18/2022 08:41:38 PM: INFO: Validating Test case 4
+10/18/2022 08:41:38 PM: INFO: Employee Login Validation
+10/18/2022 08:41:38 PM: INFO: Wait till login page appears
+10/18/2022 08:41:38 PM: INFO: Entering Employee credentials
+10/18/2022 08:41:48 PM: INFO: wait till login the application
+10/18/2022 08:41:48 PM: INFO: Employee Leave Management Menu clicks 
+10/18/2022 08:42:22 PM: INFO: wait until Request Leave clicks
+10/18/2022 08:43:02 PM: INFO: wait until Request Leave form appears
+10/18/2022 08:43:02 PM: INFO: Request Leave From date clicks
+10/18/2022 08:43:02 PM: INFO: wait untill From date calendar appears
+10/18/2022 08:43:03 PM: INFO: select leave type casual
+10/18/2022 08:43:03 PM: INFO: wait untill To date calendar appears
+10/18/2022 08:43:03 PM: INFO: select leave type casual
+10/18/2022 08:46:44 PM: INFO: Validating Test case 4
+10/18/2022 08:46:44 PM: INFO: Employee Login Validation
+10/18/2022 08:46:44 PM: INFO: Wait till login page appears
+10/18/2022 08:46:44 PM: INFO: Entering Employee credentials
+10/18/2022 08:47:02 PM: INFO: wait till login the application
+10/18/2022 08:47:03 PM: INFO: Employee Leave Management Menu clicks 
+10/18/2022 08:47:27 PM: INFO: wait until Request Leave clicks
+10/18/2022 08:48:04 PM: INFO: wait until Request Leave form appears
+10/18/2022 08:48:04 PM: INFO: Request Leave From date clicks
+10/18/2022 08:48:05 PM: INFO: wait untill From date calendar appears
+10/18/2022 08:48:05 PM: INFO: select leave type casual
+10/18/2022 08:48:06 PM: INFO: wait untill To date calendar appears
+10/18/2022 08:48:06 PM: INFO: select leave type casual
+10/19/2022 12:24:53 PM: INFO: Validating Test case 1
+10/19/2022 12:24:53 PM: INFO: Employee Login Validation
+10/19/2022 12:24:53 PM: INFO: Wait till login page appears
+10/19/2022 12:24:54 PM: INFO: Entering Employee credentials
+10/19/2022 12:25:21 PM: INFO: wait till login the application
+10/19/2022 12:25:22 PM: INFO: Employee Leave Management Menu clicks 
+10/19/2022 12:26:14 PM: INFO: wait until Request Leave clicks
+10/19/2022 12:27:30 PM: INFO: wait until Request Leave form appears
+10/19/2022 12:27:30 PM: INFO: Request Leave From date clicks
+10/19/2022 12:27:30 PM: INFO: wait untill From date calendar appears
+10/19/2022 12:27:31 PM: INFO: select leave type casual
+10/19/2022 12:27:32 PM: INFO: wait untill To date calendar appears
+10/19/2022 12:27:32 PM: INFO: select leave type casual
+10/19/2022 12:30:51 PM: INFO: Validating Test case 1
+10/19/2022 12:30:51 PM: INFO: Employee Login Validation
+10/19/2022 12:30:51 PM: INFO: Wait till login page appears
+10/19/2022 12:30:51 PM: INFO: Entering Employee credentials
+10/19/2022 12:31:23 PM: INFO: wait till login the application
+10/19/2022 12:31:23 PM: INFO: Employee Leave Management Menu clicks 
+10/19/2022 12:32:31 PM: INFO: wait until Request Leave clicks
+10/19/2022 12:33:41 PM: INFO: wait until Request Leave form appears
+10/19/2022 12:33:41 PM: INFO: Request Leave From date clicks
+10/19/2022 12:33:41 PM: INFO: wait untill From date calendar appears
+10/19/2022 12:33:41 PM: INFO: select leave type casual
+10/19/2022 12:33:42 PM: INFO: wait untill To date calendar appears
+10/19/2022 12:33:42 PM: INFO: select leave type casual
+10/19/2022 12:35:16 PM: INFO: Validating Test case 1
+10/19/2022 12:35:16 PM: INFO: Employee Login Validation
+10/19/2022 12:35:16 PM: INFO: Wait till login page appears
+10/19/2022 12:35:16 PM: INFO: Entering Employee credentials
+10/19/2022 12:35:40 PM: INFO: wait till login the application
+10/19/2022 12:35:40 PM: INFO: Employee Leave Management Menu clicks 
+10/19/2022 12:36:10 PM: INFO: wait until Request Leave clicks
+10/19/2022 12:36:52 PM: INFO: wait until Request Leave form appears
+10/19/2022 12:36:52 PM: INFO: Request Leave From date clicks
+10/19/2022 12:36:52 PM: INFO: wait untill From date calendar appears
+10/19/2022 12:36:53 PM: INFO: select leave type casual
+10/19/2022 12:36:55 PM: INFO: wait untill To date calendar appears
+10/19/2022 12:36:55 PM: INFO: select leave type casual
+10/19/2022 12:40:59 PM: INFO: Validating Test case 1
+10/19/2022 12:40:59 PM: INFO: Employee Login Validation
+10/19/2022 12:40:59 PM: INFO: Wait till login page appears
+10/19/2022 12:41:02 PM: INFO: Entering Employee credentials
+10/19/2022 12:41:36 PM: INFO: wait till login the application
+10/19/2022 12:41:36 PM: INFO: Employee Leave Management Menu clicks 
+10/19/2022 12:42:23 PM: INFO: wait until Request Leave clicks
+10/19/2022 12:43:32 PM: INFO: wait until Request Leave form appears
+10/19/2022 12:43:32 PM: INFO: Request Leave From date clicks
+10/19/2022 12:43:32 PM: INFO: wait untill From date calendar appears
+10/19/2022 12:43:32 PM: INFO: select leave type casual
+10/19/2022 12:43:33 PM: INFO: wait untill To date calendar appears
+10/19/2022 12:43:33 PM: INFO: select leave type casual
+10/19/2022 04:07:43 PM: INFO: Validating Test case 1
+10/19/2022 04:11:11 PM: INFO: Validating Test case 1
+10/19/2022 04:15:06 PM: INFO: Validating Test case 1
+10/19/2022 04:27:06 PM: INFO: Validating Test case 1
+10/19/2022 04:33:44 PM: INFO: Validating Test case 1
+10/19/2022 04:34:19 PM: INFO: Validating Test case 1
+10/20/2022 02:05:54 PM: INFO: Validating Test case 2
+10/20/2022 02:05:54 PM: INFO: Employee Earned Leave Applied Validation
+10/20/2022 02:09:16 PM: INFO: Validating Test case 2
+10/20/2022 02:09:16 PM: INFO: Employee Earned Leave Applied Validation
+10/20/2022 02:12:23 PM: INFO: Validating Test case 2
+10/20/2022 02:12:23 PM: INFO: Employee Earned Leave Applied Validation
+10/20/2022 02:12:45 PM: INFO: Validating Test case 2
+10/20/2022 02:12:45 PM: INFO: Employee Earned Leave Applied Validation
+10/20/2022 02:12:59 PM: INFO: Validating Test case 2
+10/20/2022 02:12:59 PM: INFO: Employee Earned Leave Applied Validation
+10/20/2022 02:13:44 PM: INFO: Validating Test case 2
+10/20/2022 02:13:44 PM: INFO: Employee Earned Leave Applied Validation
+10/20/2022 02:14:08 PM: INFO: Validating Test case 2
+10/20/2022 02:14:08 PM: INFO: Employee Earned Leave Applied Validation
+10/20/2022 07:58:09 PM: INFO: Validating Test case 12
+10/20/2022 07:58:09 PM: INFO: Supervisor Casual Leave Approve
+10/20/2022 07:58:38 PM: INFO: Validating Test case 12
+10/20/2022 07:58:38 PM: INFO: Supervisor Casual Leave Approve
+10/20/2022 07:58:38 PM: INFO: Wait till login page appears
+10/20/2022 07:58:38 PM: INFO: Entering Supervisor credentials
+10/20/2022 08:05:04 PM: INFO: Validating Test case 12
+10/20/2022 08:05:04 PM: INFO: Supervisor Casual Leave Approve
+10/20/2022 08:05:04 PM: INFO: Wait till login page appears
+10/20/2022 08:05:04 PM: INFO: Entering Supervisor credentials
+10/20/2022 08:05:48 PM: INFO: Employee Leave Management Menu clicks 
+10/20/2022 08:07:44 PM: INFO: Validating Test case 12
+10/20/2022 08:07:44 PM: INFO: Supervisor Casual Leave Approve
+10/20/2022 08:07:44 PM: INFO: Wait till login page appears
+10/20/2022 08:07:45 PM: INFO: Entering Supervisor credentials
+10/20/2022 08:08:29 PM: INFO: Employee Leave Management Menu clicks 
+10/20/2022 08:10:55 PM: INFO: Validating Test case 12
+10/20/2022 08:10:55 PM: INFO: Supervisor Casual Leave Approve
+10/20/2022 08:10:55 PM: INFO: Wait till login page appears
+10/20/2022 08:10:59 PM: INFO: Entering Supervisor credentials
+10/20/2022 08:11:40 PM: INFO: wait till login the application
+10/20/2022 08:11:40 PM: INFO: Employee Leave Management Menu clicks 
+10/20/2022 08:12:33 PM: INFO: wait until Request Leave clicks
+10/20/2022 08:14:02 PM: INFO: Validating Test case 12
+10/20/2022 08:14:02 PM: INFO: Supervisor Casual Leave Approve
+10/20/2022 08:14:02 PM: INFO: Wait till login page appears
+10/20/2022 08:14:02 PM: INFO: Entering Supervisor credentials
+10/20/2022 08:14:54 PM: INFO: wait till login the application
+10/20/2022 08:14:54 PM: INFO: Employee Leave Management Menu clicks 
+10/20/2022 08:15:45 PM: INFO: wait until Request Leave clicks
+10/20/2022 08:54:25 PM: INFO: Validating Test case 12
+10/20/2022 08:54:25 PM: INFO: Supervisor Casual Leave Approve
+10/20/2022 08:54:25 PM: INFO: Wait till login page appears
+10/20/2022 08:54:26 PM: INFO: Entering Supervisor credentials
+10/20/2022 08:55:04 PM: INFO: wait till login the application
+10/20/2022 08:55:04 PM: INFO: Employee Leave Management Menu clicks 
+10/20/2022 08:56:15 PM: INFO: wait until Request Leave clicks
+10/20/2022 09:06:33 PM: INFO: Validating Test case 12
+10/20/2022 09:06:33 PM: INFO: Supervisor Casual Leave Approve
+10/20/2022 09:06:33 PM: INFO: Wait till login page appears
+10/20/2022 09:06:51 PM: INFO: Entering Supervisor credentials
+10/20/2022 09:07:32 PM: INFO: wait till login the application
+10/20/2022 09:07:32 PM: INFO: Employee Leave Management Menu clicks 
+10/20/2022 09:08:31 PM: INFO: wait until Request Leave clicks
+10/20/2022 09:41:07 PM: INFO: Validating Test case 18
+10/20/2022 09:41:07 PM: INFO: Employee Casual Leave status
+10/20/2022 09:41:07 PM: INFO: Wait till login page appears
+10/20/2022 09:41:07 PM: INFO: Entering Employee credentials
+10/20/2022 09:41:28 PM: INFO: wait till login the application
+10/20/2022 09:43:51 PM: INFO: Validating Test case 18
+10/20/2022 09:43:51 PM: INFO: Employee Casual Leave status
+10/20/2022 09:43:51 PM: INFO: Wait till login page appears
+10/20/2022 09:43:51 PM: INFO: Entering Employee credentials
+10/20/2022 09:44:09 PM: INFO: wait till login the application
+10/21/2022 12:12:20 PM: INFO: Validating Test case 24
+10/21/2022 12:12:48 PM: INFO: Employee Casual Leave Attendance Report
+10/21/2022 12:12:48 PM: INFO: Wait till login page appears
+10/21/2022 12:12:48 PM: INFO: Entering Employee credentials
+10/21/2022 12:13:19 PM: INFO: wait till login the application
+10/21/2022 12:15:33 PM: INFO: Validating Test case 24
+10/21/2022 12:16:03 PM: INFO: Employee Casual Leave Attendance Report
+10/21/2022 12:16:03 PM: INFO: Wait till login page appears
+10/21/2022 12:16:03 PM: INFO: Entering Employee credentials
+10/21/2022 12:16:29 PM: INFO: wait till login the application
+10/21/2022 12:41:27 PM: INFO: Validating Test case 24
+10/21/2022 12:41:55 PM: INFO: Employee Casual Leave Attendance Report
+10/21/2022 12:41:55 PM: INFO: Wait till login page appears
+10/21/2022 12:41:55 PM: INFO: Entering Employee credentials
+10/21/2022 12:42:22 PM: INFO: wait till login the application
+10/21/2022 12:55:35 PM: INFO: Validating Test case 24
+10/21/2022 12:55:54 PM: INFO: Employee Casual Leave Attendance Report
+10/21/2022 12:55:54 PM: INFO: Wait till login page appears
+10/21/2022 12:55:54 PM: INFO: Entering Employee credentials
+10/21/2022 12:55:54 PM: INFO: wait till login the application
+10/21/2022 01:03:08 PM: INFO: Validating Test case 24
+10/21/2022 01:03:27 PM: INFO: Employee Casual Leave Attendance Report
+10/21/2022 01:03:27 PM: INFO: Wait till login page appears
+10/21/2022 01:03:27 PM: INFO: Entering Employee credentials
+10/21/2022 01:03:42 PM: INFO: wait till login the application
+10/21/2022 01:04:57 PM: INFO: Validating Test case 24
+10/21/2022 01:05:27 PM: INFO: Employee Casual Leave Attendance Report
+10/21/2022 01:05:27 PM: INFO: Wait till login page appears
+10/21/2022 01:05:27 PM: INFO: Entering Employee credentials
+10/21/2022 01:05:43 PM: INFO: wait till login the application
+10/21/2022 01:13:55 PM: INFO: Validating Test case 24
+10/21/2022 01:14:12 PM: INFO: Supervisor View Team Leave Details Casual Leave
+10/21/2022 01:14:12 PM: INFO: Wait till login page appears
+10/21/2022 01:14:12 PM: INFO: Entering Supervisor credentials
+10/21/2022 01:14:28 PM: INFO: wait till login the application
+10/21/2022 01:15:44 PM: INFO: Validating Test case 24
+10/21/2022 01:16:04 PM: INFO: Supervisor View Team Leave Details Casual Leave
+10/21/2022 01:16:04 PM: INFO: Wait till login page appears
+10/21/2022 01:16:04 PM: INFO: Entering Supervisor credentials
+10/21/2022 01:16:40 PM: INFO: wait till login the application
+10/21/2022 04:18:43 PM: INFO: Validating Test case 24
+10/21/2022 04:19:10 PM: INFO: Supervisor View Team Leave Details Casual Leave
+10/21/2022 04:19:10 PM: INFO: Wait till login page appears
+10/21/2022 04:19:10 PM: INFO: Entering Supervisor credentials
+10/21/2022 04:19:59 PM: INFO: wait till login the application
+10/21/2022 04:19:59 PM: INFO: Employee Leave Management Menu clicks 
+10/21/2022 04:21:05 PM: INFO: wait until Request Leave clicks
+10/21/2022 04:29:46 PM: INFO: Validating Test case 24
+10/21/2022 04:29:55 PM: INFO: Supervisor View Team Leave Details Casual Leave
+10/21/2022 04:29:55 PM: INFO: Wait till login page appears
+10/21/2022 04:29:55 PM: INFO: Entering Supervisor credentials
+10/21/2022 04:30:30 PM: INFO: wait till login the application
+10/21/2022 04:30:31 PM: INFO: Employee Leave Management Menu clicks 
+10/21/2022 04:31:18 PM: INFO: wait until Request Leave clicks
+10/21/2022 04:37:16 PM: INFO: Validating Test case 24
+10/21/2022 04:37:26 PM: INFO: Supervisor View Team Leave Details Casual Leave
+10/21/2022 04:37:26 PM: INFO: Wait till login page appears
+10/21/2022 04:37:26 PM: INFO: Entering Supervisor credentials
+10/21/2022 04:38:03 PM: INFO: wait till login the application
+10/21/2022 04:38:03 PM: INFO: Employee Leave Management Menu clicks 
+10/21/2022 04:38:47 PM: INFO: wait until Request Leave clicks
+10/21/2022 04:41:58 PM: INFO: Validating Test case 24
+10/21/2022 04:42:07 PM: INFO: Supervisor View Team Leave Details Casual Leave
+10/21/2022 04:42:07 PM: INFO: Wait till login page appears
+10/21/2022 04:42:07 PM: INFO: Entering Supervisor credentials
+10/21/2022 04:42:44 PM: INFO: wait till login the application
+10/21/2022 04:42:44 PM: INFO: Employee Leave Management Menu clicks 
+10/21/2022 04:43:41 PM: INFO: wait until Request Leave clicks
+10/21/2022 06:39:37 PM: INFO: Validating Test case 1
+10/21/2022 06:39:37 PM: INFO: Employee Casual Leave Apply
+10/21/2022 06:39:37 PM: INFO: Wait till login page appears
+10/21/2022 06:39:39 PM: INFO: Entering Employee credentials
+10/21/2022 06:40:00 PM: INFO: wait till login the application
+10/21/2022 06:40:00 PM: INFO: Employee Leave Management Menu clicks 
+10/21/2022 06:40:26 PM: INFO: wait until Request Leave clicks
+10/21/2022 06:40:43 PM: INFO: wait until Request Leave form appears
+10/21/2022 06:40:43 PM: INFO: Request Leave From date clicks
+10/21/2022 06:40:43 PM: INFO: wait untill From date calendar appears
+10/21/2022 06:40:44 PM: INFO: select leave type casual
+10/21/2022 06:40:45 PM: INFO: wait untill To date calendar appears
+10/21/2022 06:40:45 PM: INFO: select leave type casual
+10/21/2022 06:43:50 PM: INFO: Validating Test case 2
+10/21/2022 06:43:50 PM: INFO: Employee Earned Leave Applied Validation
+10/21/2022 06:47:31 PM: INFO: Validating Test case 12
+10/21/2022 06:47:47 PM: INFO: Supervisor Casual Leave Approve
+10/21/2022 06:47:47 PM: INFO: Wait till login page appears
+10/21/2022 06:47:47 PM: INFO: Entering Supervisor credentials
+10/21/2022 06:48:02 PM: INFO: wait till login the application
+10/21/2022 06:48:54 PM: INFO: Validating Test case 12
+10/21/2022 06:49:09 PM: INFO: Supervisor Casual Leave Approve
+10/21/2022 06:49:09 PM: INFO: Wait till login page appears
+10/21/2022 06:49:09 PM: INFO: Entering Supervisor credentials
+10/21/2022 06:49:48 PM: INFO: wait till login the application
+10/21/2022 06:49:49 PM: INFO: Employee Leave Management Menu clicks 
+10/21/2022 06:50:39 PM: INFO: wait until Request Leave clicks
+10/21/2022 06:53:38 PM: INFO: Validating Test case 18
+10/21/2022 06:53:38 PM: INFO: Employee Casual Leave status
+10/21/2022 06:53:38 PM: INFO: Wait till login page appears
+10/21/2022 06:54:11 PM: INFO: Validating Test case 18
+10/21/2022 06:54:40 PM: INFO: Employee Casual Leave status
+10/21/2022 06:54:40 PM: INFO: Wait till login page appears
+10/21/2022 06:54:40 PM: INFO: Entering Employee credentials
+10/21/2022 06:55:12 PM: INFO: wait till login the application
+10/21/2022 07:02:24 PM: INFO: Validating Test case 18
+10/21/2022 07:02:38 PM: INFO: Employee Casual Leave status
+10/21/2022 07:02:38 PM: INFO: Wait till login page appears
+10/21/2022 07:02:38 PM: INFO: Entering Employee credentials
+10/21/2022 07:02:50 PM: INFO: wait till login the application
+10/21/2022 07:39:26 PM: INFO: Validating Test case 18
+10/21/2022 07:39:37 PM: INFO: Employee Casual Leave status
+10/21/2022 07:39:37 PM: INFO: Wait till login page appears
+10/21/2022 07:39:38 PM: INFO: Entering Employee credentials
+10/21/2022 07:39:44 PM: INFO: wait till login the application
+10/21/2022 07:44:04 PM: INFO: Validating Test case 18
+10/21/2022 07:44:19 PM: INFO: Employee Casual Leave status
+10/21/2022 07:44:19 PM: INFO: Wait till login page appears
+10/21/2022 07:44:19 PM: INFO: Entering Employee credentials
+10/21/2022 07:44:29 PM: INFO: wait till login the application
+10/21/2022 07:49:25 PM: INFO: Validating Test case 18
+10/21/2022 07:50:46 PM: INFO: Validating Test case 18
+10/21/2022 07:51:04 PM: INFO: Employee Casual Leave status
+10/21/2022 07:51:04 PM: INFO: Wait till login page appears
+10/21/2022 07:51:04 PM: INFO: Entering Employee credentials
+10/21/2022 07:51:21 PM: INFO: wait till login the application
+10/21/2022 07:55:20 PM: INFO: Validating Test case 24
+10/21/2022 07:55:20 PM: INFO: Supervisor View Team Leave Details Casual Leave
+10/21/2022 07:55:20 PM: INFO: Wait till login page appears
+10/21/2022 07:55:20 PM: INFO: Entering Supervisor credentials
+10/21/2022 07:56:38 PM: INFO: Validating Test case 24
+10/21/2022 07:56:38 PM: INFO: Employee Casual Leave Attendance Report
+10/21/2022 07:56:38 PM: INFO: Wait till login page appears
+10/21/2022 07:57:32 PM: INFO: Entering Employee credentials
+10/21/2022 07:57:59 PM: INFO: wait till login the application
+10/21/2022 08:03:42 PM: INFO: Validating Test case 24
+10/21/2022 08:03:42 PM: INFO: Supervisor View Team Leave Details Casual Leave
+10/21/2022 08:03:42 PM: INFO: Wait till login page appears
+10/21/2022 08:03:42 PM: INFO: Entering Supervisor credentials
+10/21/2022 08:04:28 PM: INFO: wait till login the application
+10/21/2022 08:04:28 PM: INFO: Employee Leave Management Menu clicks 
+10/21/2022 08:05:12 PM: INFO: wait until Request Leave clicks
+10/21/2022 08:40:45 PM: INFO: ====== WebDriver manager ======
+10/21/2022 08:40:52 PM: INFO: Get LATEST chromedriver version for google-chrome 106.0.5249
+10/21/2022 08:40:57 PM: INFO: Driver [C:\Users\gowthaman.k\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+10/21/2022 08:42:24 PM: INFO: ====== WebDriver manager ======
+10/21/2022 08:42:28 PM: INFO: Get LATEST chromedriver version for google-chrome 106.0.5249
+10/21/2022 08:42:33 PM: INFO: Driver [C:\Users\gowthaman.k\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+10/21/2022 08:45:51 PM: INFO: Validating Test case 12
+10/21/2022 08:45:51 PM: INFO: Supervisor Casual Leave Approve
+10/21/2022 08:45:51 PM: INFO: Wait till login page appears
+10/21/2022 08:45:51 PM: INFO: Entering Supervisor credentials
+10/21/2022 08:46:28 PM: INFO: wait till login the application
+10/21/2022 08:46:28 PM: INFO: Employee Leave Management Menu clicks 
+10/21/2022 08:47:19 PM: INFO: wait until Request Leave clicks
+10/21/2022 08:51:21 PM: INFO: Validating Test case 24
+10/21/2022 08:51:35 PM: INFO: Employee Casual Leave Attendance Report
+10/21/2022 08:51:35 PM: INFO: Wait till login page appears
+10/21/2022 08:51:36 PM: INFO: Entering Employee credentials
+10/21/2022 08:51:54 PM: INFO: wait till login the application
+10/21/2022 09:02:11 PM: INFO: Validating Test case 24
+10/21/2022 09:02:29 PM: INFO: Employee Casual Leave Attendance Report
+10/21/2022 09:02:29 PM: INFO: Wait till login page appears
+10/21/2022 09:02:29 PM: INFO: Entering Employee credentials
+10/21/2022 09:02:29 PM: INFO: wait till login the application
+10/21/2022 09:05:18 PM: INFO: Validating Test case 24
+10/21/2022 09:05:18 PM: INFO: Supervisor View Team Leave Details Casual Leave
+10/21/2022 09:05:18 PM: INFO: Wait till login page appears
+10/21/2022 09:05:18 PM: INFO: Entering Supervisor credentials
+10/21/2022 09:06:05 PM: INFO: wait till login the application
+10/21/2022 09:06:05 PM: INFO: Employee Leave Management Menu clicks 
+10/21/2022 09:07:24 PM: INFO: wait until Request Leave clicks
+10/26/2022 01:24:10 PM: INFO: Wait till profile click
+10/26/2022 01:24:38 PM: INFO: Wait till profile click
+10/26/2022 01:25:26 PM: INFO: Supervisor View Team Leave Details Casual Leave
+10/26/2022 01:25:26 PM: INFO: Wait till login page appears
+10/26/2022 01:25:27 PM: INFO: Entering Supervisor credentials
+10/26/2022 01:26:12 PM: INFO: wait till login the application
+10/26/2022 01:26:12 PM: INFO: Employee Leave Management Menu clicks 
+10/26/2022 01:27:37 PM: INFO: wait until Request Leave clicks
+10/26/2022 01:32:56 PM: INFO: Supervisor View Team Leave Details Casual Leave
+10/26/2022 01:32:56 PM: INFO: Wait till login page appears
+10/26/2022 01:32:56 PM: INFO: Entering Supervisor credentials
+10/26/2022 01:33:36 PM: INFO: wait till login the application
+10/26/2022 01:33:36 PM: INFO: Employee Leave Management Menu clicks 
+10/26/2022 01:34:24 PM: INFO: wait until Request Leave clicks
+10/26/2022 01:35:36 PM: INFO: Supervisor View Team Leave Details Casual Leave
+10/26/2022 01:35:36 PM: INFO: Wait till login page appears
+10/26/2022 01:35:36 PM: INFO: Entering Supervisor credentials
+10/26/2022 01:36:18 PM: INFO: wait till login the application
+10/26/2022 01:36:18 PM: INFO: Employee Leave Management Menu clicks 
+10/26/2022 01:37:11 PM: INFO: wait until Request Leave clicks
+10/26/2022 01:39:09 PM: INFO: Supervisor View Team Leave Details Casual Leave
+10/26/2022 01:39:09 PM: INFO: Wait till login page appears
+10/26/2022 01:39:12 PM: INFO: Entering Supervisor credentials
+10/26/2022 01:39:38 PM: INFO: wait till login the application
+10/26/2022 01:39:38 PM: INFO: Employee Leave Management Menu clicks 
+10/26/2022 01:40:57 PM: INFO: wait until Request Leave clicks
+10/26/2022 04:07:02 PM: INFO: ====== WebDriver manager ======
+10/26/2022 04:07:10 PM: INFO: Get LATEST chromedriver version for google-chrome 106.0.5249
+10/26/2022 04:07:17 PM: INFO: Driver [C:\Users\gowthaman.k\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+10/26/2022 04:23:02 PM: INFO: Validating Test case 4
+10/26/2022 04:23:02 PM: INFO: Employee Login Validation
+10/26/2022 04:23:02 PM: INFO: Wait till login page appears
+10/26/2022 04:23:02 PM: INFO: Entering Employee credentials
+10/26/2022 04:23:33 PM: INFO: Employee Leave Management Menu clicks 
+10/26/2022 04:24:30 PM: INFO: wait until Request Leave clicks
+10/26/2022 04:25:27 PM: INFO: wait until Request WFH form appears
+10/26/2022 04:25:27 PM: INFO: Request WFH From date clicks
+10/26/2022 04:25:27 PM: INFO: wait untill From date calendar appears
+10/26/2022 04:25:28 PM: INFO: select leave type casual
+10/26/2022 04:25:29 PM: INFO: wait untill To date calendar appears
+10/26/2022 04:25:29 PM: INFO: select leave type casual
+10/26/2022 04:31:25 PM: INFO: Validating Test case 4
+10/26/2022 04:31:25 PM: INFO: Employee Login Validation
+10/26/2022 04:31:25 PM: INFO: Wait till login page appears
+10/26/2022 04:31:25 PM: INFO: Entering Employee credentials
+10/26/2022 04:31:37 PM: INFO: Employee Leave Management Menu clicks 
+10/26/2022 04:32:14 PM: INFO: wait until Request Leave clicks
+10/26/2022 04:32:59 PM: INFO: wait until Request WFH form appears
+10/26/2022 04:32:59 PM: INFO: Request WFH From date clicks
+10/26/2022 04:33:00 PM: INFO: wait untill From date calendar appears
+10/26/2022 04:33:00 PM: INFO: select leave type casual
+10/26/2022 04:33:01 PM: INFO: wait untill To date calendar appears
+10/26/2022 04:33:01 PM: INFO: select leave type casual
+10/26/2022 04:35:46 PM: INFO: Validating Test case 4
+10/26/2022 04:35:46 PM: INFO: Employee Login Validation
+10/26/2022 04:35:46 PM: INFO: Wait till login page appears
+10/26/2022 04:36:03 PM: INFO: Entering Employee credentials
+10/26/2022 04:36:24 PM: INFO: Employee Leave Management Menu clicks 
+10/26/2022 04:37:11 PM: INFO: wait until Request Leave clicks
+10/26/2022 04:38:05 PM: INFO: wait until Request WFH form appears
+10/26/2022 04:38:05 PM: INFO: Request WFH From date clicks
+10/26/2022 04:38:05 PM: INFO: wait untill From date calendar appears
+10/26/2022 04:38:06 PM: INFO: select leave type casual
+10/26/2022 04:38:06 PM: INFO: wait untill To date calendar appears
+10/26/2022 04:38:06 PM: INFO: select leave type casual
+10/26/2022 04:45:18 PM: INFO: Validating Test case 2
+10/26/2022 04:45:18 PM: INFO: Employee Earned Leave Applied Validation
+10/26/2022 04:52:41 PM: INFO: Wait till profile click
+10/26/2022 04:52:42 PM: INFO: Wait till logout click
+10/26/2022 04:52:50 PM: INFO: Validating Test case 12
+10/26/2022 04:53:08 PM: INFO: Supervisor Casual Leave Approve
+10/26/2022 04:53:08 PM: INFO: Wait till login page appears
+10/26/2022 04:53:08 PM: INFO: Entering Supervisor credentials
+10/26/2022 04:53:40 PM: INFO: wait till login the application
+10/26/2022 04:53:40 PM: INFO: Employee Leave Management Menu clicks 
+10/26/2022 04:54:56 PM: INFO: wait until Request Leave clicks
+10/26/2022 05:08:34 PM: INFO: Wait till profile click
+10/26/2022 05:08:34 PM: INFO: Wait till logout click
+10/26/2022 05:08:42 PM: INFO: Validating Test case 12
+10/26/2022 05:09:09 PM: INFO: Supervisor Casual Leave Approve
+10/26/2022 05:09:09 PM: INFO: Wait till login page appears
+10/26/2022 05:09:09 PM: INFO: Entering Supervisor credentials
+10/26/2022 05:09:38 PM: INFO: wait till login the application
+10/26/2022 05:09:38 PM: INFO: Employee Leave Management Menu clicks 
+10/26/2022 05:10:42 PM: INFO: wait until Request Leave clicks
+10/26/2022 05:41:04 PM: INFO: Wait till profile click
+10/26/2022 05:41:05 PM: INFO: Wait till logout click
+10/26/2022 05:41:18 PM: INFO: Validating Test case 18
+10/26/2022 05:41:47 PM: INFO: Employee Casual Leave status
+10/26/2022 05:41:47 PM: INFO: Wait till login page appears
+10/26/2022 05:41:47 PM: INFO: Entering Employee credentials
+10/26/2022 05:43:14 PM: INFO: Wait till profile click
+10/26/2022 05:43:14 PM: INFO: Wait till logout click
+10/26/2022 05:43:26 PM: INFO: Validating Test case 18
+10/26/2022 05:43:42 PM: INFO: Employee Casual Leave status
+10/26/2022 05:43:42 PM: INFO: Wait till login page appears
+10/26/2022 05:43:42 PM: INFO: Entering Employee credentials
+10/26/2022 05:44:01 PM: INFO: wait till login the application
+10/26/2022 05:54:40 PM: INFO: Wait till profile click
+10/26/2022 05:54:40 PM: INFO: Wait till logout click
+10/26/2022 05:54:48 PM: INFO: Validating Test case 18
+10/26/2022 05:55:03 PM: INFO: Employee Casual Leave status
+10/26/2022 05:55:03 PM: INFO: Wait till login page appears
+10/26/2022 05:55:03 PM: INFO: Entering Employee credentials
+10/26/2022 05:55:17 PM: INFO: wait till login the application
+10/26/2022 06:00:25 PM: INFO: Wait till profile click
+10/26/2022 06:00:25 PM: INFO: Wait till logout click
+10/26/2022 06:00:35 PM: INFO: Validating Test case 18
+10/26/2022 06:00:52 PM: INFO: Employee Casual Leave status
+10/26/2022 06:00:52 PM: INFO: Wait till login page appears
+10/26/2022 06:00:52 PM: INFO: Entering Employee credentials
+10/26/2022 06:01:10 PM: INFO: wait till login the application
+10/26/2022 07:20:06 PM: INFO: Wait till profile click
+10/26/2022 07:20:07 PM: INFO: Wait till logout click
+10/26/2022 07:20:16 PM: INFO: Validating Test case 24
+10/26/2022 07:20:32 PM: INFO: Supervisor View Team Leave Details Casual Leave
+10/26/2022 07:20:32 PM: INFO: Wait till login page appears
+10/26/2022 07:20:32 PM: INFO: Entering Supervisor credentials
+10/26/2022 07:21:03 PM: INFO: wait till login the application
+10/26/2022 07:21:03 PM: INFO: Employee Leave Management Menu clicks 
+10/26/2022 07:22:00 PM: INFO: wait until Request Leave clicks
+10/26/2022 07:26:13 PM: INFO: Wait till profile click
+10/26/2022 07:26:13 PM: INFO: Wait till logout click
+10/26/2022 07:26:24 PM: INFO: Validating Test case 4
+10/26/2022 07:26:24 PM: INFO: Employee Login Validation
+10/26/2022 07:26:24 PM: INFO: Wait till login page appears
+10/26/2022 07:52:45 PM: INFO: Wait till profile click
+10/26/2022 07:52:47 PM: INFO: Wait till logout click
+10/26/2022 07:53:03 PM: INFO: Validating Test case 4
+10/26/2022 07:53:03 PM: INFO: Employee WFH Apply
+10/26/2022 07:53:32 PM: INFO: Wait till login page appears
+10/26/2022 07:53:32 PM: INFO: Entering Employee credentials
+10/26/2022 07:54:07 PM: INFO: Employee Leave Management Menu clicks 
+10/26/2022 07:55:07 PM: INFO: wait until Request Leave clicks
+10/26/2022 07:56:23 PM: INFO: wait until Request WFH form appears
+10/26/2022 07:56:24 PM: INFO: Request WFH From date clicks
+10/26/2022 07:56:25 PM: INFO: wait untill From date calendar appears
+10/26/2022 07:56:25 PM: INFO: select leave type casual
+10/26/2022 07:56:26 PM: INFO: wait untill To date calendar appears
+10/26/2022 07:56:26 PM: INFO: select leave type casual
+10/26/2022 07:58:38 PM: INFO: Validating Test case 2
+10/26/2022 07:58:38 PM: INFO: Employee WFH Applied Validation
+10/26/2022 08:02:46 PM: INFO: Wait till profile click
+10/26/2022 08:02:46 PM: INFO: Wait till logout click
+10/26/2022 08:02:55 PM: INFO: Validating Test case 12
+10/26/2022 08:03:13 PM: INFO: Supervisor Casual Leave Approve
+10/26/2022 08:03:13 PM: INFO: Wait till login page appears
+10/26/2022 08:03:13 PM: INFO: Entering Supervisor credentials
+10/26/2022 08:04:41 PM: INFO: wait till login the application
+10/26/2022 08:04:41 PM: INFO: Employee Leave Management Menu clicks 
+10/26/2022 08:06:30 PM: INFO: wait until Request Leave clicks
+10/26/2022 08:14:44 PM: INFO: Wait till profile click
+10/26/2022 08:14:44 PM: INFO: Wait till logout click
+10/26/2022 08:14:51 PM: INFO: Validating Test case 24
+10/26/2022 08:15:11 PM: INFO: Supervisor View Team Leave Details Casual Leave
+10/26/2022 08:15:11 PM: INFO: Wait till login page appears
+10/26/2022 08:15:11 PM: INFO: Entering Supervisor credentials
+10/26/2022 08:16:10 PM: INFO: wait till login the application
+10/26/2022 08:16:10 PM: INFO: Employee Leave Management Menu clicks 
+10/26/2022 08:17:59 PM: INFO: wait until Request Leave clicks
+10/26/2022 08:42:16 PM: INFO: Wait till profile click
+10/26/2022 08:42:16 PM: INFO: Wait till logout click
+10/26/2022 08:42:45 PM: INFO: Validating Test case 7
+10/26/2022 08:42:45 PM: INFO: Employee Compoff Apply
+10/26/2022 08:43:42 PM: INFO: Wait till login page appears
+10/26/2022 08:43:42 PM: INFO: Entering Employee credentials
+10/26/2022 08:44:10 PM: INFO: Employee Leave Management Menu clicks 
+10/26/2022 08:45:26 PM: INFO: wait until Request Leave clicks
+10/26/2022 08:46:48 PM: INFO: wait until Request Leave form appears
+10/26/2022 08:46:48 PM: INFO: Request Leave From date clicks
+10/26/2022 08:46:49 PM: INFO: wait untill From date calendar appears
+10/26/2022 08:46:50 PM: INFO: select leave type casual
+10/26/2022 08:46:50 PM: INFO: wait untill To date calendar appears
+10/26/2022 08:46:50 PM: INFO: select leave type casual
+10/26/2022 08:51:32 PM: INFO: Wait till profile click
+10/26/2022 08:51:33 PM: INFO: Wait till logout click
+10/26/2022 08:51:48 PM: INFO: Validating Test case 7
+10/26/2022 08:51:48 PM: INFO: Employee Compoff Apply
+10/26/2022 08:52:16 PM: INFO: Wait till login page appears
+10/26/2022 08:52:16 PM: INFO: Entering Employee credentials
+10/26/2022 08:52:49 PM: INFO: Employee Leave Management Menu clicks 
+10/26/2022 08:54:04 PM: INFO: wait until Request Leave clicks
+10/26/2022 08:56:25 PM: INFO: wait until Request Leave form appears
+10/26/2022 08:56:25 PM: INFO: Request Leave From date clicks
+10/26/2022 08:56:25 PM: INFO: wait untill From date calendar appears
+10/26/2022 08:56:26 PM: INFO: select leave type casual
+10/26/2022 08:56:27 PM: INFO: wait untill To date calendar appears
+10/26/2022 08:56:27 PM: INFO: select leave type casual
+10/26/2022 09:02:56 PM: INFO: Validating Test case 8
+10/26/2022 09:02:57 PM: INFO: Employee Compoff Leave Applied Validation
+10/26/2022 09:05:24 PM: INFO: Validating Test case 8
+10/26/2022 09:05:24 PM: INFO: Employee Compoff Leave Applied Validation
+10/26/2022 09:07:18 PM: INFO: Wait till profile click
+10/26/2022 09:07:18 PM: INFO: Wait till logout click
+10/26/2022 09:08:11 PM: INFO: Validating Test case 15
+10/26/2022 09:09:36 PM: INFO: Supervisor Compoff Leave Approve
+10/26/2022 09:09:36 PM: INFO: Wait till login page appears
+10/26/2022 09:09:36 PM: INFO: Entering Supervisor credentials
+10/26/2022 09:10:43 PM: INFO: wait till login the application
+10/26/2022 09:10:43 PM: INFO: Employee Leave Management Menu clicks 
+10/26/2022 09:12:13 PM: INFO: wait until Request Leave clicks
+10/26/2022 09:24:56 PM: INFO: Wait till profile click
+10/26/2022 09:24:56 PM: INFO: Wait till logout click
+10/26/2022 09:25:08 PM: INFO: Validating Test case 15
+10/26/2022 09:25:27 PM: INFO: Supervisor Compoff Leave Approve
+10/26/2022 09:25:27 PM: INFO: Wait till login page appears
+10/26/2022 09:25:27 PM: INFO: Entering Supervisor credentials
+10/26/2022 09:26:09 PM: INFO: wait till login the application
+10/26/2022 09:26:09 PM: INFO: Employee Leave Management Menu clicks 
+10/26/2022 09:27:23 PM: INFO: wait until Request Leave clicks
+10/26/2022 09:36:54 PM: INFO: Wait till profile click
+10/26/2022 09:36:54 PM: INFO: Wait till logout click
+10/26/2022 09:37:05 PM: INFO: Validating Test case 21
+10/26/2022 09:37:25 PM: INFO: Employee Compoff Leave status
+10/26/2022 09:37:25 PM: INFO: Wait till login page appears
+10/26/2022 09:37:25 PM: INFO: Entering Employee credentials
+10/26/2022 09:37:43 PM: INFO: wait till login the application
+10/26/2022 09:39:08 PM: INFO: Wait till profile click
+10/26/2022 09:39:08 PM: INFO: Wait till logout click
+10/26/2022 09:39:18 PM: INFO: Validating Test case 24
+10/26/2022 09:39:50 PM: INFO: Employee Compoff Attendance Report
+10/26/2022 09:39:50 PM: INFO: Wait till login page appears
+10/26/2022 09:39:50 PM: INFO: Entering Employee credentials
+10/26/2022 09:40:13 PM: INFO: wait till login the application
+10/26/2022 09:51:36 PM: INFO: Wait till profile click
+10/26/2022 09:51:36 PM: INFO: Wait till logout click
+10/26/2022 09:51:47 PM: INFO: Validating Test case 31
+10/26/2022 09:52:05 PM: INFO: Supervisor View Team Leave Details Compoff Leave
+10/26/2022 09:52:05 PM: INFO: Wait till login page appears
+10/26/2022 09:52:05 PM: INFO: Entering Supervisor credentials
+10/26/2022 09:52:06 PM: INFO: wait till login the application
+10/26/2022 09:55:41 PM: INFO: Wait till profile click
+10/26/2022 09:55:41 PM: INFO: Wait till logout click
+10/26/2022 09:55:55 PM: INFO: Validating Test case 31
+10/26/2022 09:56:33 PM: INFO: Supervisor View Team Leave Details Compoff Leave
+10/26/2022 09:56:33 PM: INFO: Wait till login page appears
+10/26/2022 09:56:33 PM: INFO: Entering Supervisor credentials
+10/26/2022 09:57:19 PM: INFO: wait till login the application
+10/26/2022 09:57:19 PM: INFO: Employee Leave Management Menu clicks 
+10/26/2022 09:58:30 PM: INFO: wait until Request Leave clicks
+10/26/2022 10:14:12 PM: INFO: Wait till profile click
+10/26/2022 10:14:12 PM: INFO: Wait till logout click
+10/26/2022 10:14:13 PM: INFO: Validating Test case 31
+10/27/2022 08:50:08 AM: INFO: Wait till profile click
+10/27/2022 08:50:09 AM: INFO: Wait till logout click
+10/27/2022 08:50:15 AM: INFO: Validating Test case 31
+10/27/2022 08:50:21 AM: INFO: Supervisor View Team Leave Details Compoff Leave
+10/27/2022 08:50:21 AM: INFO: Wait till login page appears
+10/27/2022 08:50:21 AM: INFO: Entering Supervisor credentials
+10/27/2022 08:50:52 AM: INFO: wait till login the application
+10/27/2022 08:50:52 AM: INFO: Employee Leave Management Menu clicks 
+10/27/2022 08:51:39 AM: INFO: wait until Request Leave clicks
+10/27/2022 08:56:07 AM: INFO: Wait till profile click
+10/27/2022 08:56:07 AM: INFO: Wait till logout click
+10/27/2022 08:56:13 AM: INFO: Validating Test case 9
+10/27/2022 08:56:13 AM: INFO: Employee Permission Request Apply
+10/27/2022 08:56:18 AM: INFO: Wait till login page appears
+10/27/2022 08:56:18 AM: INFO: Entering Employee credentials
+10/27/2022 08:56:35 AM: INFO: Employee Leave Management Menu clicks 
+10/27/2022 08:56:49 AM: INFO: wait until Request Permission clicks
+10/27/2022 08:56:59 AM: INFO: wait until Request Permission form appears
+10/27/2022 08:56:59 AM: INFO: Request permission date clicks
+10/27/2022 09:00:49 AM: INFO: Wait till profile click
+10/27/2022 09:00:49 AM: INFO: Wait till logout click
+10/27/2022 09:00:55 AM: INFO: Validating Test case 9
+10/27/2022 09:00:55 AM: INFO: Employee Permission Request Apply
+10/27/2022 09:01:00 AM: INFO: Wait till login page appears
+10/27/2022 09:01:00 AM: INFO: Entering Employee credentials
+10/27/2022 09:01:13 AM: INFO: Employee Leave Management Menu clicks 
+10/27/2022 09:01:22 AM: INFO: wait until Request Permission clicks
+10/27/2022 09:01:28 AM: INFO: wait until Request Permission form appears
+10/27/2022 09:01:28 AM: INFO: Request permission date clicks
+10/27/2022 09:04:57 AM: INFO: Wait till profile click
+10/27/2022 09:04:57 AM: INFO: Wait till logout click
+10/27/2022 09:05:01 AM: INFO: Validating Test case 9
+10/27/2022 09:05:01 AM: INFO: Employee Permission Request Apply
+10/27/2022 09:05:06 AM: INFO: Wait till login page appears
+10/27/2022 09:05:06 AM: INFO: Entering Employee credentials
+10/27/2022 09:05:19 AM: INFO: Employee Leave Management Menu clicks 
+10/27/2022 09:05:32 AM: INFO: wait until Request Permission clicks
+10/27/2022 09:05:39 AM: INFO: wait until Request Permission form appears
+10/27/2022 09:05:39 AM: INFO: Request permission date clicks
+10/27/2022 09:07:55 AM: INFO: Wait till profile click
+10/27/2022 09:07:55 AM: INFO: Wait till logout click
+10/27/2022 09:08:01 AM: INFO: Validating Test case 9
+10/27/2022 09:08:01 AM: INFO: Employee Permission Request Apply
+10/27/2022 09:08:06 AM: INFO: Wait till login page appears
+10/27/2022 09:08:06 AM: INFO: Entering Employee credentials
+10/27/2022 09:08:20 AM: INFO: Employee Leave Management Menu clicks 
+10/27/2022 09:08:32 AM: INFO: wait until Request Permission clicks
+10/27/2022 09:08:39 AM: INFO: wait until Request Permission form appears
+10/27/2022 09:08:39 AM: INFO: Request permission date clicks
+10/27/2022 09:09:35 AM: INFO: Wait till profile click
+10/27/2022 09:09:35 AM: INFO: Wait till logout click
+10/27/2022 09:09:39 AM: INFO: Validating Test case 16
+10/27/2022 09:09:45 AM: INFO: Supervisor Permission Request Approve
+10/27/2022 09:09:45 AM: INFO: Wait till login page appears
+10/27/2022 09:09:45 AM: INFO: Entering Supervisor credentials
+10/27/2022 09:10:17 AM: INFO: wait till login the application
+10/27/2022 09:10:17 AM: INFO: Employee Leave Management Menu clicks 
+10/27/2022 09:11:26 AM: INFO: wait until Request Leave clicks
+10/27/2022 09:26:23 AM: INFO: Wait till profile click
+10/27/2022 09:26:24 AM: INFO: Wait till logout click
+10/27/2022 09:26:27 AM: INFO: Validating Test case 16
+10/27/2022 09:26:32 AM: INFO: Supervisor Permission Request Approve
+10/27/2022 09:26:32 AM: INFO: Wait till login page appears
+10/27/2022 09:26:32 AM: INFO: Entering Supervisor credentials
+10/27/2022 09:27:06 AM: INFO: wait till login the application
+10/27/2022 09:27:06 AM: INFO: Employee Leave Management Menu clicks 
+10/27/2022 09:27:49 AM: INFO: wait until Request Leave clicks
+10/27/2022 09:29:44 AM: INFO: Wait till profile click
+10/27/2022 09:29:44 AM: INFO: Wait till logout click
+10/27/2022 09:29:48 AM: INFO: Validating Test case 22
+10/27/2022 09:29:53 AM: INFO: Employee Permission status
+10/27/2022 09:29:53 AM: INFO: Wait till login page appears
+10/27/2022 09:29:54 AM: INFO: Entering Employee credentials
+10/27/2022 09:30:05 AM: INFO: wait till login the application
+10/27/2022 09:33:56 AM: INFO: Wait till profile click
+10/27/2022 09:33:56 AM: INFO: Wait till logout click
+10/27/2022 09:34:04 AM: INFO: Validating Test case 22
+10/27/2022 09:34:09 AM: INFO: Employee Permission status
+10/27/2022 09:34:09 AM: INFO: Wait till login page appears
+10/27/2022 09:34:09 AM: INFO: Entering Employee credentials
+10/27/2022 09:34:22 AM: INFO: wait till login the application
+10/27/2022 09:35:43 AM: INFO: Wait till profile click
+10/27/2022 09:35:43 AM: INFO: Wait till logout click
+10/27/2022 09:35:46 AM: INFO: Validating Test case 32
+10/27/2022 09:35:53 AM: INFO: Supervisor View Team Leave Details Casual Leave
+10/27/2022 09:35:53 AM: INFO: Wait till login page appears
+10/27/2022 09:35:53 AM: INFO: Entering Supervisor credentials
+10/27/2022 09:36:38 AM: INFO: wait till login the application
+10/27/2022 09:36:38 AM: INFO: Employee Leave Management Menu clicks 
+10/27/2022 09:37:23 AM: INFO: wait until Request Leave clicks
+10/27/2022 09:45:27 AM: INFO: Wait till profile click
+10/27/2022 09:45:28 AM: INFO: Wait till logout click
+10/27/2022 09:45:35 AM: INFO: Validating Test case 32
+10/27/2022 09:45:44 AM: INFO: Supervisor View Team Leave Details Casual Leave
+10/27/2022 09:45:44 AM: INFO: Wait till login page appears
+10/27/2022 09:45:44 AM: INFO: Entering Supervisor credentials
+10/27/2022 09:46:11 AM: INFO: wait till login the application
+10/27/2022 09:46:11 AM: INFO: Employee Leave Management Menu clicks 
+10/27/2022 09:46:54 AM: INFO: wait until Request Leave clicks
+10/27/2022 09:50:42 AM: INFO: Wait till profile click
+10/27/2022 09:50:42 AM: INFO: Wait till logout click
+10/27/2022 09:50:47 AM: INFO: Validating Test case 32
+10/27/2022 09:50:53 AM: INFO: Supervisor View Team Leave Details Permission
+10/27/2022 09:50:53 AM: INFO: Wait till login page appears
+10/27/2022 09:50:53 AM: INFO: Entering Supervisor credentials
+10/27/2022 09:51:24 AM: INFO: wait till login the application
+10/27/2022 09:51:24 AM: INFO: Employee Leave Management Menu clicks 
+10/27/2022 09:52:15 AM: INFO: wait until Request Leave clicks
+10/27/2022 10:42:54 AM: INFO: Wait till profile click
+10/27/2022 10:42:54 AM: INFO: Wait till logout click
+10/27/2022 10:43:03 AM: INFO: Validating Test case 32
+10/27/2022 10:43:14 AM: INFO: Supervisor View Team Leave Details Permission
+10/27/2022 10:43:14 AM: INFO: Wait till login page appears
+10/27/2022 10:43:14 AM: INFO: Entering Supervisor credentials
+10/27/2022 10:43:42 AM: INFO: wait till login the application
+10/27/2022 10:43:42 AM: INFO: Employee Leave Management Menu clicks 
+10/27/2022 10:44:30 AM: INFO: wait until Request Leave clicks
+10/27/2022 10:47:57 AM: INFO: Wait till profile click
+10/27/2022 10:47:57 AM: INFO: Wait till logout click
+10/27/2022 10:48:01 AM: INFO: Validating Test case 32
+10/27/2022 10:48:08 AM: INFO: Supervisor View Team Leave Details Permission
+10/27/2022 10:48:08 AM: INFO: Wait till login page appears
+10/27/2022 10:48:08 AM: INFO: Entering Supervisor credentials
+10/27/2022 10:48:33 AM: INFO: wait till login the application
+10/27/2022 10:48:33 AM: INFO: Employee Leave Management Menu clicks 
+10/27/2022 10:49:29 AM: INFO: wait until Request Leave clicks
+10/27/2022 10:54:44 AM: INFO: Wait till profile click
+10/27/2022 10:54:44 AM: INFO: Wait till logout click
+10/27/2022 10:54:51 AM: INFO: Validating Test case 32
+10/27/2022 10:55:02 AM: INFO: Supervisor View Team Leave Details Permission
+10/27/2022 10:55:02 AM: INFO: Wait till login page appears
+10/27/2022 10:55:02 AM: INFO: Entering Supervisor credentials
+10/27/2022 10:55:26 AM: INFO: wait till login the application
+10/27/2022 10:55:26 AM: INFO: Employee Leave Management Menu clicks 
+10/27/2022 10:56:21 AM: INFO: wait until Request Leave clicks
+10/27/2022 10:59:52 AM: INFO: Wait till profile click
+10/27/2022 10:59:52 AM: INFO: Wait till logout click
+10/27/2022 10:59:59 AM: INFO: Validating Test case 32
+10/27/2022 11:00:08 AM: INFO: Supervisor View Team Leave Details Permission
+10/27/2022 11:00:08 AM: INFO: Wait till login page appears
+10/27/2022 11:00:08 AM: INFO: Entering Supervisor credentials
+10/27/2022 11:00:31 AM: INFO: wait till login the application
+10/27/2022 11:00:31 AM: INFO: Employee Leave Management Menu clicks 
+10/27/2022 11:01:21 AM: INFO: wait until Request Leave clicks
+10/27/2022 11:03:39 AM: INFO: Wait till profile click
+10/27/2022 11:03:39 AM: INFO: Wait till logout click
+10/27/2022 11:03:48 AM: INFO: Validating Test case 32
+10/27/2022 11:03:57 AM: INFO: Supervisor View Team Leave Details Permission
+10/27/2022 11:03:57 AM: INFO: Wait till login page appears
+10/27/2022 11:03:57 AM: INFO: Entering Supervisor credentials
+10/27/2022 11:04:27 AM: INFO: wait till login the application
+10/27/2022 11:04:27 AM: INFO: Employee Leave Management Menu clicks 
+10/27/2022 11:05:08 AM: INFO: wait until Request Leave clicks
+10/27/2022 11:13:19 AM: INFO: Wait till profile click
+10/27/2022 11:13:19 AM: INFO: Wait till logout click
+10/27/2022 11:13:28 AM: INFO: Validating Test case 32
+10/27/2022 11:13:37 AM: INFO: Supervisor View Team Leave Details Permission
+10/27/2022 11:13:37 AM: INFO: Wait till login page appears
+10/27/2022 11:13:37 AM: INFO: Entering Supervisor credentials
+10/27/2022 11:14:04 AM: INFO: wait till login the application
+10/27/2022 11:14:04 AM: INFO: Employee Leave Management Menu clicks 
+10/27/2022 11:14:54 AM: INFO: wait until Request Leave clicks
+10/27/2022 02:28:12 PM: INFO: ====== WebDriver manager ======
+10/27/2022 02:28:15 PM: INFO: Get LATEST chromedriver version for google-chrome 106.0.5249
+10/27/2022 02:28:20 PM: INFO: Driver [C:\Users\gowthaman.k\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+10/27/2022 02:29:33 PM: INFO: ====== WebDriver manager ======
+10/27/2022 02:29:44 PM: INFO: Get LATEST chromedriver version for google-chrome 106.0.5249
+10/27/2022 02:29:49 PM: INFO: Driver [C:\Users\gowthaman.k\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+10/27/2022 06:48:17 PM: INFO: Wait till profile click
+10/27/2022 06:48:17 PM: INFO: Wait till logout click
+10/27/2022 06:48:27 PM: INFO: Validating Test case 10
+10/27/2022 06:48:27 PM: INFO: Employee WFH Apply
+10/27/2022 06:48:34 PM: INFO: Wait till login page appears
+10/27/2022 06:48:34 PM: INFO: Entering Employee credentials
+10/27/2022 06:48:45 PM: INFO: Employee Leave Management Menu clicks 
+10/27/2022 06:48:59 PM: INFO: wait until Request Leave clicks
+10/27/2022 06:49:14 PM: INFO: wait until Request WFH form appears
+10/27/2022 06:49:14 PM: INFO: Request WFH From date clicks
+10/27/2022 06:49:14 PM: INFO: wait untill From date calendar appears
+10/27/2022 06:49:15 PM: INFO: select leave type casual
+10/27/2022 06:49:16 PM: INFO: wait untill To date calendar appears
+10/27/2022 06:49:16 PM: INFO: select leave type casual
+10/27/2022 06:50:23 PM: INFO: Validating Test case 11
+10/27/2022 06:50:23 PM: INFO: Employee WFH Applied Validation
+10/27/2022 06:59:25 PM: INFO: Validating Test case 11
+10/27/2022 06:59:25 PM: INFO: Employee WFH Applied Validation
+10/27/2022 07:00:30 PM: INFO: Wait till profile click
+10/27/2022 07:00:31 PM: INFO: Wait till logout click
+10/27/2022 07:00:37 PM: INFO: Validating Test case 12
+10/27/2022 07:00:49 PM: INFO: Supervisor WFH request Approve
+10/27/2022 07:00:49 PM: INFO: Wait till login page appears
+10/27/2022 07:00:49 PM: INFO: Entering Supervisor credentials
+10/27/2022 07:01:29 PM: INFO: wait till login the application
+10/27/2022 07:01:29 PM: INFO: Employee Leave Management Menu clicks 
+10/27/2022 07:02:11 PM: INFO: wait until Request Leave clicks
+10/27/2022 07:05:14 PM: INFO: Wait till profile click
+10/27/2022 07:05:14 PM: INFO: Wait till logout click
+10/27/2022 07:05:20 PM: INFO: Validating Test case 23
+10/27/2022 07:05:27 PM: INFO: Employee WFH status
+10/27/2022 07:05:27 PM: INFO: Wait till login page appears
+10/27/2022 07:05:27 PM: INFO: Entering Employee credentials
+10/27/2022 07:05:38 PM: INFO: wait till login the application
+10/27/2022 07:11:39 PM: INFO: Wait till profile click
+10/27/2022 07:11:39 PM: INFO: Wait till logout click
+10/27/2022 07:11:46 PM: INFO: Validating Test case 23
+10/27/2022 07:11:52 PM: INFO: Employee WFH status
+10/27/2022 07:11:52 PM: INFO: Wait till login page appears
+10/27/2022 07:11:52 PM: INFO: Entering Employee credentials
+10/27/2022 07:12:04 PM: INFO: wait till login the application
+10/27/2022 07:13:25 PM: INFO: Wait till profile click
+10/27/2022 07:13:25 PM: INFO: Wait till logout click
+10/27/2022 07:13:31 PM: INFO: Validating Test case 33
+10/27/2022 07:13:38 PM: INFO: Supervisor View Team Leave Details WFH Details
+10/27/2022 07:13:38 PM: INFO: Wait till login page appears
+10/27/2022 07:13:38 PM: INFO: Entering Supervisor credentials
+10/27/2022 07:13:38 PM: INFO: wait till login the application
+10/27/2022 07:15:17 PM: INFO: Wait till profile click
+10/27/2022 07:15:17 PM: INFO: Wait till logout click
+10/27/2022 07:15:23 PM: INFO: Validating Test case 33
+10/27/2022 07:15:29 PM: INFO: Supervisor View Team Leave Details WFH Details
+10/27/2022 07:15:29 PM: INFO: Wait till login page appears
+10/27/2022 07:15:30 PM: INFO: Entering Supervisor credentials
+10/27/2022 07:15:56 PM: INFO: wait till login the application
+10/27/2022 07:15:56 PM: INFO: Employee Leave Management Menu clicks 
+10/27/2022 07:16:45 PM: INFO: wait until Request Leave clicks
+10/27/2022 08:44:59 PM: INFO: Wait till profile click
+10/27/2022 08:44:59 PM: INFO: Wait till logout click
+10/27/2022 08:45:08 PM: INFO: Validating Test case 9
+10/27/2022 08:45:08 PM: INFO: Employee Permission Request Apply
+10/27/2022 08:45:23 PM: INFO: Wait till login page appears
+10/27/2022 08:45:23 PM: INFO: Entering Employee credentials
+10/27/2022 08:45:51 PM: INFO: Employee Leave Management Menu clicks 
+10/27/2022 08:46:22 PM: INFO: wait until Request Permission clicks
+10/27/2022 08:46:42 PM: INFO: wait until Request Permission form appears
+10/27/2022 08:46:42 PM: INFO: Request permission date clicks
+10/27/2022 08:48:03 PM: INFO: Wait till profile click
+10/27/2022 08:48:03 PM: INFO: Wait till logout click
+10/27/2022 08:48:12 PM: INFO: Validating Test case 16
+10/27/2022 08:48:21 PM: INFO: Supervisor Permission Request Approve
+10/27/2022 08:48:21 PM: INFO: Wait till login page appears
+10/27/2022 08:48:21 PM: INFO: Entering Supervisor credentials
+10/27/2022 08:48:59 PM: INFO: wait till login the application
+10/27/2022 08:48:59 PM: INFO: Employee Leave Management Menu clicks 
+10/27/2022 08:49:43 PM: INFO: wait until Request Leave clicks
+10/27/2022 08:53:49 PM: INFO: Wait till profile click
+10/27/2022 08:53:49 PM: INFO: Wait till logout click
+10/27/2022 08:54:06 PM: INFO: Validating Test case 22
+10/27/2022 08:54:36 PM: INFO: Employee Permission status
+10/27/2022 08:54:36 PM: INFO: Wait till login page appears
+10/27/2022 08:54:36 PM: INFO: Entering Employee credentials
+10/27/2022 08:55:10 PM: INFO: wait till login the application
+10/27/2022 09:05:06 PM: INFO: Wait till profile click
+10/27/2022 09:05:06 PM: INFO: Wait till logout click
+10/27/2022 09:05:26 PM: INFO: Validating Test case 22
+10/27/2022 09:06:03 PM: INFO: Employee Permission status
+10/27/2022 09:06:03 PM: INFO: Wait till login page appears
+10/27/2022 09:06:03 PM: INFO: Entering Employee credentials
+10/27/2022 09:06:42 PM: INFO: wait till login the application
+10/27/2022 09:15:22 PM: INFO: Validating Test case 22
+10/27/2022 09:16:19 PM: INFO: Employee Permission status
+10/27/2022 09:16:19 PM: INFO: Wait till login page appears
+10/27/2022 09:16:20 PM: INFO: Entering Employee credentials
+10/27/2022 09:17:05 PM: INFO: wait till login the application
+10/28/2022 10:31:47 AM: INFO: Wait till profile click
+10/28/2022 10:31:48 AM: INFO: Wait till logout click
+10/28/2022 10:33:32 AM: INFO: Wait till profile click
+10/28/2022 10:33:32 AM: INFO: Wait till logout click
+10/28/2022 10:33:50 AM: INFO: Validating Test case 32
+10/28/2022 10:34:06 AM: INFO: Supervisor View Team Leave Details Permission
+10/28/2022 10:34:06 AM: INFO: Wait till login page appears
+10/28/2022 10:34:06 AM: INFO: Entering Supervisor credentials
+10/28/2022 10:34:51 AM: INFO: wait till login the application
+10/28/2022 10:34:51 AM: INFO: Employee Leave Management Menu clicks 
+10/28/2022 10:35:51 AM: INFO: wait until Request Leave clicks
+10/28/2022 10:55:45 AM: INFO: Wait till profile click
+10/28/2022 10:55:45 AM: INFO: Wait till logout click
+10/28/2022 10:55:50 AM: INFO: Validating Test case 5
+10/28/2022 10:55:50 AM: INFO: Employee Flexi Leave Apply
+10/28/2022 10:55:57 AM: INFO: Wait till login page appears
+10/28/2022 10:55:57 AM: INFO: Entering Employee credentials
+10/28/2022 10:56:08 AM: INFO: Employee Leave Management Menu clicks 
+10/28/2022 10:56:23 AM: INFO: wait until Request Leave clicks
+10/28/2022 10:56:38 AM: INFO: wait until Request Leave form appears
+10/28/2022 10:56:38 AM: INFO: Request Leave From date clicks
+10/28/2022 10:56:38 AM: INFO: wait untill From date calendar appears
+10/28/2022 10:56:38 AM: INFO: select leave type casual
+10/28/2022 10:56:39 AM: INFO: wait untill To date calendar appears
+10/28/2022 10:56:39 AM: INFO: select leave type casual
+10/28/2022 10:57:36 AM: INFO: Validating Test case 6
+10/28/2022 10:57:36 AM: INFO: Employee Flexi Leave Applied Validation
+10/28/2022 10:58:55 AM: INFO: Wait till profile click
+10/28/2022 10:58:55 AM: INFO: Wait till logout click
+10/28/2022 10:58:58 AM: INFO: Validating Test case 14
+10/28/2022 10:59:05 AM: INFO: Supervisor Flexi Leave Approve
+10/28/2022 10:59:05 AM: INFO: Wait till login page appears
+10/28/2022 10:59:05 AM: INFO: Entering Supervisor credentials
+10/28/2022 10:59:30 AM: INFO: wait till login the application
+10/28/2022 10:59:30 AM: INFO: Employee Leave Management Menu clicks 
+10/28/2022 11:00:10 AM: INFO: wait until Request Leave clicks
+10/28/2022 11:41:35 AM: INFO: Wait till profile click
+10/28/2022 11:41:35 AM: INFO: Wait till logout click
+10/28/2022 11:41:43 AM: INFO: Validating Test case 14
+10/28/2022 11:41:51 AM: INFO: Supervisor Flexi Leave Approve
+10/28/2022 11:41:51 AM: INFO: Wait till login page appears
+10/28/2022 11:41:51 AM: INFO: Entering Supervisor credentials
+10/28/2022 11:42:50 AM: INFO: wait till login the application
+10/28/2022 11:50:29 AM: INFO: Wait till profile click
+10/28/2022 11:50:29 AM: INFO: Wait till logout click
+10/28/2022 11:50:32 AM: INFO: Validating Test case 14
+10/28/2022 11:50:41 AM: INFO: Supervisor Flexi Leave Approve
+10/28/2022 11:50:41 AM: INFO: Wait till login page appears
+10/28/2022 11:50:41 AM: INFO: Entering Supervisor credentials
+10/28/2022 11:51:03 AM: INFO: wait till login the application
+10/28/2022 11:51:03 AM: INFO: Employee Leave Management Menu clicks 
+10/28/2022 11:51:56 AM: INFO: wait until Request Leave clicks
+10/28/2022 11:54:55 AM: INFO: Wait till profile click
+10/28/2022 11:54:55 AM: INFO: Wait till logout click
+10/28/2022 11:55:04 AM: INFO: Validating Test case 20
+10/28/2022 11:55:19 AM: INFO: Employee Flexi Leave status
+10/28/2022 11:55:19 AM: INFO: Wait till login page appears
+10/28/2022 11:55:19 AM: INFO: Entering Employee credentials
+10/28/2022 11:55:33 AM: INFO: wait till login the application
+10/28/2022 11:56:57 AM: INFO: Wait till profile click
+10/28/2022 11:56:57 AM: INFO: Wait till logout click
+10/28/2022 11:57:04 AM: INFO: Validating Test case 24
+10/28/2022 11:57:15 AM: INFO: Employee Flexi Leave Attendance Report
+10/28/2022 11:57:15 AM: INFO: Wait till login page appears
+10/28/2022 11:57:15 AM: INFO: Entering Employee credentials
+10/28/2022 11:57:26 AM: INFO: wait till login the application
+10/28/2022 11:59:02 AM: INFO: Wait till profile click
+10/28/2022 11:59:02 AM: INFO: Wait till logout click
+10/28/2022 11:59:12 AM: INFO: Validating Test case 30
+10/28/2022 11:59:24 AM: INFO: Supervisor View Team Leave Details Flexi Leave
+10/28/2022 11:59:24 AM: INFO: Wait till login page appears
+10/28/2022 11:59:24 AM: INFO: Entering Supervisor credentials
+10/28/2022 12:00:01 PM: INFO: wait till login the application
+10/28/2022 12:00:01 PM: INFO: Employee Leave Management Menu clicks 
+10/28/2022 12:01:39 PM: INFO: wait until Request Leave clicks
+10/28/2022 01:51:44 PM: INFO: Validating Test case 1
+10/28/2022 01:51:44 PM: INFO: Employee Casual Leave Apply
+10/28/2022 01:51:44 PM: INFO: Wait till login page appears
+10/28/2022 01:51:45 PM: INFO: Entering Employee credentials
+10/28/2022 01:52:54 PM: INFO: wait till login the application
+10/28/2022 01:52:54 PM: INFO: Employee Leave Management Menu clicks 
+10/28/2022 01:53:44 PM: INFO: wait until Request Leave clicks
+10/28/2022 01:54:30 PM: INFO: wait until Request Leave form appears
+10/28/2022 01:54:30 PM: INFO: Request Leave From date clicks
+10/28/2022 01:54:30 PM: INFO: wait untill From date calendar appears
+10/28/2022 01:54:32 PM: INFO: select leave type casual
+10/28/2022 01:54:33 PM: INFO: wait untill To date calendar appears
+10/28/2022 01:54:33 PM: INFO: select leave type casual
+10/28/2022 02:58:46 PM: INFO: Validating Test case 1
+10/28/2022 02:58:46 PM: INFO: Employee Casual Leave Apply
+10/28/2022 02:58:46 PM: INFO: Wait till login page appears
+10/28/2022 02:58:47 PM: INFO: Entering Employee credentials
+10/28/2022 02:59:03 PM: INFO: wait till login the application
+10/28/2022 02:59:03 PM: INFO: Employee Leave Management Menu clicks 
+10/28/2022 02:59:21 PM: INFO: wait until Request Leave clicks
+10/28/2022 02:59:37 PM: INFO: wait until Request Leave form appears
+10/28/2022 02:59:37 PM: INFO: Request Leave From date clicks
+10/28/2022 02:59:37 PM: INFO: wait untill From date calendar appears
+10/28/2022 02:59:38 PM: INFO: select leave type casual
+10/28/2022 02:59:39 PM: INFO: wait untill To date calendar appears
+10/28/2022 02:59:39 PM: INFO: select leave type casual
+10/28/2022 03:14:28 PM: INFO: Validating Test case 2
+10/28/2022 03:14:28 PM: INFO: Employee Earned Leave Apply
+10/28/2022 03:18:13 PM: INFO: Validating Test case 2
+10/28/2022 03:18:13 PM: INFO: Employee Earned Leave Apply
+10/28/2022 03:18:13 PM: INFO: Employee Leave Management Menu clicks 
+10/28/2022 03:18:28 PM: INFO: wait until Request Leave clicks
+10/28/2022 03:20:07 PM: INFO: Validating Test case 2
+10/28/2022 03:20:07 PM: INFO: Employee Earned Leave Apply
+10/28/2022 03:20:07 PM: INFO: Employee Leave Management Menu clicks 
+10/28/2022 03:23:39 PM: INFO: Validating Test case 2
+10/28/2022 03:23:39 PM: INFO: Employee Earned Leave Apply
+10/28/2022 03:23:39 PM: INFO: Employee Leave Management Menu clicks 
+10/28/2022 03:33:09 PM: INFO: Validating Test case 2
+10/28/2022 03:33:09 PM: INFO: Employee Earned Leave Apply
+10/28/2022 03:33:09 PM: INFO: Employee Leave Management Menu clicks 
+10/28/2022 03:33:46 PM: INFO: wait until Request Leave clicks
+10/28/2022 03:34:06 PM: INFO: wait until Request Leave form appears
+10/28/2022 03:34:06 PM: INFO: Request Leave From date clicks
+10/28/2022 03:34:06 PM: INFO: wait untill From date calendar appears
+10/28/2022 03:34:06 PM: INFO: select leave type casual
+10/28/2022 03:34:07 PM: INFO: wait untill To date calendar appears
+10/28/2022 03:34:07 PM: INFO: select leave type casual
+10/28/2022 03:36:13 PM: INFO: Validating Test case 3
+10/28/2022 03:36:13 PM: INFO: Employee Flexi Leave Apply
+10/28/2022 03:36:13 PM: INFO: Employee Leave Management Menu clicks 
+10/28/2022 03:36:31 PM: INFO: wait until Request Leave clicks
+10/28/2022 03:36:49 PM: INFO: wait until Request Leave form appears
+10/28/2022 03:36:49 PM: INFO: Request Leave From date clicks
+10/28/2022 03:36:49 PM: INFO: wait untill From date calendar appears
+10/28/2022 03:36:50 PM: INFO: select leave type casual
+10/28/2022 03:36:51 PM: INFO: wait untill To date calendar appears
+10/28/2022 03:36:51 PM: INFO: select leave type casual
+10/28/2022 03:40:48 PM: INFO: Validating Test case 4
+10/28/2022 03:40:48 PM: INFO: Employee Compoff Apply
+10/28/2022 03:40:48 PM: INFO: Employee Leave Management Menu clicks 
+10/28/2022 03:40:48 PM: INFO: wait until Request Leave clicks
+10/28/2022 03:41:07 PM: INFO: wait until Request Leave form appears
+10/28/2022 03:41:07 PM: INFO: Request Leave From date clicks
+10/28/2022 03:41:07 PM: INFO: wait untill From date calendar appears
+10/28/2022 03:41:08 PM: INFO: select leave type casual
+10/28/2022 03:41:09 PM: INFO: wait untill To date calendar appears
+10/28/2022 03:41:09 PM: INFO: select leave type casual
+10/28/2022 06:20:17 PM: INFO: Wait till profile click
+10/28/2022 06:20:18 PM: INFO: Wait till logout click
+10/28/2022 06:20:33 PM: INFO: Validating Test case 12
+10/28/2022 06:20:56 PM: INFO: Supervisor Casual Leave Approve
+10/28/2022 06:20:56 PM: INFO: Wait till login page appears
+10/28/2022 06:20:56 PM: INFO: Entering Supervisor credentials
+10/28/2022 06:21:39 PM: INFO: wait till login the application
+10/28/2022 06:21:39 PM: INFO: Employee Leave Management Menu clicks 
+10/28/2022 06:22:44 PM: INFO: wait until Request Leave clicks
+10/30/2022 09:01:31 PM: INFO: Wait till profile click
+10/30/2022 09:12:19 PM: INFO: ====== WebDriver manager ======
+10/30/2022 09:12:34 PM: INFO: Get LATEST chromedriver version for google-chrome 106.0.5249
+10/30/2022 09:12:40 PM: INFO: About to download new driver from https://chromedriver.storage.googleapis.com/106.0.5249.61/chromedriver_win32.zip
+10/30/2022 09:12:49 PM: INFO: Driver has been saved in cache [C:\Users\gowthaman.k\.wdm\drivers\chromedriver\win32\106.0.5249]
+10/30/2022 09:13:03 PM: INFO: Wait till profile click
+10/30/2022 09:16:35 PM: INFO: ====== WebDriver manager ======
+10/30/2022 09:16:39 PM: INFO: Get LATEST geckodriver version for 106.0 firefox
+10/30/2022 09:16:43 PM: INFO: There is no [win64] geckodriver for browser 106.0 in cache
+10/30/2022 09:16:43 PM: INFO: Getting latest mozilla release info for v0.32.0
+10/30/2022 09:16:44 PM: INFO: About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+10/30/2022 09:16:53 PM: INFO: Driver has been saved in cache [C:\Users\gowthaman.k\.wdm\drivers\geckodriver\win64\0.32]
+10/30/2022 09:17:17 PM: INFO: Wait till profile click
+10/30/2022 09:18:54 PM: INFO: ====== WebDriver manager ======
+10/30/2022 09:18:57 PM: INFO: Get LATEST geckodriver version for 106.0 firefox
+10/30/2022 09:19:01 PM: INFO: Driver [C:\Users\gowthaman.k\.wdm\drivers\geckodriver\win64\0.32\geckodriver.exe] found in cache
+10/30/2022 09:19:09 PM: INFO: Validating Test case 1
+10/30/2022 09:19:09 PM: INFO: Employee Casual Leave Apply
+10/30/2022 09:19:09 PM: INFO: Wait till login page appears
+10/30/2022 09:20:06 PM: INFO: ====== WebDriver manager ======
+10/30/2022 09:20:10 PM: INFO: Get LATEST geckodriver version for 106.0 firefox
+10/30/2022 09:20:14 PM: INFO: Driver [C:\Users\gowthaman.k\.wdm\drivers\geckodriver\win64\0.32\geckodriver.exe] found in cache
+10/31/2022 08:47:02 AM: INFO: ====== WebDriver manager ======
+10/31/2022 08:47:14 AM: INFO: Get LATEST geckodriver version for 106.0 firefox
+10/31/2022 08:47:26 AM: INFO: There is no [win64] geckodriver for browser 106.0 in cache
+10/31/2022 08:47:31 AM: INFO: Get LATEST geckodriver version for 106.0 firefox
+10/31/2022 08:48:34 AM: INFO: ====== WebDriver manager ======
+10/31/2022 08:48:42 AM: INFO: Get LATEST chromedriver version for google-chrome 106.0.5249
+10/31/2022 08:48:49 AM: INFO: About to download new driver from https://chromedriver.storage.googleapis.com/106.0.5249.61/chromedriver_win32.zip
+10/31/2022 08:49:52 AM: INFO: Wait till profile click
+10/31/2022 08:49:53 AM: INFO: Wait till logout click
+10/31/2022 08:49:58 AM: INFO: Validating Test case 12
+10/31/2022 08:50:03 AM: INFO: Supervisor Casual Leave Approve
+10/31/2022 08:50:03 AM: INFO: Wait till login page appears
+10/31/2022 08:50:03 AM: INFO: Entering Supervisor credentials
+10/31/2022 08:50:41 AM: INFO: wait till login the application
+10/31/2022 08:50:41 AM: INFO: Employee Leave Management Menu clicks 
+10/31/2022 08:51:49 AM: INFO: wait until Approve Leave clicks
+10/31/2022 08:55:33 AM: INFO: Wait till profile click
+10/31/2022 08:55:34 AM: INFO: Wait till logout click
+10/31/2022 08:55:37 AM: INFO: Validating Test case 12
+10/31/2022 08:55:46 AM: INFO: Supervisor Casual Leave Approve
+10/31/2022 08:55:46 AM: INFO: Wait till login page appears
+10/31/2022 08:55:46 AM: INFO: Entering Supervisor credentials
+10/31/2022 08:56:21 AM: INFO: wait till login the application
+10/31/2022 08:56:21 AM: INFO: Employee Leave Management Menu clicks 
+10/31/2022 08:57:10 AM: INFO: wait until Approve Leave clicks
+10/31/2022 08:59:48 AM: INFO: Validating Test case 13
+10/31/2022 08:59:48 AM: INFO: Supervisor Earned Leave Approve
+10/31/2022 08:59:48 AM: INFO: Employee Leave Management Menu clicks 
+10/31/2022 08:59:48 AM: INFO: wait until Approve Leave clicks
+10/31/2022 09:01:55 AM: INFO: Validating Test case 13
+10/31/2022 09:01:55 AM: INFO: Supervisor Earned Leave Approve
+10/31/2022 09:01:55 AM: INFO: Employee Leave Management Menu clicks 
+10/31/2022 09:03:35 AM: INFO: Validating Test case 14
+10/31/2022 09:03:35 AM: INFO: Supervisor Flexi Leave Approve
+10/31/2022 09:03:35 AM: INFO: Employee Leave Management Menu clicks 
+10/31/2022 09:05:12 AM: INFO: Validating Test case 15
+10/31/2022 09:05:12 AM: INFO: Supervisor Compoff Leave Approve
+10/31/2022 09:05:12 AM: INFO: Employee Leave Management Menu clicks 
+10/31/2022 09:07:15 AM: INFO: Validating Test case 16
+10/31/2022 09:07:15 AM: INFO: Supervisor Permission Request Approve
+10/31/2022 09:07:15 AM: INFO: Employee Leave Management Menu clicks 
+10/31/2022 09:07:15 AM: INFO: wait until Request Leave clicks
+10/31/2022 09:09:00 AM: INFO: Validating Test case 12
+10/31/2022 09:09:00 AM: INFO: Supervisor WFH request Approve
+10/31/2022 09:09:00 AM: INFO: Employee Leave Management Menu clicks 
+10/31/2022 09:09:00 AM: INFO: wait until Request Leave clicks
+10/31/2022 09:13:11 AM: INFO: Validating Test case 12
+10/31/2022 09:13:11 AM: INFO: Supervisor WFH request Approve
+10/31/2022 09:13:11 AM: INFO: Employee Leave Management Menu clicks 
+10/31/2022 09:13:11 AM: INFO: wait until Request Leave clicks
+10/31/2022 09:15:55 AM: INFO: Wait till profile click
+10/31/2022 09:15:55 AM: INFO: Wait till logout click
+10/31/2022 09:16:00 AM: INFO: Validating Test case 18
+10/31/2022 09:16:06 AM: INFO: Employee Casual Leave status
+10/31/2022 09:16:06 AM: INFO: Wait till login page appears
+10/31/2022 09:16:06 AM: INFO: Entering Employee credentials
+10/31/2022 09:16:21 AM: INFO: wait till login the application
+10/31/2022 09:18:20 AM: INFO: Wait till profile click
+10/31/2022 09:18:20 AM: INFO: Wait till logout click
+10/31/2022 09:18:24 AM: INFO: Validating Test case 18
+10/31/2022 09:18:30 AM: INFO: Employee Casual Leave status
+10/31/2022 09:18:30 AM: INFO: Wait till login page appears
+10/31/2022 09:18:30 AM: INFO: Entering Employee credentials
+10/31/2022 09:18:41 AM: INFO: wait till login the application
+10/31/2022 09:25:44 AM: INFO: Wait till profile click
+10/31/2022 09:25:44 AM: INFO: Wait till logout click
+10/31/2022 09:25:49 AM: INFO: Validating Test case 18
+10/31/2022 09:25:56 AM: INFO: Employee Casual Leave status
+10/31/2022 09:25:56 AM: INFO: Wait till login page appears
+10/31/2022 09:25:56 AM: INFO: Entering Employee credentials
+10/31/2022 09:26:15 AM: INFO: wait till login the application
+10/31/2022 09:29:19 AM: INFO: Wait till profile click
+10/31/2022 09:29:19 AM: INFO: Wait till logout click
+10/31/2022 09:29:25 AM: INFO: Validating Test case 18
+10/31/2022 09:29:36 AM: INFO: Employee Casual Leave status
+10/31/2022 09:29:36 AM: INFO: Wait till login page appears
+10/31/2022 09:29:36 AM: INFO: Entering Employee credentials
+10/31/2022 09:29:48 AM: INFO: wait till login the application
+10/31/2022 09:35:45 AM: INFO: Wait till profile click
+10/31/2022 09:35:45 AM: INFO: Wait till logout click
+10/31/2022 09:35:50 AM: INFO: Validating Test case 18
+10/31/2022 09:35:57 AM: INFO: Employee Casual Leave status
+10/31/2022 09:35:57 AM: INFO: Wait till login page appears
+10/31/2022 09:35:57 AM: INFO: Entering Employee credentials
+10/31/2022 09:36:05 AM: INFO: wait till login the application
+10/31/2022 09:37:00 AM: INFO: Validating Test case 19
+10/31/2022 09:37:00 AM: INFO: Employee Earned Leave status
+10/31/2022 09:42:08 AM: INFO: Wait till profile click
+10/31/2022 09:42:08 AM: INFO: Wait till logout click
+10/31/2022 09:42:13 AM: INFO: Validating Test case 18
+10/31/2022 09:42:18 AM: INFO: Employee Casual Leave status
+10/31/2022 09:42:18 AM: INFO: Wait till login page appears
+10/31/2022 09:42:18 AM: INFO: Entering Employee credentials
+10/31/2022 09:42:41 AM: INFO: wait till login the application
+10/31/2022 09:44:10 AM: INFO: Validating Test case 19
+10/31/2022 09:44:10 AM: INFO: Employee Earned Leave status
+10/31/2022 09:44:26 AM: INFO: Validating Test case 20
+10/31/2022 09:44:26 AM: INFO: Employee Flexi Leave status
+10/31/2022 09:44:35 AM: INFO: Validating Test case 21
+10/31/2022 09:44:35 AM: INFO: Employee Compoff Leave status
+10/31/2022 09:45:32 AM: INFO: Validating Test case 22
+10/31/2022 09:45:32 AM: INFO: Employee Permission status
+10/31/2022 09:46:51 AM: INFO: Validating Test case 23
+10/31/2022 09:46:51 AM: INFO: Employee WFH status
+10/31/2022 09:52:19 AM: INFO: Validating Test case 22
+10/31/2022 09:52:19 AM: INFO: Employee Permission status
+10/31/2022 09:54:09 AM: INFO: Validating Test case 23
+10/31/2022 09:54:09 AM: INFO: Employee WFH status
+10/31/2022 09:56:15 AM: INFO: Wait till profile click
+10/31/2022 09:56:15 AM: INFO: Wait till logout click
+10/31/2022 09:56:24 AM: INFO: Validating Test case 24
+10/31/2022 09:56:45 AM: INFO: Employee Casual Leave Attendance Report
+10/31/2022 10:01:32 AM: INFO: Validating Test case 24
+10/31/2022 10:01:32 AM: INFO: Employee Casual Leave Attendance Report
+10/31/2022 10:03:56 AM: INFO: Validating Test case 25
+10/31/2022 10:03:56 AM: INFO: Employee Earned Leave Attendance Report
+10/31/2022 10:43:23 AM: INFO: Validating Test case 24
+10/31/2022 10:43:23 AM: INFO: Employee Casual Leave Attendance Report
+10/31/2022 10:51:59 AM: INFO: Validating Test case 24
+10/31/2022 10:51:59 AM: INFO: Employee Casual Leave Attendance Report
+10/31/2022 10:54:30 AM: INFO: Validating Test case 24
+10/31/2022 10:54:30 AM: INFO: Employee Casual Leave Attendance Report
+10/31/2022 10:57:19 AM: INFO: Validating Test case 25
+10/31/2022 10:57:19 AM: INFO: Employee Earned Leave Attendance Report
+10/31/2022 10:57:28 AM: INFO: Validating Test case 26
+10/31/2022 10:57:28 AM: INFO: Employee Flexi Leave Attendance Report
+10/31/2022 10:57:37 AM: INFO: Validating Test case 27
+10/31/2022 10:57:37 AM: INFO: Employee Compoff Attendance Report
+10/31/2022 10:57:46 AM: INFO: Wait till profile click
+10/31/2022 10:57:46 AM: INFO: Wait till logout click
+10/31/2022 10:58:00 AM: INFO: Validating Test case 28
+10/31/2022 10:58:26 AM: INFO: Supervisor View Team Leave Details Casual Leave
+10/31/2022 10:58:26 AM: INFO: Wait till login page appears
+10/31/2022 10:58:26 AM: INFO: Entering Supervisor credentials
+10/31/2022 10:59:08 AM: INFO: wait till login the application
+10/31/2022 10:59:08 AM: INFO: Employee Leave Management Menu clicks 
+10/31/2022 11:01:11 AM: INFO: wait until Request Leave clicks
+10/31/2022 11:18:55 AM: INFO: Validating Test case 29
+10/31/2022 11:18:55 AM: INFO: Supervisor View Team Leave Details Earned Leave
+10/31/2022 11:20:19 AM: INFO: Validating Test case 30
+10/31/2022 11:20:19 AM: INFO: Supervisor View Team Leave Details Flexi Leave
+10/31/2022 11:21:33 AM: INFO: Validating Test case 31
+10/31/2022 11:21:33 AM: INFO: Supervisor View Team Leave Details Compoff Leave
+10/31/2022 11:23:37 AM: INFO: Validating Test case 32
+10/31/2022 11:23:37 AM: INFO: Supervisor View Team Leave Details Permission
+10/31/2022 11:23:37 AM: INFO: wait until Request Leave clicks
+10/31/2022 11:25:29 AM: INFO: Validating Test case 33
+10/31/2022 11:25:29 AM: INFO: Supervisor View Team Leave Details WFH Details
+10/31/2022 11:25:29 AM: INFO: wait until Request Leave clicks
+10/31/2022 05:18:18 PM: INFO: Validating Test case 33
+10/31/2022 05:18:18 PM: INFO: Supervisor View Team Leave Details WFH Details
+10/31/2022 05:18:51 PM: INFO: wait until Request Leave clicks
+10/31/2022 05:31:24 PM: INFO: Validating Test case 1
+10/31/2022 05:31:24 PM: INFO: Employee Casual Leave Apply
+10/31/2022 05:31:24 PM: INFO: Wait till login page appears
+10/31/2022 05:31:24 PM: INFO: Entering Employee credentials
+10/31/2022 05:31:46 PM: INFO: wait till login the application
+10/31/2022 05:31:46 PM: INFO: Employee Leave Management Menu clicks 
+10/31/2022 05:32:20 PM: INFO: wait until Request Leave clicks
+10/31/2022 05:33:05 PM: INFO: Validating Test case 1
+10/31/2022 05:33:05 PM: INFO: Employee Casual Leave Apply
+10/31/2022 05:33:05 PM: INFO: Wait till login page appears
+10/31/2022 05:33:08 PM: INFO: Entering Employee credentials
+10/31/2022 05:33:18 PM: INFO: wait till login the application
+10/31/2022 05:33:18 PM: INFO: Employee Leave Management Menu clicks 
+10/31/2022 05:33:18 PM: INFO: wait until Request Leave clicks
+10/31/2022 05:36:37 PM: INFO: Validating Test case 1
+10/31/2022 05:36:37 PM: INFO: Employee Casual Leave Apply
+10/31/2022 05:36:37 PM: INFO: Wait till login page appears
+10/31/2022 05:36:37 PM: INFO: Entering Employee credentials
+10/31/2022 05:36:47 PM: INFO: wait till login the application
+10/31/2022 05:36:47 PM: INFO: Employee Leave Management Menu clicks 
+10/31/2022 05:37:15 PM: INFO: wait until Request Leave clicks
+10/31/2022 05:37:40 PM: INFO: wait until Request Leave form appears
+10/31/2022 05:37:40 PM: INFO: Request Leave From date clicks
+10/31/2022 05:37:40 PM: INFO: wait untill From date calendar appears
+10/31/2022 05:37:41 PM: INFO: select leave type casual
+10/31/2022 05:37:43 PM: INFO: wait untill To date calendar appears
+10/31/2022 05:37:43 PM: INFO: select leave type casual
+11/03/2022 06:55:08 PM: INFO: ====== WebDriver manager ======
+11/03/2022 06:55:25 PM: INFO: Get LATEST chromedriver version for google-chrome 107.0.5304
+11/03/2022 06:55:31 PM: INFO: Driver [C:\Users\gowthaman.k\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+11/03/2022 07:44:44 PM: INFO: Validating Test case 1
+11/03/2022 07:44:44 PM: INFO: Employee Casual Leave Apply
+11/03/2022 07:44:44 PM: INFO: Wait till login page appears
+11/03/2022 07:44:44 PM: INFO: Entering Employee credentials
+11/03/2022 07:44:55 PM: INFO: wait till login the application
+11/03/2022 08:19:08 PM: INFO: Validating Test case 1
+11/03/2022 08:19:08 PM: INFO: Employee LOP Attendance Verify
+11/03/2022 08:19:08 PM: INFO: Wait till login page appears
+11/03/2022 08:19:35 PM: INFO: Entering Employee credentials
+11/03/2022 08:19:40 PM: INFO: wait till login the application
+11/03/2022 08:20:55 PM: INFO: Validating Test case 1
+11/03/2022 08:20:55 PM: INFO: Employee LOP Attendance Verify
+11/03/2022 08:20:55 PM: INFO: Wait till login page appears
+11/03/2022 08:21:10 PM: INFO: Entering Employee credentials
+11/03/2022 08:21:15 PM: INFO: wait till login the application
+11/04/2022 11:18:01 AM: INFO: Validating Test case 1
+11/04/2022 11:18:01 AM: INFO: Employee LOP Attendance Verify
+11/04/2022 11:18:01 AM: INFO: Wait till login page appears
+11/04/2022 11:18:01 AM: INFO: Entering Employee credentials
+11/04/2022 11:18:07 AM: INFO: wait till login the application
+11/04/2022 11:22:25 AM: INFO: Validating Test case 1
+11/04/2022 11:22:25 AM: INFO: Employee LOP Attendance Verify
+11/04/2022 11:22:25 AM: INFO: Wait till login page appears
+11/04/2022 11:22:25 AM: INFO: Entering Employee credentials
+11/04/2022 11:22:31 AM: INFO: wait till login the application
+11/04/2022 11:25:27 AM: INFO: Validating Test case 1
+11/04/2022 11:25:27 AM: INFO: Employee LOP Attendance Verify
+11/04/2022 11:25:27 AM: INFO: Wait till login page appears
+11/04/2022 11:25:27 AM: INFO: Entering Employee credentials
+11/04/2022 11:25:33 AM: INFO: wait till login the application
+11/04/2022 12:09:57 PM: INFO: Validating Test case 1
+11/04/2022 12:09:57 PM: INFO: Employee LOP Attendance Verify
+11/04/2022 12:09:57 PM: INFO: Wait till login page appears
+11/04/2022 12:10:45 PM: INFO: Validating Test case 1
+11/04/2022 12:10:45 PM: INFO: Employee LOP Attendance Verify
+11/04/2022 12:10:45 PM: INFO: Wait till login page appears
+11/04/2022 12:10:45 PM: INFO: Entering Employee credentials
+11/04/2022 12:10:49 PM: INFO: wait till login the application
+11/04/2022 12:38:06 PM: INFO: Validating Test case 1
+11/04/2022 12:38:06 PM: INFO: Employee LOP Attendance Verify
+11/04/2022 12:38:06 PM: INFO: Wait till login page appears
+11/04/2022 12:38:07 PM: INFO: Entering Employee credentials
+11/04/2022 12:38:11 PM: INFO: wait till login the application
+11/04/2022 12:41:52 PM: INFO: Validating Test case 1
+11/04/2022 12:41:52 PM: INFO: Employee LOP Attendance Verify
+11/04/2022 12:41:52 PM: INFO: Wait till login page appears
+11/04/2022 12:41:52 PM: INFO: Entering Employee credentials
+11/04/2022 12:41:56 PM: INFO: wait till login the application
+11/04/2022 12:42:44 PM: INFO: Validating Test case 1
+11/04/2022 12:42:44 PM: INFO: Employee LOP Attendance Verify
+11/04/2022 12:42:44 PM: INFO: Wait till login page appears
+11/04/2022 12:42:44 PM: INFO: Entering Employee credentials
+11/04/2022 12:42:50 PM: INFO: wait till login the application
+11/04/2022 12:45:29 PM: INFO: Validating Test case 1
+11/04/2022 12:45:29 PM: INFO: Employee LOP Attendance Verify
+11/04/2022 12:45:29 PM: INFO: Wait till login page appears
+11/04/2022 12:45:29 PM: INFO: Entering Employee credentials
+11/04/2022 12:45:33 PM: INFO: wait till login the application
+11/04/2022 12:55:17 PM: INFO: Validating Test case 1
+11/04/2022 12:55:17 PM: INFO: Employee LOP Attendance Verify
+11/04/2022 12:55:17 PM: INFO: Wait till login page appears
+11/04/2022 12:55:17 PM: INFO: Entering Employee credentials
+11/04/2022 12:55:23 PM: INFO: wait till login the application
+11/04/2022 01:58:01 PM: INFO: Validating Test case 1
+11/04/2022 01:58:01 PM: INFO: Employee LOP Attendance Verify
+11/04/2022 01:58:01 PM: INFO: Wait till login page appears
+11/04/2022 01:58:01 PM: INFO: Entering Employee credentials
+11/04/2022 01:58:09 PM: INFO: wait till login the application
+11/04/2022 03:23:31 PM: INFO: Validating Test case 2
+11/04/2022 03:23:31 PM: INFO: Employee Raise LOP Verify
+11/04/2022 03:34:23 PM: INFO: Validating Test case 2
+11/04/2022 03:34:23 PM: INFO: Employee Raise LOP Verify
+11/04/2022 03:38:27 PM: INFO: Validating Test case 2
+11/04/2022 03:38:27 PM: INFO: Employee Raise LOP Verify
+11/04/2022 03:41:19 PM: INFO: Validating Test case 2
+11/04/2022 03:41:19 PM: INFO: Employee Raise LOP Verify
+11/04/2022 03:51:45 PM: INFO: Validating Test case 2
+11/04/2022 03:51:45 PM: INFO: Employee Raise LOP Verify
+11/04/2022 03:53:29 PM: INFO: Validating Test case 2
+11/04/2022 03:53:29 PM: INFO: Employee Raise LOP Verify
+11/04/2022 03:57:31 PM: INFO: Validating Test case 2
+11/04/2022 03:57:31 PM: INFO: Employee Raise LOP Verify
+11/04/2022 04:00:33 PM: INFO: Validating Test case 2
+11/04/2022 04:00:33 PM: INFO: Employee Raise LOP Verify
+11/04/2022 04:03:44 PM: INFO: Validating Test case 2
+11/04/2022 04:03:44 PM: INFO: Employee Raise LOP Verify
+11/04/2022 04:05:31 PM: INFO: Validating Test case 2
+11/04/2022 04:05:31 PM: INFO: Employee Raise LOP Verify
+11/04/2022 04:09:43 PM: INFO: Validating Test case 2
+11/04/2022 04:09:43 PM: INFO: Employee Raise LOP Verify
+11/04/2022 04:14:00 PM: INFO: Validating Test case 2
+11/04/2022 04:14:00 PM: INFO: Employee Raise LOP Verify
+11/04/2022 04:44:45 PM: INFO: Validating Test case 2
+11/04/2022 04:44:45 PM: INFO: Employee Raise LOP Verify
+11/04/2022 04:45:52 PM: INFO: Validating Test case 2
+11/04/2022 04:45:52 PM: INFO: Employee Raise LOP Verify
+11/04/2022 04:47:17 PM: INFO: Validating Test case 2
+11/04/2022 04:47:17 PM: INFO: Employee Raise LOP Verify
+11/04/2022 04:54:10 PM: INFO: Validating Test case 2
+11/04/2022 04:54:10 PM: INFO: Employee Raise LOP Verify
+11/04/2022 06:00:25 PM: INFO: Validating Test case 2
+11/04/2022 06:00:25 PM: INFO: Employee Raise LOP Verify
+11/04/2022 06:01:40 PM: INFO: Validating Test case 2
+11/04/2022 06:01:40 PM: INFO: Employee Raise LOP Verify
+11/04/2022 06:06:39 PM: INFO: Validating Test case 2
+11/04/2022 06:06:39 PM: INFO: Employee Raise LOP Verify
+11/04/2022 06:11:53 PM: INFO: Validating Test case 2
+11/04/2022 06:11:53 PM: INFO: Employee Raise LOP Verify
+11/04/2022 06:13:25 PM: INFO: Validating Test case 2
+11/04/2022 06:13:25 PM: INFO: Employee Raise LOP Verify
+11/04/2022 06:15:49 PM: INFO: Validating Test case 2
+11/04/2022 06:15:49 PM: INFO: Employee Raise LOP Verify
+11/04/2022 06:18:09 PM: INFO: Validating Test case 2
+11/04/2022 06:18:09 PM: INFO: Employee Raise LOP Verify
+11/04/2022 06:18:19 PM: INFO: Validating Test case 2
+11/04/2022 06:18:19 PM: INFO: Employee Raise LOP Verify
+11/04/2022 06:19:58 PM: INFO: Validating Test case 2
+11/04/2022 06:19:58 PM: INFO: Employee Raise LOP Verify
+11/04/2022 06:20:16 PM: INFO: Validating Test case 2
+11/04/2022 06:20:16 PM: INFO: Employee Raise LOP Verify
+11/04/2022 06:21:09 PM: INFO: Validating Test case 2
+11/04/2022 06:21:09 PM: INFO: Employee Raise LOP Verify
+11/04/2022 06:23:26 PM: INFO: Validating Test case 2
+11/04/2022 06:23:26 PM: INFO: Employee Raise LOP Verify
+11/04/2022 06:26:50 PM: INFO: Validating Test case 2
+11/04/2022 06:26:50 PM: INFO: Employee Raise LOP Verify
+11/04/2022 06:30:53 PM: INFO: Validating Test case 2
+11/04/2022 06:30:53 PM: INFO: Employee Raise LOP Verify
+11/04/2022 06:34:06 PM: INFO: Validating Test case 2
+11/04/2022 06:34:06 PM: INFO: Employee Raise LOP Verify
+11/04/2022 06:35:44 PM: INFO: Validating Test case 2
+11/04/2022 06:35:44 PM: INFO: Employee Raise LOP Verify
+11/04/2022 06:36:58 PM: INFO: Validating Test case 2
+11/04/2022 06:36:58 PM: INFO: Employee Raise LOP Verify
+11/04/2022 06:38:15 PM: INFO: Validating Test case 2
+11/04/2022 06:38:15 PM: INFO: Employee Raise LOP Verify
+11/04/2022 06:46:57 PM: INFO: Validating Test case 2
+11/04/2022 06:46:57 PM: INFO: Employee Raise LOP Verify
+11/04/2022 06:49:24 PM: INFO: Validating Test case 2
+11/04/2022 06:49:24 PM: INFO: Employee Raise LOP Verify
+11/04/2022 06:50:24 PM: INFO: Validating Test case 2
+11/04/2022 06:50:24 PM: INFO: Employee Raise LOP Verify
+11/04/2022 06:54:07 PM: INFO: Validating Test case 2
+11/04/2022 06:54:07 PM: INFO: Employee Raise LOP Verify
+11/04/2022 06:55:53 PM: INFO: Validating Test case 2
+11/04/2022 06:55:53 PM: INFO: Employee Raise LOP Verify
+11/04/2022 06:56:50 PM: INFO: Validating Test case 2
+11/04/2022 06:56:50 PM: INFO: Employee Raise LOP Verify
+11/04/2022 07:04:57 PM: INFO: Validating Test case 2
+11/04/2022 07:04:57 PM: INFO: Employee Raise LOP Verify
+11/04/2022 07:09:41 PM: INFO: Validating Test case 2
+11/04/2022 07:09:41 PM: INFO: Employee Raise LOP Verify
+11/04/2022 07:15:29 PM: INFO: Validating Test case 2
+11/04/2022 07:15:29 PM: INFO: Employee Raise LOP Verify
+11/04/2022 07:16:07 PM: INFO: Validating Test case 2
+11/04/2022 07:16:07 PM: INFO: Employee Raise LOP Verify
+11/04/2022 07:18:30 PM: INFO: Validating Test case 2
+11/04/2022 07:18:30 PM: INFO: Employee Raise LOP Verify
+11/04/2022 07:22:40 PM: INFO: Validating Test case 2
+11/04/2022 07:22:40 PM: INFO: Employee Raise LOP Verify
+11/04/2022 07:52:02 PM: INFO: Validating Test case 2
+11/04/2022 07:52:02 PM: INFO: Employee Raise LOP Verify
+11/04/2022 07:54:56 PM: INFO: Validating Test case 2
+11/04/2022 07:54:56 PM: INFO: Employee Raise LOP Verify
+11/04/2022 07:57:27 PM: INFO: Validating Test case 2
+11/04/2022 07:57:27 PM: INFO: Employee Raise LOP Verify
+11/04/2022 08:01:32 PM: INFO: Validating Test case 2
+11/04/2022 08:01:32 PM: INFO: Employee Raise LOP Verify
+11/04/2022 08:04:40 PM: INFO: Validating Test case 2
+11/04/2022 08:04:40 PM: INFO: Employee Raise LOP Verify
+11/04/2022 08:07:42 PM: INFO: Validating Test case 2
+11/04/2022 08:07:42 PM: INFO: Employee Raise LOP Verify
+11/04/2022 08:12:39 PM: INFO: Validating Test case 2
+11/04/2022 08:12:39 PM: INFO: Employee Raise LOP Verify
+11/07/2022 11:49:15 AM: INFO: Validating Test case 2
+11/07/2022 11:49:15 AM: INFO: Employee Raise LOP Verify
+11/07/2022 11:53:38 AM: INFO: Validating Test case 2
+11/07/2022 11:53:38 AM: INFO: Employee Raise LOP Verify
+11/07/2022 11:55:26 AM: INFO: Validating Test case 2
+11/07/2022 11:55:26 AM: INFO: Employee Raise LOP Verify
+11/07/2022 12:15:28 PM: INFO: Validating Test case 2
+11/07/2022 12:15:28 PM: INFO: Employee Raise LOP Verify
+11/07/2022 02:29:08 PM: INFO: Wait till profile click
+11/07/2022 02:29:08 PM: INFO: Wait till logout click
+11/07/2022 02:29:11 PM: INFO: Validating Test case 3
+11/07/2022 02:29:17 PM: INFO: Supervisor Approve LOP Request Verify
+11/07/2022 02:29:17 PM: INFO: Wait till login page appears
+11/07/2022 02:29:17 PM: INFO: Entering Employee credentials
+11/07/2022 02:29:36 PM: INFO: wait till login the application
+11/07/2022 03:45:03 PM: INFO: Wait till profile click
+11/07/2022 03:45:04 PM: INFO: Wait till logout click
+11/07/2022 03:45:08 PM: INFO: Validating Test case 3
+11/07/2022 03:45:12 PM: INFO: Supervisor Approve LOP Request Verify
+11/07/2022 03:45:12 PM: INFO: Wait till login page appears
+11/07/2022 03:45:12 PM: INFO: Entering Employee credentials
+11/07/2022 03:45:30 PM: INFO: wait till login the application
+11/07/2022 03:46:16 PM: INFO: Wait till profile click
+11/07/2022 03:46:16 PM: INFO: Wait till logout click
+11/07/2022 03:46:20 PM: INFO: Validating Test case 12
+11/07/2022 03:46:24 PM: INFO: Supervisor Casual Leave Approve
+11/07/2022 03:46:24 PM: INFO: Wait till login page appears
+11/07/2022 03:46:24 PM: INFO: Entering Supervisor credentials
+11/07/2022 03:47:28 PM: INFO: Wait till profile click
+11/07/2022 03:47:29 PM: INFO: Wait till logout click
+11/07/2022 03:47:33 PM: INFO: Validating Test case 3
+11/07/2022 03:47:38 PM: INFO: Supervisor Approve LOP Request Verify
+11/07/2022 03:47:38 PM: INFO: Wait till login page appears
+11/07/2022 03:47:38 PM: INFO: Entering Employee credentials
+11/07/2022 03:47:55 PM: INFO: wait till login the application
+11/07/2022 03:50:12 PM: INFO: Wait till profile click
+11/07/2022 03:50:12 PM: INFO: Wait till logout click
+11/07/2022 03:50:16 PM: INFO: Validating Test case 3
+11/07/2022 03:50:21 PM: INFO: Supervisor Approve LOP Request Verify
+11/07/2022 03:50:21 PM: INFO: Wait till login page appears
+11/07/2022 03:50:21 PM: INFO: Entering Employee credentials
+11/07/2022 03:50:39 PM: INFO: wait till login the application
+11/07/2022 04:12:53 PM: INFO: Wait till profile click
+11/07/2022 04:12:53 PM: INFO: Wait till logout click
+11/07/2022 04:12:57 PM: INFO: Validating Test case 3
+11/07/2022 04:13:04 PM: INFO: Supervisor Approve LOP Request Verify
+11/07/2022 04:13:04 PM: INFO: Wait till login page appears
+11/07/2022 04:13:04 PM: INFO: Entering Employee credentials
+11/07/2022 04:13:29 PM: INFO: wait till login the application
+11/07/2022 04:15:17 PM: INFO: Wait till profile click
+11/07/2022 04:15:17 PM: INFO: Wait till logout click
+11/07/2022 04:15:19 PM: INFO: Validating Test case 3
+11/07/2022 04:15:25 PM: INFO: Supervisor Approve LOP Request Verify
+11/07/2022 04:15:25 PM: INFO: Wait till login page appears
+11/07/2022 04:15:25 PM: INFO: Entering Employee credentials
+11/07/2022 04:15:43 PM: INFO: wait till login the application
+11/07/2022 04:19:21 PM: INFO: Wait till profile click
+11/07/2022 04:19:21 PM: INFO: Wait till logout click
+11/07/2022 04:19:26 PM: INFO: Validating Test case 3
+11/07/2022 04:19:30 PM: INFO: Supervisor Approve LOP Request Verify
+11/07/2022 04:19:30 PM: INFO: Wait till login page appears
+11/07/2022 04:19:30 PM: INFO: Entering Employee credentials
+11/07/2022 04:19:49 PM: INFO: wait till login the application
+11/07/2022 04:49:19 PM: INFO: Wait till profile click
+11/07/2022 04:49:19 PM: INFO: Wait till logout click
+11/07/2022 04:49:22 PM: INFO: Validating Test case 3
+11/07/2022 04:49:27 PM: INFO: Supervisor Approve LOP Request Verify
+11/07/2022 04:49:27 PM: INFO: Wait till login page appears
+11/07/2022 04:49:27 PM: INFO: Entering Employee credentials
+11/07/2022 04:49:45 PM: INFO: wait till login the application
+11/07/2022 04:54:05 PM: INFO: Wait till profile click
+11/07/2022 04:54:06 PM: INFO: Wait till logout click
+11/07/2022 04:54:09 PM: INFO: Validating Test case 3
+11/07/2022 04:54:13 PM: INFO: Supervisor Approve LOP Request Verify
+11/07/2022 04:54:13 PM: INFO: Wait till login page appears
+11/07/2022 04:54:13 PM: INFO: Entering Employee credentials
+11/07/2022 04:54:31 PM: INFO: wait till login the application
+11/07/2022 04:56:13 PM: INFO: Wait till profile click
+11/07/2022 04:56:13 PM: INFO: Wait till logout click
+11/07/2022 04:56:18 PM: INFO: Validating Test case 3
+11/07/2022 04:56:21 PM: INFO: Supervisor Approve LOP Request Verify
+11/07/2022 04:56:21 PM: INFO: Wait till login page appears
+11/07/2022 04:56:21 PM: INFO: Entering Employee credentials
+11/07/2022 04:56:40 PM: INFO: wait till login the application
+11/07/2022 04:58:08 PM: INFO: Wait till profile click
+11/07/2022 04:58:09 PM: INFO: Wait till logout click
+11/07/2022 04:58:12 PM: INFO: Validating Test case 3
+11/07/2022 04:58:17 PM: INFO: Supervisor Approve LOP Request Verify
+11/07/2022 04:58:17 PM: INFO: Wait till login page appears
+11/07/2022 04:58:17 PM: INFO: Entering Employee credentials
+11/07/2022 04:58:34 PM: INFO: wait till login the application
+11/07/2022 05:00:39 PM: INFO: Wait till profile click
+11/07/2022 05:00:39 PM: INFO: Wait till logout click
+11/07/2022 05:00:43 PM: INFO: Validating Test case 3
+11/07/2022 05:00:48 PM: INFO: Supervisor Approve LOP Request Verify
+11/07/2022 05:00:48 PM: INFO: Wait till login page appears
+11/07/2022 05:00:48 PM: INFO: Entering Employee credentials
+11/07/2022 05:01:06 PM: INFO: wait till login the application
+11/07/2022 05:55:43 PM: INFO: Wait till profile click
+11/07/2022 05:55:43 PM: INFO: Wait till logout click
+11/07/2022 05:55:47 PM: INFO: Validating Test case 3
+11/07/2022 05:55:52 PM: INFO: Supervisor Approve LOP Request Verify
+11/07/2022 05:55:52 PM: INFO: Wait till login page appears
+11/07/2022 05:55:52 PM: INFO: Entering Employee credentials
+11/07/2022 05:56:12 PM: INFO: wait till login the application
+11/07/2022 05:58:23 PM: INFO: Wait till profile click
+11/07/2022 05:58:23 PM: INFO: Wait till logout click
+11/07/2022 05:58:28 PM: INFO: Validating Test case 3
+11/07/2022 05:58:34 PM: INFO: Supervisor Approve LOP Request Verify
+11/07/2022 05:58:34 PM: INFO: Wait till login page appears
+11/07/2022 05:58:34 PM: INFO: Entering Employee credentials
+11/07/2022 05:58:54 PM: INFO: wait till login the application
+11/07/2022 06:01:27 PM: INFO: Wait till profile click
+11/07/2022 06:01:28 PM: INFO: Wait till logout click
+11/07/2022 06:01:32 PM: INFO: Validating Test case 3
+11/07/2022 06:01:38 PM: INFO: Supervisor Approve LOP Request Verify
+11/07/2022 06:01:38 PM: INFO: Wait till login page appears
+11/07/2022 06:01:38 PM: INFO: Entering Employee credentials
+11/07/2022 06:01:57 PM: INFO: wait till login the application
+11/07/2022 08:08:10 PM: INFO: Wait till profile click
+11/07/2022 08:08:11 PM: INFO: Wait till logout click
+11/07/2022 08:08:16 PM: INFO: Validating Test case 3
+11/07/2022 08:08:21 PM: INFO: Supervisor Approve LOP Request Verify
+11/07/2022 08:08:21 PM: INFO: Wait till login page appears
+11/07/2022 08:08:21 PM: INFO: Entering Employee credentials
+11/07/2022 08:08:40 PM: INFO: wait till login the application
+11/07/2022 08:13:11 PM: INFO: Wait till profile click
+11/07/2022 08:13:11 PM: INFO: Wait till logout click
+11/07/2022 08:13:14 PM: INFO: Validating Test case 3
+11/07/2022 08:13:20 PM: INFO: Supervisor Approve LOP Request Verify
+11/07/2022 08:13:20 PM: INFO: Wait till login page appears
+11/07/2022 08:13:20 PM: INFO: Entering Employee credentials
+11/07/2022 08:13:37 PM: INFO: wait till login the application
+11/07/2022 08:21:30 PM: INFO: Wait till profile click
+11/07/2022 08:21:30 PM: INFO: Wait till logout click
+11/07/2022 08:21:34 PM: INFO: Validating Test case 4
+11/07/2022 08:21:40 PM: INFO: Supervisor Approve LOP Request Verify
+11/07/2022 08:21:40 PM: INFO: Wait till login page appears
+11/07/2022 08:21:40 PM: INFO: Entering Employee credentials
+11/07/2022 08:21:59 PM: INFO: wait till login the application
+11/07/2022 08:27:06 PM: INFO: Wait till profile click
+11/07/2022 08:27:07 PM: INFO: Wait till logout click
+11/07/2022 08:27:11 PM: INFO: Validating Test case 4
+11/07/2022 08:27:17 PM: INFO: Supervisor Approve LOP Request Verify
+11/07/2022 08:27:17 PM: INFO: Wait till login page appears
+11/07/2022 08:27:17 PM: INFO: Entering Employee credentials
+11/07/2022 08:27:37 PM: INFO: wait till login the application
+11/08/2022 11:33:18 AM: INFO: Validating Test case 1
+11/08/2022 11:33:18 AM: INFO: Employee LOP Attendance Verify
+11/08/2022 11:33:18 AM: INFO: Wait till login page appears
+11/08/2022 11:38:25 AM: INFO: Wait till profile click
+11/08/2022 11:38:26 AM: INFO: Wait till logout click
+11/08/2022 11:38:32 AM: INFO: Validating Test case 05
+11/08/2022 11:38:37 AM: INFO: Employee Casual Leave Attendance Report
+11/08/2022 11:38:37 AM: INFO: Wait till login page appears
+11/08/2022 11:38:37 AM: INFO: Entering Employee credentials
+11/08/2022 11:38:42 AM: INFO: wait till login the application
+11/08/2022 01:48:40 PM: INFO: Wait till profile click
+11/08/2022 01:48:40 PM: INFO: Wait till logout click
+11/08/2022 01:48:44 PM: INFO: Validating Test case 05
+11/08/2022 01:48:49 PM: INFO: Employee Casual Leave Attendance Report
+11/08/2022 01:48:49 PM: INFO: Wait till login page appears
+11/08/2022 01:48:49 PM: INFO: Entering Employee credentials
+11/08/2022 01:49:14 PM: INFO: wait till login the application
+11/08/2022 01:53:30 PM: INFO: Wait till profile click
+11/08/2022 01:53:30 PM: INFO: Wait till logout click
+11/08/2022 01:53:34 PM: INFO: Validating Test case 05
+11/08/2022 01:53:38 PM: INFO: Employee Casual Leave Attendance Report
+11/08/2022 01:53:38 PM: INFO: Wait till login page appears
+11/08/2022 01:53:38 PM: INFO: Entering Employee credentials
+11/08/2022 01:54:02 PM: INFO: wait till login the application
+11/08/2022 02:02:20 PM: INFO: Wait till profile click
+11/08/2022 02:02:21 PM: INFO: Wait till logout click
+11/08/2022 02:02:24 PM: INFO: Validating Test case 05
+11/08/2022 02:02:28 PM: INFO: Employee Casual Leave Attendance Report
+11/08/2022 02:02:28 PM: INFO: Wait till login page appears
+11/08/2022 02:02:28 PM: INFO: Entering Employee credentials
+11/08/2022 02:02:52 PM: INFO: wait till login the application
+11/09/2022 12:28:03 PM: INFO: Validating Test case 2
+11/09/2022 12:28:03 PM: INFO: Employee Raise LOP Verify
+11/09/2022 12:30:57 PM: INFO: Validating Test case 2
+11/09/2022 12:30:57 PM: INFO: Employee Raise LOP Verify
+11/09/2022 12:34:58 PM: INFO: Validating Test case 2
+11/09/2022 12:34:58 PM: INFO: Employee Raise LOP Verify
+11/09/2022 12:40:08 PM: INFO: Validating Test case 2
+11/09/2022 12:40:08 PM: INFO: Employee Raise LOP Verify
+11/09/2022 12:43:24 PM: INFO: Validating Test case 2
+11/09/2022 12:43:24 PM: INFO: Employee Raise LOP Verify
+11/09/2022 03:34:13 PM: INFO: Validating Test case 2
+11/09/2022 03:34:13 PM: INFO: Employee Raise LOP Verify
+11/09/2022 03:40:34 PM: INFO: Validating Test case 2
+11/09/2022 03:40:34 PM: INFO: Employee Raise LOP Verify
+11/09/2022 03:43:29 PM: INFO: Validating Test case 2
+11/09/2022 03:43:29 PM: INFO: Employee Raise LOP Verify
+11/09/2022 03:46:43 PM: INFO: Validating Test case 2
+11/09/2022 03:46:43 PM: INFO: Employee Raise LOP Verify
+11/09/2022 03:51:00 PM: INFO: Validating Test case 2
+11/09/2022 03:51:00 PM: INFO: Employee Raise LOP Verify
+11/09/2022 03:57:19 PM: INFO: Validating Test case 2
+11/09/2022 03:57:19 PM: INFO: Employee Raise LOP Verify
+11/09/2022 04:02:06 PM: INFO: Validating Test case 2
+11/09/2022 04:02:06 PM: INFO: Employee Raise LOP Verify
+11/09/2022 04:05:38 PM: INFO: Validating Test case 2
+11/09/2022 04:05:38 PM: INFO: Employee Raise LOP Verify
+11/09/2022 04:15:24 PM: INFO: Validating Test case 2
+11/09/2022 04:15:24 PM: INFO: Employee Raise LOP Verify
+11/09/2022 04:17:40 PM: INFO: Validating Test case 2
+11/09/2022 04:17:40 PM: INFO: Employee Raise LOP Verify
+11/09/2022 04:21:48 PM: INFO: Validating Test case 2
+11/09/2022 04:21:48 PM: INFO: Employee Raise LOP Verify
+11/09/2022 04:33:43 PM: INFO: Validating Test case 2
+11/09/2022 04:33:43 PM: INFO: Employee Raise LOP Verify
+11/09/2022 04:44:01 PM: INFO: Validating Test case 2
+11/09/2022 04:44:01 PM: INFO: Employee Raise LOP Verify
+11/09/2022 05:17:11 PM: INFO: Validating Test case 2
+11/09/2022 05:17:11 PM: INFO: Employee Raise LOP Verify
+11/09/2022 05:32:29 PM: INFO: Validating Test case 2
+11/09/2022 05:32:29 PM: INFO: Employee Raise LOP Verify
+11/09/2022 05:41:17 PM: INFO: Validating Test case 2
+11/09/2022 05:41:17 PM: INFO: Employee Raise LOP Verify
+11/09/2022 05:45:29 PM: INFO: Validating Test case 2
+11/09/2022 05:45:29 PM: INFO: Employee Raise LOP Verify
+11/09/2022 05:48:18 PM: INFO: Validating Test case 2
+11/09/2022 05:48:18 PM: INFO: Employee Raise LOP Verify
+11/09/2022 05:55:49 PM: INFO: Validating Test case 2
+11/09/2022 05:55:49 PM: INFO: Employee Raise LOP Verify
+11/09/2022 06:20:08 PM: INFO: Validating Test case 2
+11/09/2022 06:20:08 PM: INFO: Employee Raise LOP Verify
+11/09/2022 06:22:16 PM: INFO: Validating Test case 2
+11/09/2022 06:22:16 PM: INFO: Employee Raise LOP Verify
+11/09/2022 06:51:08 PM: INFO: Wait till profile click
+11/09/2022 06:51:08 PM: INFO: Wait till logout click
+11/09/2022 06:51:12 PM: INFO: Validating Test case 8
+11/09/2022 06:51:12 PM: INFO: Employee LOP Attendance Verify
+11/09/2022 06:54:39 PM: INFO: Wait till profile click
+11/09/2022 06:54:39 PM: INFO: Wait till logout click
+11/09/2022 06:54:43 PM: INFO: Validating Test case 8
+11/09/2022 06:54:47 PM: INFO: Employee ULOP Attendance Verify
+11/09/2022 06:54:47 PM: INFO: Wait till login page appears
+11/09/2022 06:54:47 PM: INFO: Entering Employee credentials
+11/09/2022 06:54:52 PM: INFO: wait till login the application
+11/09/2022 06:55:30 PM: INFO: Wait till profile click
+11/09/2022 06:55:30 PM: INFO: Wait till logout click
+11/09/2022 06:55:34 PM: INFO: Validating Test case 8
+11/09/2022 06:55:39 PM: INFO: Employee ULOP Attendance Verify
+11/09/2022 06:55:39 PM: INFO: Wait till login page appears
+11/09/2022 06:55:39 PM: INFO: Entering Employee credentials
+11/09/2022 06:55:44 PM: INFO: wait till login the application
+11/09/2022 06:59:41 PM: INFO: Wait till profile click
+11/09/2022 06:59:41 PM: INFO: Wait till logout click
+11/09/2022 06:59:45 PM: INFO: Validating Test case 8
+11/09/2022 06:59:51 PM: INFO: Employee ULOP Attendance Verify
+11/09/2022 06:59:51 PM: INFO: Wait till login page appears
+11/09/2022 06:59:51 PM: INFO: Entering Employee credentials
+11/09/2022 06:59:56 PM: INFO: wait till login the application
+11/09/2022 07:36:18 PM: INFO: Wait till profile click
+11/09/2022 07:36:19 PM: INFO: Wait till logout click
+11/09/2022 07:36:23 PM: INFO: Validating Test case 9
+11/09/2022 07:36:30 PM: INFO: Supervisor Approve LOP Request Verify
+11/09/2022 07:36:30 PM: INFO: Wait till login page appears
+11/09/2022 07:36:30 PM: INFO: Entering Employee credentials
+11/09/2022 07:36:52 PM: INFO: wait till login the application
+11/09/2022 07:38:26 PM: INFO: Wait till profile click
+11/09/2022 07:38:26 PM: INFO: Wait till logout click
+11/09/2022 07:38:29 PM: INFO: Validating Test case 9
+11/09/2022 07:38:35 PM: INFO: Supervisor Approve LOP Request Verify
+11/09/2022 07:38:35 PM: INFO: Wait till login page appears
+11/09/2022 07:38:35 PM: INFO: Entering Employee credentials
+11/09/2022 07:38:56 PM: INFO: wait till login the application
+11/09/2022 08:36:30 PM: INFO: Wait till profile click
+11/09/2022 08:36:30 PM: INFO: Wait till logout click
+11/09/2022 08:36:34 PM: INFO: Validating Test case 4
+11/09/2022 08:36:40 PM: INFO: Supervisor Approve SHiftoff Request Verify
+11/09/2022 08:36:40 PM: INFO: Wait till login page appears
+11/09/2022 08:36:40 PM: INFO: Entering Employee credentials
+11/09/2022 08:37:05 PM: INFO: wait till login the application
+11/09/2022 08:39:37 PM: INFO: Wait till profile click
+11/09/2022 08:39:37 PM: INFO: Wait till logout click
+11/09/2022 08:40:31 PM: INFO: Wait till profile click
+11/09/2022 08:40:31 PM: INFO: Wait till logout click
+11/09/2022 08:40:34 PM: INFO: Validating Test case 4
+11/09/2022 08:40:40 PM: INFO: Supervisor Approve SHiftoff Request Verify
+11/09/2022 08:40:40 PM: INFO: Wait till login page appears
+11/09/2022 08:40:40 PM: INFO: Entering Employee credentials
+11/09/2022 08:41:05 PM: INFO: wait till login the application
+11/09/2022 08:46:32 PM: INFO: Wait till profile click
+11/09/2022 08:46:32 PM: INFO: Wait till logout click
+11/09/2022 08:46:35 PM: INFO: Validating Test case 11
+11/09/2022 08:46:41 PM: INFO: Employee SO Attendance Verify
+11/09/2022 08:46:41 PM: INFO: Wait till login page appears
+11/09/2022 08:46:41 PM: INFO: Entering Employee credentials
+11/09/2022 08:46:46 PM: INFO: wait till login the application
+11/10/2022 11:25:38 AM: INFO: Wait till profile click
+11/10/2022 11:25:39 AM: INFO: Wait till logout click
+11/10/2022 11:25:44 AM: INFO: Validating Test case 12
+11/10/2022 11:25:44 AM: INFO: Supervisor ULOP Dashboard Verify
+11/10/2022 11:25:44 AM: INFO: Wait till login page appears
+11/10/2022 11:48:47 AM: INFO: Wait till profile click
+11/10/2022 11:48:47 AM: INFO: Wait till logout click
+11/10/2022 11:48:49 AM: INFO: Validating Test case 12
+11/10/2022 11:48:55 AM: INFO: Supervisor ULOP Dashboard Verify
+11/10/2022 11:48:55 AM: INFO: Wait till login page appears
+11/10/2022 11:48:55 AM: INFO: Entering Employee credentials
+11/10/2022 11:49:15 AM: INFO: wait till login the application
+11/10/2022 11:51:05 AM: INFO: Wait till profile click
+11/10/2022 11:51:06 AM: INFO: Wait till logout click
+11/10/2022 11:51:08 AM: INFO: Validating Test case 12
+11/10/2022 11:51:12 AM: INFO: Supervisor ULOP Dashboard Verify
+11/10/2022 11:51:12 AM: INFO: Wait till login page appears
+11/10/2022 11:51:12 AM: INFO: Entering Employee credentials
+11/10/2022 11:51:31 AM: INFO: wait till login the application
+11/10/2022 11:54:20 AM: INFO: Wait till profile click
+11/10/2022 11:54:21 AM: INFO: Wait till logout click
+11/10/2022 11:54:23 AM: INFO: Validating Test case 12
+11/10/2022 11:54:29 AM: INFO: Supervisor ULOP Dashboard Verify
+11/10/2022 11:54:29 AM: INFO: Wait till login page appears
+11/10/2022 11:54:29 AM: INFO: Entering Employee credentials
+11/10/2022 11:54:48 AM: INFO: wait till login the application
+11/10/2022 11:57:10 AM: INFO: Wait till profile click
+11/10/2022 11:57:10 AM: INFO: Wait till logout click
+11/10/2022 11:57:14 AM: INFO: Validating Test case 12
+11/10/2022 11:57:19 AM: INFO: Supervisor ULOP Dashboard Verify
+11/10/2022 11:57:19 AM: INFO: Wait till login page appears
+11/10/2022 11:57:19 AM: INFO: Entering Employee credentials
+11/10/2022 11:57:39 AM: INFO: wait till login the application
+11/10/2022 12:01:43 PM: INFO: Wait till profile click
+11/10/2022 12:01:43 PM: INFO: Wait till logout click
+11/10/2022 12:01:46 PM: INFO: Validating Test case 12
+11/10/2022 12:01:51 PM: INFO: Supervisor ULOP Dashboard Verify
+11/10/2022 12:01:51 PM: INFO: Wait till login page appears
+11/10/2022 12:01:51 PM: INFO: Entering Employee credentials
+11/10/2022 12:02:32 PM: INFO: wait till login the application
+11/10/2022 01:26:29 PM: INFO: Validating Test case 12
+11/10/2022 07:00:47 PM: INFO: Validating Test case 9
+11/10/2022 07:00:47 PM: INFO: Supervisor Extension work plan Verify
+11/10/2022 07:05:07 PM: INFO: Validating Test case 9
+11/10/2022 07:05:07 PM: INFO: Supervisor Extension work plan Verify
+11/10/2022 07:11:02 PM: INFO: Validating Test case 9
+11/10/2022 07:11:02 PM: INFO: Supervisor Extension work plan Verify
+11/10/2022 07:15:23 PM: INFO: Validating Test case 9
+11/10/2022 07:15:23 PM: INFO: Supervisor Extension work plan Verify
+11/10/2022 07:28:30 PM: INFO: Validating Test case 9
+11/10/2022 07:28:30 PM: INFO: Supervisor Extension work plan Verify
+11/10/2022 07:32:00 PM: INFO: Validating Test case 9
+11/10/2022 07:32:00 PM: INFO: Supervisor Extension work plan Verify
+11/10/2022 07:35:28 PM: INFO: Validating Test case 9
+11/10/2022 07:35:28 PM: INFO: Supervisor Extension work plan Verify
+11/11/2022 11:12:23 AM: INFO: Validating Test case 9
+11/11/2022 11:12:23 AM: INFO: Supervisor Extension work plan Verify
+11/14/2022 05:26:51 PM: INFO: Wait till profile click
+11/14/2022 05:26:52 PM: INFO: Wait till logout click
+11/14/2022 05:26:58 PM: INFO: Validating Test case 14
+11/14/2022 05:27:04 PM: INFO: Supervisor Attendance Freezing Date Verify
+11/14/2022 05:27:04 PM: INFO: Wait till login page appears
+11/14/2022 05:27:04 PM: INFO: Entering Employee credentials
+11/14/2022 05:27:30 PM: INFO: wait till login the application
+11/14/2022 05:40:14 PM: INFO: Wait till profile click
+11/14/2022 05:40:15 PM: INFO: Wait till logout click
+11/14/2022 05:40:18 PM: INFO: Validating Test case 14
+11/14/2022 05:40:21 PM: INFO: Supervisor Attendance Freezing Date Verify
+11/14/2022 05:40:21 PM: INFO: Wait till login page appears
+11/14/2022 05:40:21 PM: INFO: Entering Employee credentials
+11/14/2022 05:40:46 PM: INFO: wait till login the application
+11/14/2022 05:44:24 PM: INFO: Wait till profile click
+11/14/2022 05:44:25 PM: INFO: Wait till logout click
+11/14/2022 05:44:26 PM: INFO: Validating Test case 14
+11/14/2022 05:44:29 PM: INFO: Supervisor Attendance Freezing Date Verify
+11/14/2022 05:44:29 PM: INFO: Wait till login page appears
+11/14/2022 05:44:29 PM: INFO: Entering Employee credentials
+11/14/2022 05:44:50 PM: INFO: wait till login the application
+11/14/2022 06:07:12 PM: INFO: Wait till profile click
+11/14/2022 06:07:12 PM: INFO: Wait till logout click
+11/14/2022 06:07:13 PM: INFO: Validating Test case 14
+11/14/2022 06:07:13 PM: INFO: Supervisor Attendance Freezing Date Verify
+11/14/2022 06:07:13 PM: INFO: Wait till login page appears
+11/14/2022 06:07:13 PM: INFO: Entering Employee credentials
+11/14/2022 06:07:35 PM: INFO: wait till login the application
+11/14/2022 07:05:57 PM: INFO: Wait till profile click
+11/14/2022 07:05:58 PM: INFO: Wait till logout click
+11/14/2022 07:06:00 PM: INFO: Validating Test case 14
+11/14/2022 07:06:01 PM: INFO: Supervisor Attendance Freezing Date Verify
+11/14/2022 07:06:01 PM: INFO: Wait till login page appears
+11/14/2022 07:06:01 PM: INFO: Entering Employee credentials
+11/14/2022 07:06:23 PM: INFO: wait till login the application
+11/14/2022 07:21:18 PM: INFO: Wait till profile click
+11/14/2022 07:21:18 PM: INFO: Wait till logout click
+11/14/2022 07:21:21 PM: INFO: Validating Test case 14
+11/14/2022 07:21:25 PM: INFO: Supervisor Attendance Freezing Date Verify
+11/14/2022 07:21:25 PM: INFO: Wait till login page appears
+11/14/2022 07:21:25 PM: INFO: Entering Employee credentials
+11/14/2022 07:21:49 PM: INFO: wait till login the application
+11/14/2022 07:24:43 PM: INFO: Wait till profile click
+11/14/2022 07:24:43 PM: INFO: Wait till logout click
+11/14/2022 07:24:45 PM: INFO: Validating Test case 11
+11/14/2022 07:24:49 PM: INFO: Employee SO Attendance Verify
+11/14/2022 07:24:49 PM: INFO: Wait till login page appears
+11/14/2022 07:24:49 PM: INFO: Entering Employee credentials
+11/14/2022 07:24:52 PM: INFO: wait till login the application
+11/14/2022 07:27:40 PM: INFO: Wait till profile click
+11/14/2022 07:27:40 PM: INFO: Wait till logout click
+11/14/2022 07:27:43 PM: INFO: Validating Test case 14
+11/14/2022 07:27:47 PM: INFO: Supervisor Attendance Freezing Date Verify
+11/14/2022 07:27:47 PM: INFO: Wait till login page appears
+11/14/2022 07:27:47 PM: INFO: Entering Employee credentials
+11/14/2022 07:28:10 PM: INFO: wait till login the application
+11/14/2022 07:30:56 PM: INFO: Wait till profile click
+11/14/2022 07:30:56 PM: INFO: Wait till logout click
+11/14/2022 07:30:58 PM: INFO: Validating Test case 11
+11/14/2022 07:31:01 PM: INFO: Employee SO Attendance Verify
+11/14/2022 07:31:01 PM: INFO: Wait till login page appears
+11/14/2022 07:31:01 PM: INFO: Entering Employee credentials
+11/14/2022 07:31:03 PM: INFO: wait till login the application
+11/14/2022 07:35:59 PM: INFO: Wait till profile click
+11/14/2022 07:35:59 PM: INFO: Wait till logout click
+11/14/2022 07:36:02 PM: INFO: Validating Test case 14
+11/14/2022 07:36:06 PM: INFO: Supervisor Attendance Freezing Date Verify
+11/14/2022 07:36:06 PM: INFO: Wait till login page appears
+11/14/2022 07:36:06 PM: INFO: Entering Employee credentials
+11/14/2022 07:36:27 PM: INFO: wait till login the application
+11/14/2022 07:41:46 PM: INFO: Wait till profile click
+11/14/2022 07:41:46 PM: INFO: Wait till logout click
+11/14/2022 07:41:47 PM: INFO: Validating Test case 14
+11/14/2022 07:41:50 PM: INFO: Supervisor Attendance Freezing Date Verify
+11/14/2022 07:41:50 PM: INFO: Wait till login page appears
+11/14/2022 07:41:50 PM: INFO: Entering Employee credentials
+11/14/2022 07:42:12 PM: INFO: wait till login the application
+11/14/2022 07:46:08 PM: INFO: Wait till profile click
+11/14/2022 07:46:08 PM: INFO: Wait till logout click
+11/14/2022 07:46:09 PM: INFO: Validating Test case 11
+11/14/2022 07:46:13 PM: INFO: Employee SO Attendance Verify
+11/14/2022 07:46:13 PM: INFO: Wait till login page appears
+11/14/2022 07:46:13 PM: INFO: Entering Employee credentials
+11/14/2022 07:46:15 PM: INFO: wait till login the application
+11/15/2022 12:05:12 PM: INFO: Wait till profile click
+11/15/2022 12:05:13 PM: INFO: Wait till logout click
+11/15/2022 12:05:17 PM: INFO: Validating Test case 14
+11/15/2022 12:05:22 PM: INFO: Supervisor Attendance Freezing Date Verify
+11/15/2022 12:05:22 PM: INFO: Wait till login page appears
+11/15/2022 12:05:22 PM: INFO: Entering Employee credentials
+11/15/2022 12:05:49 PM: INFO: wait till login the application
+11/15/2022 12:09:51 PM: INFO: Wait till profile click
+11/15/2022 12:09:51 PM: INFO: Wait till logout click
+11/15/2022 12:09:54 PM: INFO: Validating Test case 14
+11/15/2022 12:10:01 PM: INFO: Supervisor Attendance Freezing Date Verify
+11/15/2022 12:10:01 PM: INFO: Wait till login page appears
+11/15/2022 12:10:01 PM: INFO: Entering Employee credentials
+11/15/2022 12:10:27 PM: INFO: wait till login the application
+11/15/2022 12:14:22 PM: INFO: Wait till profile click
+11/15/2022 12:14:22 PM: INFO: Wait till logout click
+11/15/2022 12:14:24 PM: INFO: Validating Test case 11
+11/15/2022 12:14:29 PM: INFO: Employee SO Attendance Verify
+11/15/2022 12:14:29 PM: INFO: Wait till login page appears
+11/15/2022 12:14:29 PM: INFO: Entering Employee credentials
+11/15/2022 12:14:33 PM: INFO: wait till login the application
+11/15/2022 06:23:16 PM: INFO: Wait till profile click
+11/15/2022 06:23:16 PM: INFO: Wait till logout click
+11/15/2022 06:23:24 PM: INFO: Validating Test case 14
+11/15/2022 06:23:29 PM: INFO: Supervisor Attendance Freezing Date Verify
+11/15/2022 06:23:29 PM: INFO: Wait till login page appears
+11/15/2022 06:23:29 PM: INFO: Entering Employee credentials
+11/15/2022 06:23:56 PM: INFO: wait till login the application
+11/16/2022 11:27:29 AM: INFO: Wait till profile click
+11/16/2022 11:27:29 AM: INFO: Wait till logout click
+11/16/2022 11:27:34 AM: INFO: Validating Test case 14
+11/16/2022 11:27:39 AM: INFO: Supervisor National Holiday Entry Verify
+11/16/2022 11:27:39 AM: INFO: Wait till login page appears
+11/16/2022 11:27:39 AM: INFO: Entering Employee credentials
+11/16/2022 11:28:05 AM: INFO: wait till login the application
+11/16/2022 11:36:47 AM: INFO: Wait till profile click
+11/16/2022 11:36:47 AM: INFO: Wait till logout click
+11/16/2022 11:36:51 AM: INFO: Validating Test case 18
+11/16/2022 11:36:57 AM: INFO: Employee SO Attendance Verify
+11/16/2022 11:36:57 AM: INFO: Wait till login page appears
+11/16/2022 11:36:57 AM: INFO: Entering Employee credentials
+11/16/2022 11:37:01 AM: INFO: wait till login the application
+11/16/2022 03:32:13 PM: INFO: Wait till profile click
+11/16/2022 03:32:13 PM: INFO: Wait till logout click
+11/16/2022 03:32:17 PM: INFO: Validating Test case 18
+11/16/2022 03:32:20 PM: INFO: Employee SO Attendance Verify
+11/16/2022 03:32:20 PM: INFO: Wait till login page appears
+11/16/2022 03:32:20 PM: INFO: Entering Employee credentials
+11/16/2022 03:32:24 PM: INFO: wait till login the application
+11/16/2022 07:01:02 PM: INFO: Wait till profile click
+11/16/2022 07:01:03 PM: INFO: Wait till logout click
+11/16/2022 07:01:08 PM: INFO: Validating Test case 18
+11/16/2022 07:01:12 PM: INFO: Employee NH Attendance Verify
+11/16/2022 07:01:12 PM: INFO: Wait till login page appears
+11/16/2022 07:01:13 PM: INFO: Entering Employee credentials
+11/16/2022 07:01:32 PM: INFO: wait till login the application
+11/17/2022 05:25:40 PM: INFO: Wait till profile click
+11/17/2022 05:25:42 PM: INFO: Wait till logout click
+11/17/2022 05:25:51 PM: INFO: Validating Test case 14
+11/17/2022 05:25:57 PM: INFO: Supervisor National Holiday Entry Verify
+11/17/2022 05:25:57 PM: INFO: Wait till login page appears
+11/17/2022 05:25:57 PM: INFO: Entering Employee credentials
+11/17/2022 05:26:26 PM: INFO: wait till login the application
+11/17/2022 05:39:03 PM: INFO: Wait till profile click
+11/17/2022 05:39:03 PM: INFO: Wait till logout click
+11/17/2022 05:39:08 PM: INFO: Validating Test case 18
+11/17/2022 05:39:19 PM: INFO: Employee NH Attendance Verify
+11/17/2022 05:39:26 PM: INFO: Wait till login page appears
+11/17/2022 05:39:26 PM: INFO: Entering Employee credentials
+11/17/2022 05:39:48 PM: INFO: wait till login the application
+11/17/2022 05:55:24 PM: INFO: Supervisor National Holiday Entry Verify
+11/17/2022 06:01:56 PM: INFO: Wait till profile click
+11/17/2022 06:01:56 PM: INFO: Wait till logout click
+11/17/2022 06:02:01 PM: INFO: Validating Test case 18
+11/17/2022 06:02:06 PM: INFO: Employee SO Attendance Verify
+11/17/2022 06:02:06 PM: INFO: Wait till login page appears
+11/17/2022 06:02:06 PM: INFO: Entering Employee credentials
+11/17/2022 06:02:11 PM: INFO: wait till login the application
+11/17/2022 06:20:05 PM: INFO: Supervisor National Holiday Entry Verify
+11/18/2022 04:39:57 PM: INFO: Wait till profile click
+11/18/2022 04:39:58 PM: INFO: Wait till logout click
+11/18/2022 04:40:03 PM: INFO: Validating Test case 9
+11/18/2022 04:40:03 PM: INFO: Supervisor Extension work plan Verify
+11/18/2022 04:40:10 PM: INFO: Wait till login page appears
+11/18/2022 04:40:10 PM: INFO: Entering Employee credentials
+11/18/2022 04:40:38 PM: INFO: wait till login the application
+11/18/2022 07:36:23 PM: INFO: Supervisor Approve Extension work plan Request Verify
+11/18/2022 07:38:00 PM: INFO: Supervisor Approve Extension work plan Request Verify
+11/18/2022 07:50:07 PM: INFO: Supervisor Approve Extension work plan Request Verify
+11/18/2022 08:07:44 PM: INFO: Wait till profile click
+11/18/2022 08:07:44 PM: INFO: Wait till logout click
+11/18/2022 08:07:50 PM: INFO: Validating Test case 14
+11/18/2022 08:07:57 PM: INFO: Supervisor Attendance Freezing Date Verify
+11/18/2022 08:07:57 PM: INFO: Wait till login page appears
+11/18/2022 08:07:57 PM: INFO: Entering Employee credentials
+11/18/2022 08:08:24 PM: INFO: wait till login the application
+11/18/2022 08:15:10 PM: INFO: Wait till profile click
+11/18/2022 08:15:11 PM: INFO: Wait till logout click
+11/18/2022 08:15:16 PM: INFO: Validating Test case 11
+11/18/2022 08:15:23 PM: INFO: Employee SO Attendance Verify
+11/18/2022 08:15:23 PM: INFO: Wait till login page appears
+11/18/2022 08:15:23 PM: INFO: Entering Employee credentials
+11/18/2022 08:15:31 PM: INFO: wait till login the application
+11/18/2022 08:26:20 PM: INFO: Wait till profile click
+11/18/2022 08:26:20 PM: INFO: Wait till logout click
+11/18/2022 08:26:25 PM: INFO: Validating Test case 11
+11/18/2022 08:26:31 PM: INFO: Employee SO Attendance Verify
+11/18/2022 08:26:31 PM: INFO: Wait till login page appears
+11/18/2022 08:26:31 PM: INFO: Entering Employee credentials
+11/18/2022 08:26:38 PM: INFO: wait till login the application
+11/18/2022 08:33:27 PM: INFO: Wait till profile click
+11/18/2022 08:33:27 PM: INFO: Wait till logout click
+11/18/2022 08:33:32 PM: INFO: Validating Test case 11
+11/18/2022 08:33:37 PM: INFO: Employee SO Attendance Verify
+11/18/2022 08:33:37 PM: INFO: Wait till login page appears
+11/18/2022 08:33:37 PM: INFO: Entering Employee credentials
+11/18/2022 08:33:43 PM: INFO: wait till login the application
+11/18/2022 08:42:03 PM: INFO: Wait till profile click
+11/18/2022 08:42:04 PM: INFO: Wait till logout click
+11/18/2022 08:42:08 PM: INFO: Validating Test case 11
+11/18/2022 08:42:13 PM: INFO: Employee SO Attendance Verify
+11/18/2022 08:42:13 PM: INFO: Wait till login page appears
+11/18/2022 08:42:13 PM: INFO: Entering Employee credentials
+11/18/2022 08:42:18 PM: INFO: wait till login the application
+11/18/2022 08:43:20 PM: INFO: Wait till profile click
+11/18/2022 08:43:20 PM: INFO: Wait till logout click
+11/18/2022 08:43:25 PM: INFO: Validating Test case 11
+11/18/2022 08:43:31 PM: INFO: Employee SO Attendance Verify
+11/18/2022 08:43:31 PM: INFO: Wait till login page appears
+11/18/2022 08:43:31 PM: INFO: Entering Employee credentials
+11/18/2022 08:43:36 PM: INFO: wait till login the application
+11/18/2022 08:48:01 PM: INFO: Wait till profile click
+11/18/2022 08:48:01 PM: INFO: Wait till logout click
+11/18/2022 08:48:08 PM: INFO: Validating Test case 11
+11/18/2022 08:48:16 PM: INFO: Employee SO Attendance Verify
+11/18/2022 08:48:16 PM: INFO: Wait till login page appears
+11/18/2022 08:48:16 PM: INFO: Entering Employee credentials
+11/18/2022 08:48:22 PM: INFO: wait till login the application
+11/18/2022 08:50:29 PM: INFO: Wait till profile click
+11/18/2022 08:50:29 PM: INFO: Wait till logout click
+11/18/2022 08:50:34 PM: INFO: Validating Test case 11
+11/18/2022 08:50:39 PM: INFO: Employee SO Attendance Verify
+11/18/2022 08:50:39 PM: INFO: Wait till login page appears
+11/18/2022 08:50:39 PM: INFO: Entering Employee credentials
+11/18/2022 08:50:47 PM: INFO: wait till login the application
+11/18/2022 08:52:21 PM: INFO: Wait till profile click
+11/18/2022 08:52:21 PM: INFO: Wait till logout click
+11/18/2022 08:52:26 PM: INFO: Validating Test case 11
+11/18/2022 08:52:33 PM: INFO: Employee SO Attendance Verify
+11/18/2022 08:52:33 PM: INFO: Wait till login page appears
+11/18/2022 08:52:33 PM: INFO: Entering Employee credentials
+11/18/2022 08:52:39 PM: INFO: wait till login the application
+11/18/2022 08:56:04 PM: INFO: Wait till profile click
+11/18/2022 08:56:04 PM: INFO: Wait till logout click
+11/18/2022 08:56:09 PM: INFO: Validating Test case 11
+11/18/2022 08:56:17 PM: INFO: Employee SO Attendance Verify
+11/18/2022 08:56:17 PM: INFO: Wait till login page appears
+11/18/2022 08:56:17 PM: INFO: Entering Employee credentials
+11/18/2022 08:56:23 PM: INFO: wait till login the application
+11/18/2022 09:04:04 PM: INFO: Wait till profile click
+11/18/2022 09:04:04 PM: INFO: Wait till logout click
+11/18/2022 09:04:10 PM: INFO: Validating Test case 11
+11/18/2022 09:04:15 PM: INFO: Employee SO Attendance Verify
+11/18/2022 09:04:15 PM: INFO: Wait till login page appears
+11/18/2022 09:04:16 PM: INFO: Entering Employee credentials
+11/18/2022 09:04:22 PM: INFO: wait till login the application
+11/18/2022 09:06:55 PM: INFO: Wait till profile click
+11/18/2022 09:06:55 PM: INFO: Wait till logout click
+11/18/2022 09:06:59 PM: INFO: Validating Test case 11
+11/18/2022 09:07:08 PM: INFO: Employee SO Attendance Verify
+11/18/2022 09:07:08 PM: INFO: Wait till login page appears
+11/18/2022 09:07:08 PM: INFO: Entering Employee credentials
+11/18/2022 09:07:12 PM: INFO: wait till login the application
+11/21/2022 11:17:43 AM: INFO: Wait till profile click
+11/21/2022 11:17:44 AM: INFO: Wait till logout click
+11/21/2022 11:17:49 AM: INFO: Validating Test case 14
+11/21/2022 11:17:54 AM: INFO: Supervisor Attendance Freezing Date Verify
+11/21/2022 11:17:54 AM: INFO: Wait till login page appears
+11/21/2022 11:17:54 AM: INFO: Entering Employee credentials
+11/21/2022 11:18:19 AM: INFO: wait till login the application
+11/21/2022 11:32:04 AM: INFO: Wait till profile click
+11/21/2022 11:32:04 AM: INFO: Wait till logout click
+11/21/2022 11:32:08 AM: INFO: Validating Test case 11
+11/21/2022 11:32:11 AM: INFO: Employee SO Attendance Verify
+11/21/2022 11:32:11 AM: INFO: Wait till login page appears
+11/21/2022 11:32:11 AM: INFO: Entering Employee credentials
+11/21/2022 11:32:16 AM: INFO: wait till login the application
+11/21/2022 11:33:39 AM: INFO: Wait till profile click
+11/21/2022 11:33:39 AM: INFO: Wait till logout click
+11/21/2022 11:33:43 AM: INFO: Validating Test case 11
+11/21/2022 11:33:46 AM: INFO: Employee SO Attendance Verify
+11/21/2022 11:33:46 AM: INFO: Wait till login page appears
+11/21/2022 11:33:47 AM: INFO: Entering Employee credentials
+11/21/2022 11:33:50 AM: INFO: wait till login the application
+11/21/2022 11:41:27 AM: INFO: Wait till profile click
+11/21/2022 11:41:27 AM: INFO: Wait till logout click
+11/21/2022 11:41:32 AM: INFO: Validating Test case 11
+11/21/2022 11:41:37 AM: INFO: Employee SO Attendance Verify
+11/21/2022 11:41:37 AM: INFO: Wait till login page appears
+11/21/2022 11:41:37 AM: INFO: Entering Employee credentials
+11/21/2022 11:41:42 AM: INFO: wait till login the application
+11/21/2022 11:53:25 AM: INFO: Wait till profile click
+11/21/2022 11:53:25 AM: INFO: Wait till logout click
+11/21/2022 11:53:29 AM: INFO: Validating Test case 11
+11/21/2022 11:53:33 AM: INFO: Employee SO Attendance Verify
+11/21/2022 11:53:33 AM: INFO: Wait till login page appears
+11/21/2022 11:53:33 AM: INFO: Entering Employee credentials
+11/21/2022 11:53:37 AM: INFO: wait till login the application
+11/21/2022 11:55:00 AM: INFO: Wait till profile click
+11/21/2022 11:55:00 AM: INFO: Wait till logout click
+11/21/2022 11:55:04 AM: INFO: Validating Test case 11
+11/21/2022 11:55:08 AM: INFO: Employee SO Attendance Verify
+11/21/2022 11:55:08 AM: INFO: Wait till login page appears
+11/21/2022 11:55:08 AM: INFO: Entering Employee credentials
+11/21/2022 11:55:13 AM: INFO: wait till login the application
+11/21/2022 12:10:12 PM: INFO: Wait till profile click
+11/21/2022 12:12:19 PM: INFO: Wait till profile click
+11/21/2022 12:17:33 PM: INFO: Wait till profile click
+11/21/2022 12:17:33 PM: INFO: Wait till logout click
+11/21/2022 12:17:37 PM: INFO: Validating Test case 11
+11/21/2022 12:17:43 PM: INFO: Employee SO Attendance Verify
+11/21/2022 12:17:43 PM: INFO: Wait till login page appears
+11/21/2022 12:17:43 PM: INFO: Entering Employee credentials
+11/21/2022 12:17:49 PM: INFO: wait till login the application
+11/21/2022 12:19:41 PM: INFO: Wait till profile click
+11/21/2022 12:19:42 PM: INFO: Wait till logout click
+11/21/2022 12:19:45 PM: INFO: Validating Test case 11
+11/21/2022 12:19:48 PM: INFO: Employee SO Attendance Verify
+11/21/2022 12:19:48 PM: INFO: Wait till login page appears
+11/21/2022 12:19:48 PM: INFO: Entering Employee credentials
+11/21/2022 12:19:52 PM: INFO: wait till login the application
+11/21/2022 12:24:46 PM: INFO: Wait till profile click
+11/21/2022 12:24:46 PM: INFO: Wait till logout click
+11/21/2022 12:24:51 PM: INFO: Validating Test case 11
+11/21/2022 12:24:55 PM: INFO: Employee SO Attendance Verify
+11/21/2022 12:24:55 PM: INFO: Wait till login page appears
+11/21/2022 12:24:55 PM: INFO: Entering Employee credentials
+11/21/2022 12:24:59 PM: INFO: wait till login the application
+11/21/2022 12:26:15 PM: INFO: Wait till profile click
+11/21/2022 12:26:15 PM: INFO: Wait till logout click
+11/21/2022 12:26:19 PM: INFO: Validating Test case 11
+11/21/2022 12:26:24 PM: INFO: Employee SO Attendance Verify
+11/21/2022 12:26:24 PM: INFO: Wait till login page appears
+11/21/2022 12:26:24 PM: INFO: Entering Employee credentials
+11/21/2022 12:26:28 PM: INFO: wait till login the application
+11/21/2022 12:27:36 PM: INFO: Wait till profile click
+11/21/2022 12:27:36 PM: INFO: Wait till logout click
+11/21/2022 12:27:40 PM: INFO: Validating Test case 11
+11/21/2022 12:27:44 PM: INFO: Employee SO Attendance Verify
+11/21/2022 12:27:44 PM: INFO: Wait till login page appears
+11/21/2022 12:27:44 PM: INFO: Entering Employee credentials
+11/21/2022 12:27:48 PM: INFO: wait till login the application
+11/21/2022 12:28:37 PM: INFO: Wait till profile click
+11/21/2022 12:28:38 PM: INFO: Wait till logout click
+11/21/2022 12:28:41 PM: INFO: Validating Test case 11
+11/21/2022 12:28:45 PM: INFO: Employee SO Attendance Verify
+11/21/2022 12:28:45 PM: INFO: Wait till login page appears
+11/21/2022 12:28:45 PM: INFO: Entering Employee credentials
+11/21/2022 12:28:48 PM: INFO: wait till login the application
+11/21/2022 12:29:26 PM: INFO: Wait till profile click
+11/21/2022 12:29:26 PM: INFO: Wait till logout click
+11/21/2022 12:29:30 PM: INFO: Validating Test case 11
+11/21/2022 12:29:34 PM: INFO: Employee SO Attendance Verify
+11/21/2022 12:29:34 PM: INFO: Wait till login page appears
+11/21/2022 12:29:34 PM: INFO: Entering Employee credentials
+11/21/2022 12:29:39 PM: INFO: wait till login the application
+11/21/2022 12:30:31 PM: INFO: Wait till profile click
+11/21/2022 12:30:31 PM: INFO: Wait till logout click
+11/21/2022 12:30:35 PM: INFO: Validating Test case 11
+11/21/2022 12:30:38 PM: INFO: Employee SO Attendance Verify
+11/21/2022 12:30:38 PM: INFO: Wait till login page appears
+11/21/2022 12:30:38 PM: INFO: Entering Employee credentials
+11/21/2022 12:30:43 PM: INFO: wait till login the application
+11/21/2022 12:31:23 PM: INFO: Wait till profile click
+11/21/2022 12:31:23 PM: INFO: Wait till logout click
+11/21/2022 12:31:28 PM: INFO: Validating Test case 11
+11/21/2022 12:31:33 PM: INFO: Employee SO Attendance Verify
+11/21/2022 12:31:33 PM: INFO: Wait till login page appears
+11/21/2022 12:31:33 PM: INFO: Entering Employee credentials
+11/21/2022 12:31:37 PM: INFO: wait till login the application
+11/21/2022 12:32:17 PM: INFO: Wait till profile click
+11/21/2022 12:32:18 PM: INFO: Wait till logout click
+11/21/2022 12:32:21 PM: INFO: Validating Test case 11
+11/21/2022 12:32:25 PM: INFO: Employee SO Attendance Verify
+11/21/2022 12:32:25 PM: INFO: Wait till login page appears
+11/21/2022 12:32:25 PM: INFO: Entering Employee credentials
+11/21/2022 12:32:31 PM: INFO: wait till login the application
+11/21/2022 12:33:18 PM: INFO: Wait till profile click
+11/21/2022 12:33:18 PM: INFO: Wait till logout click
+11/21/2022 12:33:21 PM: INFO: Validating Test case 11
+11/21/2022 12:33:26 PM: INFO: Employee SO Attendance Verify
+11/21/2022 12:33:26 PM: INFO: Wait till login page appears
+11/21/2022 12:33:26 PM: INFO: Entering Employee credentials
+11/21/2022 12:33:30 PM: INFO: wait till login the application
+11/21/2022 12:37:21 PM: INFO: Wait till profile click
+11/21/2022 12:37:21 PM: INFO: Wait till logout click
+11/21/2022 12:37:25 PM: INFO: Validating Test case 11
+11/21/2022 12:37:29 PM: INFO: Employee SO Attendance Verify
+11/21/2022 12:37:29 PM: INFO: Wait till login page appears
+11/21/2022 12:37:30 PM: INFO: Entering Employee credentials
+11/21/2022 12:37:33 PM: INFO: wait till login the application
+11/21/2022 12:47:23 PM: INFO: Wait till profile click
+11/21/2022 12:47:23 PM: INFO: Wait till logout click
+11/21/2022 12:47:26 PM: INFO: Validating Test case 11
+11/21/2022 12:47:30 PM: INFO: Employee SO Attendance Verify
+11/21/2022 12:47:30 PM: INFO: Wait till login page appears
+11/21/2022 12:47:30 PM: INFO: Entering Employee credentials
+11/21/2022 12:47:34 PM: INFO: wait till login the application
+11/21/2022 12:54:26 PM: INFO: Wait till profile click
+11/21/2022 12:54:26 PM: INFO: Wait till logout click
+11/21/2022 12:54:30 PM: INFO: Validating Test case 11
+11/21/2022 12:54:35 PM: INFO: Employee SO Attendance Verify
+11/21/2022 12:54:35 PM: INFO: Wait till login page appears
+11/21/2022 12:54:35 PM: INFO: Entering Employee credentials
+11/21/2022 12:54:41 PM: INFO: wait till login the application
+11/21/2022 01:19:02 PM: INFO: Wait till profile click
+11/21/2022 01:19:39 PM: INFO: Wait till profile click
+11/21/2022 01:19:40 PM: INFO: Wait till logout click
+11/21/2022 01:19:43 PM: INFO: Validating Test case 11
+11/21/2022 01:19:47 PM: INFO: Employee SO Attendance Verify
+11/21/2022 01:19:47 PM: INFO: Wait till login page appears
+11/21/2022 01:19:47 PM: INFO: Entering Employee credentials
+11/21/2022 01:19:50 PM: INFO: wait till login the application
+11/21/2022 01:21:30 PM: INFO: Wait till profile click
+11/21/2022 01:21:30 PM: INFO: Wait till logout click
+11/21/2022 01:21:33 PM: INFO: Validating Test case 11
+11/21/2022 01:21:37 PM: INFO: Employee SO Attendance Verify
+11/21/2022 01:21:37 PM: INFO: Wait till login page appears
+11/21/2022 01:21:37 PM: INFO: Entering Employee credentials
+11/21/2022 01:21:41 PM: INFO: wait till login the application
+11/21/2022 01:22:47 PM: INFO: Wait till profile click
+11/21/2022 01:22:47 PM: INFO: Wait till logout click
+11/21/2022 01:22:50 PM: INFO: Validating Test case 11
+11/21/2022 01:22:54 PM: INFO: Employee SO Attendance Verify
+11/21/2022 01:22:54 PM: INFO: Wait till login page appears
+11/21/2022 01:22:54 PM: INFO: Entering Employee credentials
+11/21/2022 01:22:57 PM: INFO: wait till login the application
+11/21/2022 01:24:40 PM: INFO: Wait till profile click
+11/21/2022 01:24:40 PM: INFO: Wait till logout click
+11/21/2022 01:24:44 PM: INFO: Validating Test case 11
+11/21/2022 01:24:47 PM: INFO: Employee SO Attendance Verify
+11/21/2022 01:24:47 PM: INFO: Wait till login page appears
+11/21/2022 01:24:47 PM: INFO: Entering Employee credentials
+11/21/2022 01:24:51 PM: INFO: wait till login the application
+11/21/2022 01:31:00 PM: INFO: Wait till profile click
+11/21/2022 01:31:00 PM: INFO: Wait till logout click
+11/21/2022 01:31:02 PM: INFO: Validating Test case 11
+11/21/2022 01:31:05 PM: INFO: Employee SO Attendance Verify
+11/21/2022 01:31:05 PM: INFO: Wait till login page appears
+11/21/2022 01:31:05 PM: INFO: Entering Employee credentials
+11/21/2022 01:31:09 PM: INFO: wait till login the application
+11/21/2022 01:31:54 PM: INFO: Wait till profile click
+11/21/2022 01:31:54 PM: INFO: Wait till logout click
+11/21/2022 01:31:58 PM: INFO: Validating Test case 11
+11/21/2022 01:32:01 PM: INFO: Employee SO Attendance Verify
+11/21/2022 01:32:01 PM: INFO: Wait till login page appears
+11/21/2022 01:32:01 PM: INFO: Entering Employee credentials
+11/21/2022 01:32:04 PM: INFO: wait till login the application
+11/21/2022 01:32:44 PM: INFO: Wait till profile click
+11/21/2022 01:32:44 PM: INFO: Wait till logout click
+11/21/2022 01:32:46 PM: INFO: Validating Test case 11
+11/21/2022 01:32:48 PM: INFO: Employee SO Attendance Verify
+11/21/2022 01:32:48 PM: INFO: Wait till login page appears
+11/21/2022 01:32:48 PM: INFO: Entering Employee credentials
+11/21/2022 01:32:51 PM: INFO: wait till login the application
+11/21/2022 01:35:54 PM: INFO: Wait till profile click
+11/21/2022 01:35:54 PM: INFO: Wait till logout click
+11/21/2022 01:35:55 PM: INFO: Validating Test case 11
+11/21/2022 01:35:58 PM: INFO: Employee SO Attendance Verify
+11/21/2022 01:35:58 PM: INFO: Wait till login page appears
+11/21/2022 01:35:58 PM: INFO: Entering Employee credentials
+11/21/2022 01:36:02 PM: INFO: wait till login the application
+11/21/2022 02:10:07 PM: INFO: Wait till profile click
+11/21/2022 03:03:45 PM: INFO: Wait till profile click
+11/21/2022 03:04:51 PM: INFO: Wait till profile click
+11/21/2022 03:05:36 PM: INFO: Wait till profile click
+11/21/2022 03:06:27 PM: INFO: Wait till profile click
+11/21/2022 03:06:27 PM: INFO: Wait till logout click
+11/21/2022 03:06:31 PM: INFO: Validating Test case 11
+11/21/2022 03:06:34 PM: INFO: Employee SO Attendance Verify
+11/21/2022 03:06:34 PM: INFO: Wait till login page appears
+11/21/2022 03:06:34 PM: INFO: Entering Employee credentials
+11/21/2022 03:06:39 PM: INFO: wait till login the application
+11/21/2022 03:07:38 PM: INFO: Wait till profile click
+11/21/2022 03:07:39 PM: INFO: Wait till logout click
+11/21/2022 03:07:42 PM: INFO: Validating Test case 11
+11/21/2022 03:07:45 PM: INFO: Employee SO Attendance Verify
+11/21/2022 03:07:45 PM: INFO: Wait till login page appears
+11/21/2022 03:07:45 PM: INFO: Entering Employee credentials
+11/21/2022 03:07:49 PM: INFO: wait till login the application
+11/21/2022 03:08:46 PM: INFO: Wait till profile click
+11/21/2022 03:08:46 PM: INFO: Wait till logout click
+11/21/2022 03:08:50 PM: INFO: Validating Test case 11
+11/21/2022 03:08:55 PM: INFO: Employee SO Attendance Verify
+11/21/2022 03:08:55 PM: INFO: Wait till login page appears
+11/21/2022 03:08:55 PM: INFO: Entering Employee credentials
+11/21/2022 03:08:58 PM: INFO: wait till login the application
+11/21/2022 03:10:04 PM: INFO: Wait till profile click
+11/21/2022 03:10:04 PM: INFO: Wait till logout click
+11/21/2022 03:10:07 PM: INFO: Validating Test case 11
+11/21/2022 03:10:12 PM: INFO: Employee SO Attendance Verify
+11/21/2022 03:10:12 PM: INFO: Wait till login page appears
+11/21/2022 03:10:12 PM: INFO: Entering Employee credentials
+11/21/2022 03:10:17 PM: INFO: wait till login the application
+11/21/2022 03:14:43 PM: INFO: Wait till profile click
+11/21/2022 03:14:43 PM: INFO: Wait till logout click
+11/21/2022 03:14:47 PM: INFO: Validating Test case 11
+11/21/2022 03:14:52 PM: INFO: Employee SO Attendance Verify
+11/21/2022 03:14:52 PM: INFO: Wait till login page appears
+11/21/2022 03:14:52 PM: INFO: Entering Employee credentials
+11/21/2022 03:14:56 PM: INFO: wait till login the application
+11/21/2022 03:56:51 PM: INFO: Wait till profile click
+11/21/2022 03:56:51 PM: INFO: Wait till logout click
+11/21/2022 03:57:23 PM: INFO: Validating Test case 11
+11/21/2022 03:57:26 PM: INFO: Employee SO Attendance Verify
+11/21/2022 03:57:26 PM: INFO: Wait till login page appears
+11/21/2022 03:57:34 PM: INFO: Entering Employee credentials
+11/21/2022 03:57:38 PM: INFO: wait till login the application
+11/21/2022 04:20:28 PM: INFO: Wait till profile click
+11/21/2022 04:21:00 PM: INFO: Wait till profile click
+11/21/2022 04:21:01 PM: INFO: Wait till logout click
+11/21/2022 04:21:05 PM: INFO: Validating Test case 11
+11/21/2022 04:21:08 PM: INFO: Employee SO Attendance Verify
+11/21/2022 04:21:08 PM: INFO: Wait till login page appears
+11/21/2022 04:21:08 PM: INFO: Entering Employee credentials
+11/21/2022 04:21:13 PM: INFO: wait till login the application
+11/21/2022 04:27:38 PM: INFO: Wait till profile click
+11/21/2022 04:27:38 PM: INFO: Wait till logout click
+11/21/2022 04:27:43 PM: INFO: Validating Test case 11
+11/21/2022 04:27:47 PM: INFO: Employee SO Attendance Verify
+11/21/2022 04:27:47 PM: INFO: Wait till login page appears
+11/21/2022 04:27:47 PM: INFO: Entering Employee credentials
+11/21/2022 04:27:52 PM: INFO: wait till login the application
+11/21/2022 04:29:48 PM: INFO: Wait till profile click
+11/21/2022 04:29:49 PM: INFO: Wait till logout click
+11/21/2022 04:29:51 PM: INFO: Validating Test case 11
+11/21/2022 04:29:57 PM: INFO: Employee SO Attendance Verify
+11/21/2022 04:29:57 PM: INFO: Wait till login page appears
+11/21/2022 04:29:57 PM: INFO: Entering Employee credentials
+11/21/2022 04:30:01 PM: INFO: wait till login the application
+11/21/2022 04:31:16 PM: INFO: Wait till profile click
+11/21/2022 04:31:16 PM: INFO: Wait till logout click
+11/21/2022 04:31:19 PM: INFO: Validating Test case 11
+11/21/2022 04:31:23 PM: INFO: Employee SO Attendance Verify
+11/21/2022 04:31:23 PM: INFO: Wait till login page appears
+11/21/2022 04:31:23 PM: INFO: Entering Employee credentials
+11/21/2022 04:31:26 PM: INFO: wait till login the application
+11/21/2022 04:40:41 PM: INFO: Wait till profile click
+11/21/2022 04:40:41 PM: INFO: Wait till logout click
+11/21/2022 04:40:46 PM: INFO: Validating Test case 11
+11/21/2022 04:40:51 PM: INFO: Employee SO Attendance Verify
+11/21/2022 04:40:51 PM: INFO: Wait till login page appears
+11/21/2022 04:40:51 PM: INFO: Entering Employee credentials
+11/21/2022 04:40:56 PM: INFO: wait till login the application
+11/21/2022 04:42:10 PM: INFO: Wait till profile click
+11/21/2022 04:42:10 PM: INFO: Wait till logout click
+11/21/2022 04:42:15 PM: INFO: Validating Test case 11
+11/21/2022 04:42:19 PM: INFO: Employee SO Attendance Verify
+11/21/2022 04:42:19 PM: INFO: Wait till login page appears
+11/21/2022 04:42:19 PM: INFO: Entering Employee credentials
+11/21/2022 04:42:23 PM: INFO: wait till login the application
+11/21/2022 04:43:06 PM: INFO: Wait till profile click
+11/21/2022 04:43:06 PM: INFO: Wait till logout click
+11/21/2022 04:43:09 PM: INFO: Validating Test case 11
+11/21/2022 04:43:16 PM: INFO: Employee SO Attendance Verify
+11/21/2022 04:43:16 PM: INFO: Wait till login page appears
+11/21/2022 04:43:16 PM: INFO: Entering Employee credentials
+11/21/2022 04:43:21 PM: INFO: wait till login the application
+11/21/2022 04:46:47 PM: INFO: Wait till profile click
+11/21/2022 04:46:47 PM: INFO: Wait till logout click
+11/21/2022 04:46:52 PM: INFO: Validating Test case 11
+11/21/2022 04:46:56 PM: INFO: Employee SO Attendance Verify
+11/21/2022 04:46:56 PM: INFO: Wait till login page appears
+11/21/2022 04:46:56 PM: INFO: Entering Employee credentials
+11/21/2022 04:47:01 PM: INFO: wait till login the application
+11/21/2022 04:48:21 PM: INFO: Wait till profile click
+11/21/2022 04:48:21 PM: INFO: Wait till logout click
+11/21/2022 04:48:24 PM: INFO: Validating Test case 11
+11/21/2022 04:48:28 PM: INFO: Employee SO Attendance Verify
+11/21/2022 04:48:28 PM: INFO: Wait till login page appears
+11/21/2022 04:48:28 PM: INFO: Entering Employee credentials
+11/21/2022 04:48:32 PM: INFO: wait till login the application
+11/21/2022 04:49:13 PM: INFO: Wait till profile click
+11/21/2022 04:49:13 PM: INFO: Wait till logout click
+11/21/2022 04:49:16 PM: INFO: Validating Test case 11
+11/21/2022 04:49:20 PM: INFO: Employee SO Attendance Verify
+11/21/2022 04:49:20 PM: INFO: Wait till login page appears
+11/21/2022 04:49:20 PM: INFO: Entering Employee credentials
+11/21/2022 04:49:23 PM: INFO: wait till login the application
+11/21/2022 04:50:07 PM: INFO: Wait till profile click
+11/21/2022 04:50:07 PM: INFO: Wait till logout click
+11/21/2022 04:50:15 PM: INFO: Validating Test case 11
+11/21/2022 04:50:20 PM: INFO: Employee SO Attendance Verify
+11/21/2022 04:50:20 PM: INFO: Wait till login page appears
+11/21/2022 04:50:20 PM: INFO: Entering Employee credentials
+11/21/2022 04:50:25 PM: INFO: wait till login the application
+11/21/2022 04:53:14 PM: INFO: Wait till profile click
+11/21/2022 04:53:14 PM: INFO: Wait till logout click
+11/21/2022 04:53:19 PM: INFO: Validating Test case 11
+11/21/2022 04:53:26 PM: INFO: Employee SO Attendance Verify
+11/21/2022 04:53:26 PM: INFO: Wait till login page appears
+11/21/2022 04:53:26 PM: INFO: Entering Employee credentials
+11/21/2022 04:53:30 PM: INFO: wait till login the application
+11/21/2022 04:54:45 PM: INFO: Wait till profile click
+11/21/2022 04:54:45 PM: INFO: Wait till logout click
+11/21/2022 04:54:51 PM: INFO: Validating Test case 11
+11/21/2022 04:54:56 PM: INFO: Employee SO Attendance Verify
+11/21/2022 04:54:56 PM: INFO: Wait till login page appears
+11/21/2022 04:54:57 PM: INFO: Entering Employee credentials
+11/21/2022 04:55:01 PM: INFO: wait till login the application
+11/21/2022 04:59:56 PM: INFO: Wait till profile click
+11/21/2022 04:59:56 PM: INFO: Wait till logout click
+11/21/2022 05:00:01 PM: INFO: Validating Test case 11
+11/21/2022 05:00:07 PM: INFO: Employee SO Attendance Verify
+11/21/2022 05:00:07 PM: INFO: Wait till login page appears
+11/21/2022 05:00:07 PM: INFO: Entering Employee credentials
+11/21/2022 05:00:11 PM: INFO: wait till login the application
+11/21/2022 05:01:50 PM: INFO: Wait till profile click
+11/21/2022 05:01:50 PM: INFO: Wait till logout click
+11/21/2022 05:01:54 PM: INFO: Validating Test case 11
+11/21/2022 05:01:57 PM: INFO: Employee SO Attendance Verify
+11/21/2022 05:01:57 PM: INFO: Wait till login page appears
+11/21/2022 05:01:57 PM: INFO: Entering Employee credentials
+11/21/2022 05:02:01 PM: INFO: wait till login the application
+11/21/2022 05:06:45 PM: INFO: Wait till profile click
+11/21/2022 05:07:02 PM: INFO: Wait till profile click
+11/21/2022 05:07:12 PM: INFO: Wait till profile click
+11/21/2022 05:07:12 PM: INFO: Wait till logout click
+11/21/2022 05:07:15 PM: INFO: Validating Test case 11
+11/21/2022 05:07:21 PM: INFO: Employee SO Attendance Verify
+11/21/2022 05:07:21 PM: INFO: Wait till login page appears
+11/21/2022 05:07:21 PM: INFO: Entering Employee credentials
+11/21/2022 05:07:25 PM: INFO: wait till login the application
+11/21/2022 05:10:36 PM: INFO: Wait till profile click
+11/21/2022 05:10:36 PM: INFO: Wait till logout click
+11/21/2022 05:10:40 PM: INFO: Validating Test case 11
+11/21/2022 05:10:44 PM: INFO: Employee SO Attendance Verify
+11/21/2022 05:10:44 PM: INFO: Wait till login page appears
+11/21/2022 05:10:44 PM: INFO: Entering Employee credentials
+11/21/2022 05:10:48 PM: INFO: wait till login the application
+11/21/2022 05:11:50 PM: INFO: Wait till profile click
+11/21/2022 05:11:50 PM: INFO: Wait till logout click
+11/21/2022 05:11:53 PM: INFO: Validating Test case 11
+11/21/2022 05:11:57 PM: INFO: Employee SO Attendance Verify
+11/21/2022 05:11:57 PM: INFO: Wait till login page appears
+11/21/2022 05:11:57 PM: INFO: Entering Employee credentials
+11/21/2022 05:12:01 PM: INFO: wait till login the application
+11/21/2022 05:12:37 PM: INFO: Wait till profile click
+11/21/2022 05:12:37 PM: INFO: Wait till logout click
+11/21/2022 05:12:41 PM: INFO: Validating Test case 11
+11/21/2022 05:12:45 PM: INFO: Employee SO Attendance Verify
+11/21/2022 05:12:45 PM: INFO: Wait till login page appears
+11/21/2022 05:12:45 PM: INFO: Entering Employee credentials
+11/21/2022 05:12:50 PM: INFO: wait till login the application
+11/21/2022 05:34:24 PM: INFO: Wait till profile click
+11/21/2022 05:34:24 PM: INFO: Wait till logout click
+11/21/2022 05:34:29 PM: INFO: Validating Test case 11
+11/21/2022 05:34:36 PM: INFO: Employee SO Attendance Verify
+11/21/2022 05:34:36 PM: INFO: Wait till login page appears
+11/21/2022 05:34:36 PM: INFO: Entering Employee credentials
+11/21/2022 05:34:40 PM: INFO: wait till login the application
+11/21/2022 05:35:25 PM: INFO: Wait till profile click
+11/21/2022 05:35:25 PM: INFO: Wait till logout click
+11/21/2022 05:35:28 PM: INFO: Validating Test case 11
+11/21/2022 05:35:32 PM: INFO: Employee SO Attendance Verify
+11/21/2022 05:35:32 PM: INFO: Wait till login page appears
+11/21/2022 05:35:32 PM: INFO: Entering Employee credentials
+11/21/2022 05:35:37 PM: INFO: wait till login the application
+11/21/2022 05:36:19 PM: INFO: Wait till profile click
+11/21/2022 05:36:20 PM: INFO: Wait till logout click
+11/21/2022 05:36:22 PM: INFO: Validating Test case 11
+11/21/2022 05:36:27 PM: INFO: Employee SO Attendance Verify
+11/21/2022 05:36:27 PM: INFO: Wait till login page appears
+11/21/2022 05:36:27 PM: INFO: Entering Employee credentials
+11/21/2022 05:36:31 PM: INFO: wait till login the application
+11/21/2022 05:57:47 PM: INFO: Wait till profile click
+11/21/2022 05:57:47 PM: INFO: Wait till logout click
+11/21/2022 05:57:52 PM: INFO: Validating Test case 11
+11/21/2022 05:57:57 PM: INFO: Employee SO Attendance Verify
+11/21/2022 05:57:57 PM: INFO: Wait till login page appears
+11/21/2022 05:57:57 PM: INFO: Entering Employee credentials
+11/21/2022 05:58:01 PM: INFO: wait till login the application
+11/21/2022 06:02:29 PM: INFO: Wait till profile click
+11/21/2022 06:02:29 PM: INFO: Wait till logout click
+11/21/2022 06:02:32 PM: INFO: Validating Test case 11
+11/21/2022 06:02:36 PM: INFO: Employee SO Attendance Verify
+11/21/2022 06:02:36 PM: INFO: Wait till login page appears
+11/21/2022 06:02:37 PM: INFO: Entering Employee credentials
+11/21/2022 06:02:40 PM: INFO: wait till login the application
+11/21/2022 06:03:32 PM: INFO: Wait till profile click
+11/21/2022 06:03:32 PM: INFO: Wait till logout click
+11/21/2022 06:03:35 PM: INFO: Validating Test case 11
+11/21/2022 06:03:39 PM: INFO: Employee SO Attendance Verify
+11/21/2022 06:03:39 PM: INFO: Wait till login page appears
+11/21/2022 06:03:39 PM: INFO: Entering Employee credentials
+11/21/2022 06:03:44 PM: INFO: wait till login the application
+11/21/2022 06:04:23 PM: INFO: Wait till profile click
+11/21/2022 06:04:23 PM: INFO: Wait till logout click
+11/21/2022 06:04:27 PM: INFO: Validating Test case 11
+11/21/2022 06:04:43 PM: INFO: Wait till profile click
+11/21/2022 06:04:56 PM: INFO: Wait till logout click
+11/21/2022 06:04:58 PM: INFO: Validating Test case 11
+11/21/2022 06:05:02 PM: INFO: Employee SO Attendance Verify
+11/21/2022 06:05:02 PM: INFO: Wait till login page appears
+11/21/2022 06:05:02 PM: INFO: Entering Employee credentials
+11/21/2022 06:05:06 PM: INFO: wait till login the application
+11/21/2022 06:07:44 PM: INFO: Wait till profile click
+11/21/2022 06:07:44 PM: INFO: Wait till logout click
+11/21/2022 06:07:47 PM: INFO: Validating Test case 11
+11/21/2022 06:07:51 PM: INFO: Employee SO Attendance Verify
+11/21/2022 06:07:51 PM: INFO: Wait till login page appears
+11/21/2022 06:07:51 PM: INFO: Entering Employee credentials
+11/21/2022 06:07:55 PM: INFO: wait till login the application
+11/21/2022 06:10:08 PM: INFO: Wait till profile click
+11/21/2022 06:10:08 PM: INFO: Wait till logout click
+11/21/2022 06:10:12 PM: INFO: Validating Test case 11
+11/21/2022 06:10:17 PM: INFO: Employee SO Attendance Verify
+11/21/2022 06:10:17 PM: INFO: Wait till login page appears
+11/21/2022 06:10:17 PM: INFO: Entering Employee credentials
+11/21/2022 06:10:21 PM: INFO: wait till login the application
+11/21/2022 06:10:38 PM: INFO: Wait till profile click
+11/21/2022 06:10:38 PM: INFO: Wait till logout click
+11/21/2022 06:10:41 PM: INFO: Validating Test case 11
+11/21/2022 06:10:44 PM: INFO: Employee SO Attendance Verify
+11/21/2022 06:10:44 PM: INFO: Wait till login page appears
+11/21/2022 06:10:44 PM: INFO: Entering Employee credentials
+11/21/2022 06:10:48 PM: INFO: wait till login the application
+11/21/2022 06:12:56 PM: INFO: Wait till profile click
+11/21/2022 06:12:56 PM: INFO: Wait till logout click
+11/21/2022 06:13:01 PM: INFO: Validating Test case 11
+11/21/2022 06:13:06 PM: INFO: Employee SO Attendance Verify
+11/21/2022 06:13:06 PM: INFO: Wait till login page appears
+11/21/2022 06:13:06 PM: INFO: Entering Employee credentials
+11/21/2022 06:13:10 PM: INFO: wait till login the application
+11/21/2022 06:14:39 PM: INFO: Wait till profile click
+11/21/2022 06:14:39 PM: INFO: Wait till logout click
+11/21/2022 06:14:43 PM: INFO: Validating Test case 11
+11/21/2022 06:14:48 PM: INFO: Employee SO Attendance Verify
+11/21/2022 06:14:48 PM: INFO: Wait till login page appears
+11/21/2022 06:14:48 PM: INFO: Entering Employee credentials
+11/21/2022 06:14:53 PM: INFO: wait till login the application
+11/21/2022 06:15:57 PM: INFO: Wait till profile click
+11/21/2022 06:15:57 PM: INFO: Wait till logout click
+11/21/2022 06:16:00 PM: INFO: Validating Test case 11
+11/21/2022 06:16:04 PM: INFO: Employee SO Attendance Verify
+11/21/2022 06:16:04 PM: INFO: Wait till login page appears
+11/21/2022 06:16:04 PM: INFO: Entering Employee credentials
+11/21/2022 06:16:09 PM: INFO: wait till login the application
+11/21/2022 06:16:42 PM: INFO: Wait till profile click
+11/21/2022 06:16:42 PM: INFO: Wait till logout click
+11/21/2022 06:16:46 PM: INFO: Validating Test case 11
+11/21/2022 06:16:50 PM: INFO: Employee SO Attendance Verify
+11/21/2022 06:16:50 PM: INFO: Wait till login page appears
+11/21/2022 06:16:50 PM: INFO: Entering Employee credentials
+11/21/2022 06:16:55 PM: INFO: wait till login the application
+11/21/2022 06:19:50 PM: INFO: Wait till profile click
+11/21/2022 06:19:50 PM: INFO: Wait till logout click
+11/21/2022 06:19:54 PM: INFO: Validating Test case 11
+11/21/2022 06:19:58 PM: INFO: Employee SO Attendance Verify
+11/21/2022 06:19:58 PM: INFO: Wait till login page appears
+11/21/2022 06:19:58 PM: INFO: Entering Employee credentials
+11/21/2022 06:20:02 PM: INFO: wait till login the application
+11/21/2022 06:21:30 PM: INFO: Wait till profile click
+11/21/2022 06:21:30 PM: INFO: Wait till logout click
+11/21/2022 06:21:34 PM: INFO: Validating Test case 11
+11/21/2022 06:21:38 PM: INFO: Employee SO Attendance Verify
+11/21/2022 06:21:38 PM: INFO: Wait till login page appears
+11/21/2022 06:21:38 PM: INFO: Entering Employee credentials
+11/21/2022 06:21:42 PM: INFO: wait till login the application
+11/21/2022 06:28:38 PM: INFO: Wait till profile click
+11/21/2022 06:28:38 PM: INFO: Wait till logout click
+11/21/2022 06:28:42 PM: INFO: Validating Test case 14
+11/21/2022 06:28:45 PM: INFO: Supervisor Attendance Freezing Date Verify
+11/21/2022 06:28:45 PM: INFO: Wait till login page appears
+11/21/2022 06:28:45 PM: INFO: Entering Employee credentials
+11/21/2022 06:29:10 PM: INFO: wait till login the application
+11/21/2022 06:32:46 PM: INFO: Wait till profile click
+11/21/2022 06:32:46 PM: INFO: Wait till logout click
+11/21/2022 06:32:49 PM: INFO: Validating Test case 11
+11/21/2022 06:32:54 PM: INFO: Employee SO Attendance Verify
+11/21/2022 06:32:54 PM: INFO: Wait till login page appears
+11/21/2022 06:32:54 PM: INFO: Entering Employee credentials
+11/21/2022 06:32:58 PM: INFO: wait till login the application
+11/21/2022 06:33:24 PM: INFO: Wait till profile click
+11/21/2022 06:33:24 PM: INFO: Wait till logout click
+11/21/2022 06:33:27 PM: INFO: Validating Test case 11
+11/21/2022 06:33:31 PM: INFO: Employee SO Attendance Verify
+11/21/2022 06:33:31 PM: INFO: Wait till login page appears
+11/21/2022 06:33:31 PM: INFO: Entering Employee credentials
+11/21/2022 06:33:35 PM: INFO: wait till login the application
+11/22/2022 11:38:04 AM: INFO: Validating Test case 9
+11/22/2022 11:38:04 AM: INFO: Supervisor Extension work plan Verify
+11/22/2022 11:51:05 AM: INFO: Validating Test case 9
+11/22/2022 11:51:05 AM: INFO: Supervisor Extension work plan Verify
+11/22/2022 11:52:30 AM: INFO: Wait till profile click
+11/22/2022 11:52:31 AM: INFO: Wait till logout click
+11/22/2022 11:52:36 AM: INFO: Validating Test case 9
+11/22/2022 11:52:36 AM: INFO: Supervisor Extension work plan Verify
+11/22/2022 11:52:40 AM: INFO: Wait till login page appears
+11/22/2022 11:52:40 AM: INFO: Entering Employee credentials
+11/22/2022 11:53:25 AM: INFO: wait till login the application
+11/22/2022 03:24:55 PM: INFO: Validating Test case 15
+11/22/2022 03:24:55 PM: INFO: Supervisor Extension Entry Verify
+11/22/2022 03:28:54 PM: INFO: Validating Test case 15
+11/22/2022 03:28:54 PM: INFO: Supervisor Extension Entry Verify
+11/22/2022 03:34:15 PM: INFO: Validating Test case 15
+11/22/2022 03:34:15 PM: INFO: Supervisor Extension Entry Verify
+11/22/2022 03:38:03 PM: INFO: Validating Test case 15
+11/22/2022 03:38:03 PM: INFO: Supervisor Extension Entry Verify
+11/22/2022 03:42:05 PM: INFO: Validating Test case 15
+11/22/2022 03:42:05 PM: INFO: Supervisor Extension Entry Verify
+11/22/2022 04:16:28 PM: INFO: Validating Test case 15
+11/22/2022 04:16:28 PM: INFO: Supervisor Extension Entry Verify
+11/23/2022 11:00:59 AM: INFO: Wait till profile click
+11/23/2022 11:01:00 AM: INFO: Wait till logout click
+11/23/2022 11:01:04 AM: INFO: Validating Test case 11
+11/23/2022 11:01:08 AM: INFO: Employee SO Attendance Verify
+11/23/2022 11:01:08 AM: INFO: Wait till login page appears
+11/23/2022 11:01:08 AM: INFO: Entering Employee credentials
+11/23/2022 11:17:52 AM: INFO: Supervisor Approve Extension work plan Request Verify
+11/23/2022 11:18:09 AM: INFO: Supervisor Approve Extension work plan Request Verify
+11/23/2022 11:47:05 AM: INFO: Validating Test case 1
+11/23/2022 11:47:05 AM: INFO: Employee LOP Attendance Verify
+11/23/2022 11:47:05 AM: INFO: Wait till login page appears
+11/23/2022 11:47:05 AM: INFO: Entering Employee credentials
+11/23/2022 11:47:18 AM: INFO: wait till login the application
+11/23/2022 11:48:34 AM: INFO: Validating Test case 2
+11/23/2022 11:48:34 AM: INFO: Employee Raise LOP Verify
+11/23/2022 12:55:15 PM: INFO: Validating Test case 1
+11/23/2022 12:55:15 PM: INFO: Employee LOP Attendance Verify
+11/23/2022 12:55:15 PM: INFO: Wait till login page appears
+11/23/2022 12:55:15 PM: INFO: Entering Employee credentials
+11/23/2022 12:55:30 PM: INFO: wait till login the application
+11/23/2022 12:56:17 PM: INFO: Validating Test case 2
+11/23/2022 12:56:17 PM: INFO: Employee Raise LOP Verify
+11/23/2022 12:56:54 PM: INFO: Wait till profile click
+11/23/2022 12:56:54 PM: INFO: Wait till logout click
+11/23/2022 12:56:57 PM: INFO: Validating Test case 3
+11/23/2022 12:57:03 PM: INFO: Supervisor Approve LOP Request Verify
+11/23/2022 12:57:03 PM: INFO: Wait till login page appears
+11/23/2022 12:57:03 PM: INFO: Entering Employee credentials
+11/23/2022 12:57:37 PM: INFO: wait till login the application
+11/23/2022 12:59:40 PM: INFO: Wait till profile click
+11/23/2022 12:59:40 PM: INFO: Wait till logout click
+11/23/2022 12:59:43 PM: INFO: Validating Test case 4
+11/23/2022 12:59:46 PM: INFO: HR Approve LOP Request Verify
+11/23/2022 12:59:46 PM: INFO: Wait till login page appears
+11/23/2022 12:59:46 PM: INFO: Entering Employee credentials
+11/23/2022 01:00:16 PM: INFO: wait till login the application
+11/23/2022 01:06:20 PM: INFO: Wait till profile click
+11/23/2022 01:06:20 PM: INFO: Wait till logout click
+11/23/2022 01:06:24 PM: INFO: Validating Test case 05
+11/23/2022 01:06:28 PM: INFO: Employee Casual Leave Attendance Report
+11/23/2022 01:06:28 PM: INFO: Wait till login page appears
+11/23/2022 01:06:28 PM: INFO: Entering Employee credentials
+11/23/2022 01:06:44 PM: INFO: wait till login the application
+11/23/2022 01:07:17 PM: INFO: Wait till profile click
+11/23/2022 01:07:17 PM: INFO: Wait till logout click
+11/23/2022 01:07:21 PM: INFO: Validating Test case 06
+11/23/2022 01:07:24 PM: INFO: Employee Casual Leave Attendance Report
+11/23/2022 01:07:24 PM: INFO: Wait till login page appears
+11/23/2022 01:07:24 PM: INFO: Entering Employee credentials
+11/23/2022 01:07:56 PM: INFO: wait till login the application
+11/23/2022 01:10:55 PM: INFO: Validating Test case 2
+11/23/2022 01:10:55 PM: INFO: Mark ULOP for employee Verify
+11/23/2022 01:14:34 PM: INFO: Wait till profile click
+11/23/2022 01:14:34 PM: INFO: Wait till logout click
+11/23/2022 01:14:38 PM: INFO: Validating Test case 06
+11/23/2022 01:14:41 PM: INFO: Employee Casual Leave Attendance Report
+11/23/2022 01:14:41 PM: INFO: Wait till login page appears
+11/23/2022 01:14:41 PM: INFO: Entering Employee credentials
+11/23/2022 01:15:23 PM: INFO: Wait till profile click
+11/23/2022 01:15:23 PM: INFO: Wait till logout click
+11/23/2022 01:15:26 PM: INFO: Validating Test case 06
+11/23/2022 01:15:30 PM: INFO: Employee Casual Leave Attendance Report
+11/23/2022 01:15:30 PM: INFO: Wait till login page appears
+11/23/2022 01:15:30 PM: INFO: Entering Employee credentials
+11/23/2022 01:15:53 PM: INFO: wait till login the application
+11/23/2022 01:19:01 PM: INFO: Validating Test case 2
+11/23/2022 01:19:01 PM: INFO: Mark ULOP for employee Verify
+11/23/2022 01:21:36 PM: INFO: Wait till profile click
+11/23/2022 01:21:36 PM: INFO: Wait till logout click
+11/23/2022 01:21:39 PM: INFO: Validating Test case 8
+11/23/2022 01:21:42 PM: INFO: Employee ULOP Attendance Verify
+11/23/2022 01:21:42 PM: INFO: Wait till login page appears
+11/23/2022 01:21:42 PM: INFO: Entering Employee credentials
+11/23/2022 01:21:53 PM: INFO: wait till login the application
+11/23/2022 01:22:47 PM: INFO: Wait till profile click
+11/23/2022 01:22:47 PM: INFO: Wait till logout click
+11/23/2022 01:22:51 PM: INFO: Validating Test case 9
+11/23/2022 01:22:56 PM: INFO: Supervisor Mark shiftoff Request Verify
+11/23/2022 01:22:56 PM: INFO: Wait till login page appears
+11/23/2022 01:22:56 PM: INFO: Entering Employee credentials
+11/23/2022 01:23:18 PM: INFO: wait till login the application
+11/23/2022 01:25:57 PM: INFO: Wait till profile click
+11/23/2022 01:25:57 PM: INFO: Wait till logout click
+11/23/2022 01:26:01 PM: INFO: Validating Test case 10
+11/23/2022 01:26:07 PM: INFO: HR Approve SHiftoff Request Verify
+11/23/2022 01:26:07 PM: INFO: Wait till login page appears
+11/23/2022 01:26:07 PM: INFO: Entering Employee credentials
+11/23/2022 01:26:39 PM: INFO: wait till login the application
+11/23/2022 01:31:56 PM: INFO: Wait till profile click
+11/23/2022 01:31:56 PM: INFO: Wait till logout click
+11/23/2022 01:32:00 PM: INFO: Validating Test case 10
+11/23/2022 01:32:04 PM: INFO: HR Approve SHiftoff Request Verify
+11/23/2022 01:32:04 PM: INFO: Wait till login page appears
+11/23/2022 01:32:04 PM: INFO: Entering Employee credentials
+11/23/2022 01:32:42 PM: INFO: wait till login the application
+11/23/2022 01:34:53 PM: INFO: Wait till profile click
+11/23/2022 01:34:54 PM: INFO: Wait till logout click
+11/23/2022 01:34:57 PM: INFO: Validating Test case 11
+11/23/2022 01:35:00 PM: INFO: Employee SO Attendance Verify
+11/23/2022 01:35:00 PM: INFO: Wait till login page appears
+11/23/2022 01:35:00 PM: INFO: Entering Employee credentials
+11/23/2022 01:35:07 PM: INFO: wait till login the application
+11/23/2022 01:35:51 PM: INFO: Wait till profile click
+11/23/2022 01:35:52 PM: INFO: Wait till logout click
+11/23/2022 01:35:56 PM: INFO: Validating Test case 12
+11/23/2022 01:35:59 PM: INFO: Supervisor ULOP Dashboard Verify
+11/23/2022 01:35:59 PM: INFO: Wait till login page appears
+11/23/2022 01:35:59 PM: INFO: Entering Employee credentials
+11/23/2022 01:36:42 PM: INFO: wait till login the application
+11/23/2022 01:38:26 PM: INFO: Wait till profile click
+11/23/2022 01:38:26 PM: INFO: Wait till logout click
+11/23/2022 01:38:30 PM: INFO: Validating Test case 13
+11/23/2022 01:38:30 PM: INFO: Supervisor Extension work plan Verify
+11/23/2022 01:38:35 PM: INFO: Wait till login page appears
+11/23/2022 01:38:35 PM: INFO: Entering Employee credentials
+11/23/2022 01:39:09 PM: INFO: wait till login the application
+11/23/2022 01:42:08 PM: INFO: Supervisor Approve Extension work plan Request Verify
+11/23/2022 01:43:24 PM: INFO: Validating Test case 15
+11/23/2022 01:43:24 PM: INFO: Supervisor Extension Entry Verify
+11/23/2022 01:45:12 PM: INFO: Supervisor Approve Extension work plan Request Verify
+11/23/2022 01:46:18 PM: INFO: Wait till profile click
+11/23/2022 01:46:18 PM: INFO: Wait till logout click
+11/23/2022 01:46:22 PM: INFO: Validating Test case 19
+11/23/2022 01:46:25 PM: INFO: Supervisor Attendance Freezing Date Verify
+11/23/2022 01:46:25 PM: INFO: Wait till login page appears
+11/23/2022 01:46:25 PM: INFO: Entering Employee credentials
+11/23/2022 01:47:06 PM: INFO: wait till login the application
+11/23/2022 02:01:58 PM: INFO: Wait till profile click
+11/23/2022 02:01:58 PM: INFO: Wait till logout click
+11/23/2022 02:02:02 PM: INFO: Validating Test case 19
+11/23/2022 02:02:05 PM: INFO: Supervisor Attendance Freezing Date Verify
+11/23/2022 02:02:05 PM: INFO: Wait till login page appears
+11/23/2022 02:02:05 PM: INFO: Entering Employee credentials
+11/23/2022 02:02:39 PM: INFO: wait till login the application
+11/23/2022 03:10:50 PM: INFO: Wait till profile click
+11/23/2022 03:10:50 PM: INFO: Wait till logout click
+11/23/2022 03:10:55 PM: INFO: Validating Test case 19
+11/23/2022 03:10:59 PM: INFO: Supervisor Attendance Freezing Date Verify
+11/23/2022 03:10:59 PM: INFO: Wait till login page appears
+11/23/2022 03:10:59 PM: INFO: Entering Employee credentials
+11/23/2022 03:11:41 PM: INFO: wait till login the application
+11/23/2022 03:18:39 PM: INFO: Wait till profile click
+11/23/2022 03:18:39 PM: INFO: Wait till logout click
+11/23/2022 03:18:43 PM: INFO: Validating Test case 19
+11/23/2022 03:18:48 PM: INFO: Supervisor Attendance Freezing Date Verify
+11/23/2022 03:18:48 PM: INFO: Wait till login page appears
+11/23/2022 03:18:48 PM: INFO: Entering Employee credentials
+11/23/2022 03:19:28 PM: INFO: wait till login the application
+11/23/2022 03:22:59 PM: INFO: Wait till profile click
+11/23/2022 03:23:00 PM: INFO: Wait till logout click
+11/23/2022 03:23:03 PM: INFO: Validating Test case 11
+11/23/2022 03:23:07 PM: INFO: Employee Attendance Freezing Date Verify
+11/23/2022 03:23:07 PM: INFO: Wait till login page appears
+11/23/2022 03:23:07 PM: INFO: Entering Employee credentials
+11/23/2022 03:23:17 PM: INFO: wait till login the application
+11/23/2022 03:24:16 PM: INFO: Wait till profile click
+11/23/2022 03:24:16 PM: INFO: Wait till logout click
+11/23/2022 03:24:20 PM: INFO: Validating Test case 19
+11/23/2022 03:24:24 PM: INFO: Supervisor National Holiday Entry Verify
+11/23/2022 03:24:24 PM: INFO: Wait till login page appears
+11/23/2022 03:24:25 PM: INFO: Entering Employee credentials
+11/23/2022 03:24:30 PM: INFO: wait till login the application
+11/23/2022 03:27:58 PM: INFO: Wait till profile click
+11/23/2022 03:27:58 PM: INFO: Wait till logout click
+11/23/2022 03:28:03 PM: INFO: Validating Test case 19
+11/23/2022 03:28:07 PM: INFO: Supervisor National Holiday Entry Verify
+11/23/2022 03:28:07 PM: INFO: Wait till login page appears
+11/23/2022 03:28:07 PM: INFO: Entering Employee credentials
+11/23/2022 03:28:36 PM: INFO: wait till login the application
+11/23/2022 03:30:24 PM: INFO: Wait till profile click
+11/23/2022 03:30:24 PM: INFO: Wait till logout click
+11/23/2022 03:30:27 PM: INFO: Validating Test case 20
+11/23/2022 03:30:31 PM: INFO: Employee NH Attendance Verify
+11/23/2022 03:42:42 PM: INFO: Wait till profile click
+11/23/2022 03:42:42 PM: INFO: Wait till logout click
+11/23/2022 03:42:45 PM: INFO: Validating Test case 20
+11/23/2022 03:42:48 PM: INFO: Employee NH Attendance Verify
+11/23/2022 03:50:58 PM: INFO: Wait till profile click
+11/23/2022 03:50:58 PM: INFO: Wait till logout click
+11/23/2022 03:51:01 PM: INFO: Validating Test case 20
+11/23/2022 03:51:05 PM: INFO: Employee NH Attendance Verify
+11/23/2022 03:51:12 PM: INFO: Wait till login page appears
+11/23/2022 03:51:12 PM: INFO: Entering Employee credentials
+11/23/2022 03:51:40 PM: INFO: wait till login the application
+11/23/2022 03:53:41 PM: INFO: Supervisor Map EmployeeShiftTime Verify
+11/23/2022 03:55:57 PM: INFO: Wait till profile click
+11/23/2022 03:55:57 PM: INFO: Wait till logout click
+11/23/2022 03:56:00 PM: INFO: Validating Test case 22
+11/23/2022 03:56:04 PM: INFO: Employee Shift Time Verify
+11/23/2022 03:56:04 PM: INFO: Wait till login page appears
+11/23/2022 03:56:04 PM: INFO: Entering Employee credentials
+11/23/2022 03:56:13 PM: INFO: wait till login the application
+11/23/2022 05:42:03 PM: INFO: ====== WebDriver manager ======
+11/23/2022 05:42:19 PM: INFO: Get LATEST chromedriver version for google-chrome 107.0.5304
+11/23/2022 05:42:27 PM: INFO: Driver [C:\Users\gowthaman.k\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+11/23/2022 05:45:21 PM: INFO: ====== WebDriver manager ======
+11/23/2022 05:45:31 PM: INFO: Get LATEST chromedriver version for google-chrome 107.0.5304
+11/23/2022 05:45:36 PM: INFO: Driver [C:\Users\gowthaman.k\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+11/23/2022 05:46:11 PM: INFO: Validating Test case 1
+11/23/2022 05:46:11 PM: INFO: Employee LOP Attendance Verify
+11/23/2022 05:46:11 PM: INFO: Wait till login page appears
+11/23/2022 05:46:11 PM: INFO: Entering Employee credentials
+11/23/2022 05:46:24 PM: INFO: wait till login the application
+11/23/2022 05:51:47 PM: INFO: ====== WebDriver manager ======
+11/23/2022 05:51:58 PM: INFO: Get LATEST chromedriver version for google-chrome 107.0.5304
+11/23/2022 05:52:04 PM: INFO: Driver [C:\Users\gowthaman.k\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+11/23/2022 05:52:30 PM: INFO: Validating Test case 1
+11/23/2022 05:52:30 PM: INFO: Employee LOP Attendance Verify
+11/23/2022 05:52:30 PM: INFO: Wait till login page appears
+11/23/2022 05:52:30 PM: INFO: Entering Employee credentials
+11/23/2022 05:52:43 PM: INFO: wait till login the application
+11/30/2022 11:56:16 AM: INFO: Validating Test case 1
+11/30/2022 11:56:16 AM: INFO: Employee LOP Attendance Verify
+11/30/2022 11:56:16 AM: INFO: Wait till login page appears
+11/30/2022 11:56:17 AM: INFO: Entering Employee credentials
+11/30/2022 11:56:24 AM: INFO: wait till login the application
+11/30/2022 11:59:11 AM: INFO: Validating Test case 1
+11/30/2022 11:59:11 AM: INFO: Employee LOP Attendance Verify
+11/30/2022 11:59:11 AM: INFO: Wait till login page appears
+11/30/2022 11:59:13 AM: INFO: Entering Employee credentials
+11/30/2022 11:59:21 AM: INFO: wait till login the application
+11/30/2022 12:00:00 PM: INFO: Validating Test case 2
+11/30/2022 12:00:00 PM: INFO: Employee Raise LOP Verify
+11/30/2022 12:02:54 PM: INFO: Wait till profile click
+11/30/2022 12:02:54 PM: INFO: Wait till logout click
+11/30/2022 12:02:58 PM: INFO: Validating Test case 3
+11/30/2022 12:03:02 PM: INFO: Supervisor Approve LOP Request Verify
+11/30/2022 12:03:02 PM: INFO: Wait till login page appears
+11/30/2022 12:03:02 PM: INFO: Entering Employee credentials
+11/30/2022 12:03:24 PM: INFO: wait till login the application
+11/30/2022 12:05:35 PM: INFO: Wait till profile click
+11/30/2022 12:05:35 PM: INFO: Wait till logout click
+11/30/2022 12:05:39 PM: INFO: Validating Test case 4
+11/30/2022 12:05:45 PM: INFO: HR Approve LOP Request Verify
+11/30/2022 12:05:45 PM: INFO: Wait till login page appears
+11/30/2022 12:05:45 PM: INFO: Entering Employee credentials
+11/30/2022 12:06:11 PM: INFO: wait till login the application
+11/30/2022 12:09:03 PM: INFO: Wait till profile click
+11/30/2022 12:09:03 PM: INFO: Wait till logout click
+11/30/2022 12:09:07 PM: INFO: Validating Test case 05
+11/30/2022 12:09:13 PM: INFO: Employee Casual Leave Attendance Report
+11/30/2022 12:09:13 PM: INFO: Wait till login page appears
+11/30/2022 12:09:13 PM: INFO: Entering Employee credentials
+11/30/2022 12:09:18 PM: INFO: wait till login the application
+11/30/2022 12:09:53 PM: INFO: Wait till profile click
+11/30/2022 12:09:53 PM: INFO: Wait till logout click
+11/30/2022 12:09:57 PM: INFO: Validating Test case 06
+11/30/2022 12:10:02 PM: INFO: Employee Casual Leave Attendance Report
+11/30/2022 12:10:02 PM: INFO: Wait till login page appears
+11/30/2022 12:10:02 PM: INFO: Entering Employee credentials
+11/30/2022 12:10:22 PM: INFO: wait till login the application
+11/30/2022 12:47:45 PM: INFO: Validating Test case 2
+11/30/2022 12:47:45 PM: INFO: Mark ULOP for employee Verify
+11/30/2022 12:50:34 PM: INFO: Wait till profile click
+11/30/2022 12:50:34 PM: INFO: Wait till logout click
+11/30/2022 12:50:39 PM: INFO: Validating Test case 8
+11/30/2022 12:50:44 PM: INFO: Employee ULOP Attendance Verify
+11/30/2022 12:50:44 PM: INFO: Wait till login page appears
+11/30/2022 12:50:44 PM: INFO: Entering Employee credentials
+11/30/2022 12:50:48 PM: INFO: wait till login the application
+11/30/2022 12:51:14 PM: INFO: Wait till profile click
+11/30/2022 12:51:14 PM: INFO: Wait till logout click
+11/30/2022 12:51:18 PM: INFO: Validating Test case 9
+11/30/2022 12:51:22 PM: INFO: Supervisor Mark shiftoff Request Verify
+11/30/2022 12:51:22 PM: INFO: Wait till login page appears
+11/30/2022 12:51:22 PM: INFO: Entering Employee credentials
+11/30/2022 12:51:42 PM: INFO: wait till login the application
+11/30/2022 12:53:47 PM: INFO: Wait till profile click
+11/30/2022 12:53:47 PM: INFO: Wait till logout click
+11/30/2022 12:53:51 PM: INFO: Validating Test case 10
+11/30/2022 12:53:57 PM: INFO: HR Approve SHiftoff Request Verify
+11/30/2022 12:53:57 PM: INFO: Wait till login page appears
+11/30/2022 12:53:57 PM: INFO: Entering Employee credentials
+11/30/2022 12:54:22 PM: INFO: wait till login the application
+11/30/2022 12:57:49 PM: INFO: Wait till profile click
+11/30/2022 12:57:49 PM: INFO: Wait till logout click
+11/30/2022 12:57:53 PM: INFO: Validating Test case 10
+11/30/2022 12:57:58 PM: INFO: HR Approve SHiftoff Request Verify
+11/30/2022 12:57:58 PM: INFO: Wait till login page appears
+11/30/2022 12:57:58 PM: INFO: Entering Employee credentials
+11/30/2022 12:58:23 PM: INFO: wait till login the application
+11/30/2022 01:01:16 PM: INFO: Wait till profile click
+11/30/2022 01:01:16 PM: INFO: Wait till logout click
+11/30/2022 01:01:21 PM: INFO: Validating Test case 11
+11/30/2022 01:01:28 PM: INFO: Employee SO Attendance Verify
+11/30/2022 01:01:28 PM: INFO: Wait till login page appears
+11/30/2022 01:01:28 PM: INFO: Entering Employee credentials
+11/30/2022 01:01:33 PM: INFO: wait till login the application
+11/30/2022 01:02:19 PM: INFO: Wait till profile click
+11/30/2022 01:02:19 PM: INFO: Wait till logout click
+11/30/2022 01:02:22 PM: INFO: Validating Test case 12
+11/30/2022 01:02:26 PM: INFO: Supervisor ULOP Dashboard Verify
+11/30/2022 01:02:26 PM: INFO: Wait till login page appears
+11/30/2022 01:02:26 PM: INFO: Entering Employee credentials
+11/30/2022 01:02:48 PM: INFO: wait till login the application
+11/30/2022 01:04:18 PM: INFO: Wait till profile click
+11/30/2022 01:04:18 PM: INFO: Wait till logout click
+11/30/2022 01:04:22 PM: INFO: Validating Test case 13
+11/30/2022 01:04:22 PM: INFO: Supervisor Extension work plan Verify
+11/30/2022 01:04:27 PM: INFO: Wait till login page appears
+11/30/2022 01:04:27 PM: INFO: Entering Employee credentials
+11/30/2022 01:04:53 PM: INFO: wait till login the application
+11/30/2022 01:12:07 PM: INFO: Supervisor Approve Extension work plan Request Verify
+11/30/2022 01:13:05 PM: INFO: Validating Test case 15
+11/30/2022 01:13:05 PM: INFO: Supervisor Extension Entry Verify
+11/30/2022 01:14:53 PM: INFO: Supervisor Approve Extension work plan Request Verify
+11/30/2022 01:15:46 PM: INFO: Wait till profile click
+11/30/2022 01:15:46 PM: INFO: Wait till logout click
+11/30/2022 01:15:50 PM: INFO: Validating Test case 19
+11/30/2022 01:15:55 PM: INFO: Supervisor Attendance Freezing Date Verify
+11/30/2022 01:15:55 PM: INFO: Wait till login page appears
+11/30/2022 01:15:55 PM: INFO: Entering Employee credentials
+11/30/2022 01:16:19 PM: INFO: wait till login the application
+11/30/2022 01:45:43 PM: INFO: Wait till profile click
+11/30/2022 01:45:43 PM: INFO: Wait till logout click
+11/30/2022 01:45:48 PM: INFO: Validating Test case 19
+11/30/2022 01:45:53 PM: INFO: Supervisor Attendance Freezing Date Verify
+11/30/2022 01:45:53 PM: INFO: Wait till login page appears
+11/30/2022 01:45:53 PM: INFO: Entering Employee credentials
+11/30/2022 01:46:20 PM: INFO: wait till login the application
+11/30/2022 01:50:52 PM: INFO: Wait till profile click
+11/30/2022 01:50:52 PM: INFO: Wait till logout click
+11/30/2022 01:50:56 PM: INFO: Validating Test case 11
+11/30/2022 01:51:02 PM: INFO: Employee Attendance Freezing Date Verify
+11/30/2022 01:51:02 PM: INFO: Wait till login page appears
+11/30/2022 01:51:02 PM: INFO: Entering Employee credentials
+11/30/2022 01:51:08 PM: INFO: wait till login the application
+11/30/2022 01:52:17 PM: INFO: Wait till profile click
+11/30/2022 01:52:18 PM: INFO: Wait till logout click
+11/30/2022 01:52:21 PM: INFO: Validating Test case 19
+11/30/2022 01:52:26 PM: INFO: Supervisor National Holiday Entry Verify
+11/30/2022 01:52:26 PM: INFO: Wait till login page appears
+11/30/2022 01:52:26 PM: INFO: Entering Employee credentials
+11/30/2022 01:52:49 PM: INFO: wait till login the application
+11/30/2022 01:54:43 PM: INFO: Wait till profile click
+11/30/2022 01:54:43 PM: INFO: Wait till logout click
+11/30/2022 01:54:47 PM: INFO: Validating Test case 20
+11/30/2022 01:54:53 PM: INFO: Employee NH Attendance Verify
+11/30/2022 01:54:56 PM: INFO: Wait till login page appears
+11/30/2022 01:54:56 PM: INFO: Entering Employee credentials
+11/30/2022 01:55:16 PM: INFO: wait till login the application
+11/30/2022 01:56:48 PM: INFO: Supervisor Map EmployeeShiftTime Verify
+11/30/2022 02:10:34 PM: INFO: Supervisor Map EmployeeShiftTime Verify
+11/30/2022 02:22:41 PM: INFO: Supervisor Map EmployeeShiftTime Verify
+11/30/2022 02:28:03 PM: INFO: Supervisor Map EmployeeShiftTime Verify
+11/30/2022 02:30:15 PM: INFO: Wait till profile click
+11/30/2022 02:30:15 PM: INFO: Wait till logout click
+11/30/2022 02:30:19 PM: INFO: Validating Test case 22
+11/30/2022 02:30:23 PM: INFO: Employee Shift Time Verify
+11/30/2022 02:30:23 PM: INFO: Wait till login page appears
+11/30/2022 02:30:23 PM: INFO: Entering Employee credentials
+11/30/2022 02:30:28 PM: INFO: wait till login the application
+12/02/2022 01:13:02 PM: INFO: ====== WebDriver manager ======
+12/02/2022 01:13:20 PM: INFO: Get LATEST chromedriver version for google-chrome 107.0.5304
+12/02/2022 01:13:26 PM: INFO: Driver [C:\Users\gowthaman.k\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+12/02/2022 01:22:40 PM: INFO: ====== WebDriver manager ======
+12/02/2022 01:22:54 PM: INFO: Get LATEST chromedriver version for google-chrome 107.0.5304
+12/02/2022 01:47:18 PM: INFO: ====== WebDriver manager ======
+12/02/2022 01:47:33 PM: INFO: Get LATEST chromedriver version for google-chrome 107.0.5304
+12/02/2022 01:47:40 PM: INFO: Driver [C:\Users\gowthaman.k\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+12/02/2022 01:48:20 PM: INFO: Validating Test case 1
+12/02/2022 01:48:20 PM: INFO: Employee LOP Attendance Verify
+12/02/2022 01:48:20 PM: INFO: Wait till login page appears
+12/02/2022 01:48:20 PM: INFO: Entering Employee credentials
+12/02/2022 01:48:32 PM: INFO: wait till login the application
+12/02/2022 01:55:05 PM: INFO: ====== WebDriver manager ======
+12/02/2022 01:55:20 PM: INFO: Get LATEST chromedriver version for google-chrome 107.0.5304
+12/02/2022 01:55:27 PM: INFO: Driver [C:\Users\gowthaman.k\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+12/02/2022 01:55:53 PM: INFO: Validating Test case 1
+12/02/2022 01:55:53 PM: INFO: Employee LOP Attendance Verify
+12/02/2022 01:55:53 PM: INFO: Wait till login page appears
+12/02/2022 01:55:53 PM: INFO: Entering Employee credentials
+12/02/2022 01:56:01 PM: INFO: wait till login the application
+12/02/2022 01:59:33 PM: INFO: ====== WebDriver manager ======
+12/02/2022 01:59:49 PM: INFO: Get LATEST chromedriver version for google-chrome 107.0.5304
+12/02/2022 01:59:55 PM: INFO: Driver [C:\Users\gowthaman.k\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+12/02/2022 02:00:31 PM: INFO: Validating Test case 1
+12/02/2022 02:00:31 PM: INFO: Employee LOP Attendance Verify
+12/02/2022 02:00:31 PM: INFO: Wait till login page appears
+12/02/2022 02:00:31 PM: INFO: Entering Employee credentials
+12/02/2022 02:00:41 PM: INFO: wait till login the application
+12/02/2022 02:06:23 PM: INFO: ====== WebDriver manager ======
+12/02/2022 02:06:38 PM: INFO: Get LATEST chromedriver version for google-chrome 107.0.5304
+12/02/2022 02:06:45 PM: INFO: Driver [C:\Users\gowthaman.k\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+12/02/2022 02:07:09 PM: INFO: Validating Test case 1
+12/02/2022 02:07:09 PM: INFO: Employee LOP Attendance Verify
+12/02/2022 02:07:09 PM: INFO: Wait till login page appears
+12/02/2022 02:07:09 PM: INFO: Entering Employee credentials
+12/02/2022 02:07:14 PM: INFO: wait till login the application
+12/02/2022 02:11:35 PM: INFO: ====== WebDriver manager ======
+12/02/2022 02:11:57 PM: INFO: Get LATEST chromedriver version for google-chrome 107.0.5304
+12/02/2022 02:12:04 PM: INFO: Driver [C:\Users\gowthaman.k\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+12/02/2022 02:12:30 PM: INFO: Validating Test case 1
+12/02/2022 02:12:30 PM: INFO: Employee LOP Attendance Verify
+12/02/2022 02:12:30 PM: INFO: Wait till login page appears
+12/02/2022 02:12:30 PM: INFO: Entering Employee credentials
+12/02/2022 02:12:36 PM: INFO: wait till login the application
+12/02/2022 02:17:39 PM: INFO: ====== WebDriver manager ======
+12/02/2022 02:18:00 PM: INFO: Get LATEST chromedriver version for google-chrome 107.0.5304
+12/02/2022 02:18:09 PM: INFO: Driver [C:\Users\gowthaman.k\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+12/02/2022 02:18:41 PM: INFO: Validating Test case 1
+12/02/2022 02:18:41 PM: INFO: Employee LOP Attendance Verify
+12/02/2022 02:18:41 PM: INFO: Wait till login page appears
+12/02/2022 02:18:41 PM: INFO: Entering Employee credentials
+12/02/2022 02:18:58 PM: INFO: wait till login the application
+12/05/2022 09:13:29 PM: INFO: ====== WebDriver manager ======
+12/05/2022 09:13:31 PM: INFO: Get LATEST geckodriver version for 99.0 firefox
+12/05/2022 09:13:35 PM: INFO: There is no [win64] geckodriver for browser 99.0 in cache
+12/05/2022 09:13:36 PM: INFO: Get LATEST geckodriver version for 99.0 firefox
+12/05/2022 09:13:38 PM: INFO: Getting latest mozilla release info for 99.0
+12/05/2022 09:13:40 PM: INFO: Get LATEST geckodriver version for 99.0 firefox

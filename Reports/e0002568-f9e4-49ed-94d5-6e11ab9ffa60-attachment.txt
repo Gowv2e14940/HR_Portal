@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_Leavemanagement.py:350 Validating Test case 26
+[32mINFO    [0m root:test_Leavemanagement.py:351 Employee Flexi Leave Attendance Report

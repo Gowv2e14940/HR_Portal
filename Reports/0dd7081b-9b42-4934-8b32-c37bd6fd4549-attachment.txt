@@ -1,0 +1,4 @@
+[32mINFO    [0m root:test_Leavemanagement.py:248 Validating Test case 12
+[32mINFO    [0m root:test_Leavemanagement.py:249 Supervisor WFH request Approve
+[32mINFO    [0m root:Supervisor.py:91 Employee Leave Management Menu clicks 
+[32mINFO    [0m root:Supervisor.py:96 wait until Request Leave clicks

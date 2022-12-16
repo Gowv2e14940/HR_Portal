@@ -1,0 +1,10 @@
+[32mINFO    [0m root:test_Leavemanagement.py:97 Validating Test case 3
+[32mINFO    [0m root:test_Leavemanagement.py:98 Employee Flexi Leave Apply
+[32mINFO    [0m root:Employee.py:47 Employee Leave Management Menu clicks 
+[32mINFO    [0m root:Employee.py:52 wait until Request Leave clicks
+[32mINFO    [0m root:Employee.py:62 wait until Request Leave form appears
+[32mINFO    [0m root:Employee.py:64 Request Leave From date clicks
+[32mINFO    [0m root:Employee.py:66 wait untill From date calendar appears
+[32mINFO    [0m root:Employee.py:75 select leave type casual
+[32mINFO    [0m root:Employee.py:141 wait untill To date calendar appears
+[32mINFO    [0m root:Employee.py:75 select leave type casual
