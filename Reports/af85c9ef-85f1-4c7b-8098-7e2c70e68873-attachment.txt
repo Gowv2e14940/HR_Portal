@@ -1,4 +1,0 @@
-[32mINFO    [0m root:test_Leavemanagement.py:238 Validating Test case 16
-[32mINFO    [0m root:test_Leavemanagement.py:239 Supervisor Permission Request Approve
-[32mINFO    [0m root:Supervisor.py:71 Employee Leave Management Menu clicks 
-[32mINFO    [0m root:Supervisor.py:76 wait until Request Leave clicks

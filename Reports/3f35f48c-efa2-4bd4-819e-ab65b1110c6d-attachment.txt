@@ -1,7 +1,0 @@
-[32mINFO    [0m root:Employee.py:31 Wait till profile click
-[32mINFO    [0m root:Employee.py:34 Wait till logout click
-[32mINFO    [0m root:test_Leavemanagement.py:259 Validating Test case 18
-[32mINFO    [0m root:test_Leavemanagement.py:261 Employee Casual Leave status
-[32mINFO    [0m root:Employee.py:20 Wait till login page appears
-[32mINFO    [0m root:Employee.py:22 Entering Employee credentials
-[32mINFO    [0m root:Employee.py:40 wait till login the application

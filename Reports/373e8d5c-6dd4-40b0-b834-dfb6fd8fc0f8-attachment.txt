@@ -1,2 +1,0 @@
-[32mINFO    [0m root:test_Leavemanagement.py:391 Validating Test case 29
-[32mINFO    [0m root:test_Leavemanagement.py:392 Supervisor View Team Leave Details Earned Leave

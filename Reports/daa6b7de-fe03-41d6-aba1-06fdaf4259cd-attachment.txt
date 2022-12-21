@@ -1,2 +1,0 @@
-[32mINFO    [0m root:test_Leavemanagement.py:139 Validating Test case 7
-[32mINFO    [0m root:test_Leavemanagement.py:140 Employee Casual Leave Applied Validation

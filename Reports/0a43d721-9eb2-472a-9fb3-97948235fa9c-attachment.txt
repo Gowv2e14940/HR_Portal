@@ -1,9 +1,0 @@
-[32mINFO    [0m root:Employee.py:31 Wait till profile click
-[32mINFO    [0m root:Employee.py:34 Wait till logout click
-[32mINFO    [0m root:test_Leavemanagement.py:374 Validating Test case 28
-[32mINFO    [0m root:test_Leavemanagement.py:376 Supervisor View Team Leave Details Casual Leave
-[32mINFO    [0m root:Supervisor.py:22 Wait till login page appears
-[32mINFO    [0m root:Supervisor.py:24 Entering Supervisor credentials
-[32mINFO    [0m root:Employee.py:40 wait till login the application
-[32mINFO    [0m root:Supervisor.py:117 Employee Leave Management Menu clicks 
-[32mINFO    [0m root:Supervisor.py:120 wait until Request Leave clicks

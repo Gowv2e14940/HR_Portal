@@ -1,2 +1,0 @@
-[32mINFO    [0m root:test_Leavemanagement.py:171 Validating Test case 10
-[32mINFO    [0m root:test_Leavemanagement.py:172 Employee Compoff Leave Applied Validation

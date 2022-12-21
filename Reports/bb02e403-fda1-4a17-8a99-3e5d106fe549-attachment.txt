@@ -1,2 +1,0 @@
-[32mINFO    [0m root:test_Leavemanagement.py:324 Validating Test case 24
-[32mINFO    [0m root:test_Leavemanagement.py:326 Employee Casual Leave Attendance Report

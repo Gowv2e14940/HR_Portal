@@ -1,2 +1,0 @@
-[32mINFO    [0m root:test_Leavemanagement.py:313 Validating Test case 23
-[32mINFO    [0m root:test_Leavemanagement.py:314 Employee WFH status

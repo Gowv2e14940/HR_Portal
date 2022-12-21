@@ -1,2 +1,0 @@
-[32mINFO    [0m root:test_Leavemanagement.py:362 Validating Test case 27
-[32mINFO    [0m root:test_Leavemanagement.py:363 Employee Compoff Attendance Report

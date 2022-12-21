@@ -1,2 +1,0 @@
-[32mINFO    [0m root:test_Leavemanagement.py:283 Validating Test case 20
-[32mINFO    [0m root:test_Leavemanagement.py:284 Employee Flexi Leave status

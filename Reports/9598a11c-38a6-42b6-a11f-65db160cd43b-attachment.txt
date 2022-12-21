@@ -1,6 +1,0 @@
-[32mINFO    [0m root:test_Leavemanagement.py:117 Validating Test case 5
-[32mINFO    [0m root:test_Leavemanagement.py:118 Employee Permission Request Apply
-[32mINFO    [0m root:Employee.py:157 Employee Leave Management Menu clicks 
-[32mINFO    [0m root:Employee.py:161 wait until Request Permission clicks
-[32mINFO    [0m root:Employee.py:164 wait until Request Permission form appears
-[32mINFO    [0m root:Employee.py:166 Request permission date clicks
